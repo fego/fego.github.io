@@ -90,8 +90,8 @@
 <body>
 <div class="container-fluid">
 	<div class="row titre marge20">
-		<div class="col-sm-11 text-center">SMS</div>
-		<div class="col-sm-1"><span class="glyphicon glyphicon-edit" aria-hidden="true" data-toggle="modal" data-target="#myModal"></span></div>
+		<div class="col-sm-10 text-center">SMS</div>
+		<div class="col-sm-2"><span class="glyphicon glyphicon-edit" aria-hidden="true" data-toggle="modal" data-target="#myModal"></span></div>
 	</div>
 	<div class="row">
 		<div class="col col-sm-12">
@@ -137,27 +137,27 @@
 	<div class="row marge20">
 		<div class="text-center">Un jeu de Laurent Escoffier et David Franck édité par In Ludo Veritas</div>
 	</div>
-	<!-- MODAL -->
-	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-	  <div class="modal-dialog" role="document">
-		<div class="modal-content">
-		  <div class="modal-header">
-			<!--<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>-->
-			<h4 class="modal-title" id="myModalLabel">Saisie du SMS</h4>
-		  </div>
-		  <div class="modal-body">
-			<div class="row">
-				<div class="col-sm-11"><input id="smsSaisi" type="text" class="form-control" placeholder="SMS" aria-describedby="basic-addon1" maxlength="18"></div>
-				<div class="col-sm-1 effacer"><span class="glyphicon glyphicon-remove" aria-hidden="true" onclick="$('#smsSaisi').val('');"></span></div>
-			</div>
-		  </div>
-		  <div class="modal-footer">
-			<button type="button" class="btn btn-default" data-dismiss="modal">Annuler</button>
-			<button type="button" class="btn btn-primary" onclick="majSms()">Valider</button>
-		  </div>
+</div>
+<!-- MODAL -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+	<div class="modal-content">
+	  <div class="modal-header">
+		<!--<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>-->
+		<h4 class="modal-title" id="myModalLabel">Saisie du SMS</h4>
+	  </div>
+	  <div class="modal-body">
+		<div class="row">
+			<div class="col-sm-11"><input id="smsSaisi" type="text" class="form-control" placeholder="SMS" aria-describedby="basic-addon1" maxlength="18"></div>
+			<div class="col-sm-1 effacer"><span class="glyphicon glyphicon-remove" aria-hidden="true" onclick="$('#smsSaisi').val('');"></span></div>
 		</div>
 	  </div>
+	  <div class="modal-footer">
+		<button type="button" class="btn btn-default" data-dismiss="modal">Annuler</button>
+		<button type="button" class="btn btn-primary" onclick="majSms()">Valider</button>
+	  </div>
 	</div>
+  </div>
 </div>
 </body>
 </html>
