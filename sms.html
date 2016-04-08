@@ -1,0 +1,150 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+	
+	<script>
+		function majSms(){
+			var sms = $('#smsSaisi').val();
+			$('.lettre').each(function(index ){
+				console.log(index);
+				if(index < sms.length) {
+					var lettre = sms[index];
+					if(lettre == ' '){
+						$(this).html('&nbsp;')
+					} else {
+						$(this).html(lettre);
+					}
+				} else {
+					$(this).html('&nbsp;')
+				}
+			});
+			$('#myModal').modal('hide')
+		}
+		
+		function updateScore(span){
+			var spanTag = $(span);
+			if(spanTag.html() == 'O') {
+				spanTag.html('Ø');
+			} else {
+				spanTag.html('O');
+			}
+		}
+	</script>
+	
+	<style>
+		.score {
+			padding-top: 10px;
+			padding-left: 20px;
+			font-size:20px;
+		}
+		
+		.scoreItem {
+			cursor: pointer;
+		}
+	
+		.sms {
+			margin-top: 20px;
+			font-family: "Lucida Console", Courier, monospace;
+		}
+		
+		.table {
+			border-collapse:separate; 
+			border-spacing:1em;
+		}
+		
+		.table>tbody>tr>td {
+			border: 1px solid #000;
+		}
+		
+		.lettre {
+			font-size:80px;
+		}
+		
+		.numeroCellule {
+			font-size:10px;
+		}
+		
+		.effacer {
+			padding-top:7px;
+		}
+	</style>
+</head>
+<body>
+<div class="container-fluid">
+	<div class="row score">
+		<div class="col col-sm-11">
+			<span class="scoreItem" onclick="updateScore(this);">O</span>
+			<span class="scoreItem" onclick="updateScore(this);">O</span>
+			<span class="scoreItem" onclick="updateScore(this);">O</span>
+			<span class="scoreItem" onclick="updateScore(this);">O</span>
+			<span class="scoreItem" onclick="updateScore(this);">O</span>
+			<span class="scoreItem" onclick="updateScore(this);">O</span>
+			<span class="scoreItem" onclick="updateScore(this);">O</span>
+		</div>
+		<div col="col col-sm-1"><span class="glyphicon glyphicon-edit" aria-hidden="true" data-toggle="modal" data-target="#myModal"></span></div>
+	</div>
+	<div class="row">
+		<div class="col col-sm-12">
+			<table class="table sms">
+				<tbody>
+					<tr id="ligne1" class="text-center">
+						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">1</div></td>
+						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">2</div></td>
+						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">3</div></td>
+						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">4</div></td>
+						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">5</div></td>
+						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">6</div></td>
+						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">7</div></td>
+						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">8</div></td>
+						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">9</div></td>
+					</tr>
+					<tr id="ligne2" class="text-center">
+						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">10</div></td>
+						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">11</div></td>
+						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">12</div></td>
+						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">13</div></td>
+						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">14</div></td>
+						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">15</div></td>
+						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">16</div></td>
+						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">17</div></td>
+						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">18</div></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+	<!-- MODAL -->
+	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	  <div class="modal-dialog" role="document">
+		<div class="modal-content">
+		  <div class="modal-header">
+			<!--<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>-->
+			<h4 class="modal-title" id="myModalLabel">Saisie du SMS</h4>
+		  </div>
+		  <div class="modal-body">
+			<div class="row">
+				<div class="col-sm-11"><input id="smsSaisi" type="text" class="form-control" placeholder="SMS" aria-describedby="basic-addon1" maxlength="18"></div>
+				<div class="col-sm-1 effacer"><span class="glyphicon glyphicon-remove" aria-hidden="true" onclick="$('#smsSaisi').val('');"></span></div>
+			</div>
+		  </div>
+		  <div class="modal-footer">
+			<button type="button" class="btn btn-default" data-dismiss="modal">Annuler</button>
+			<button type="button" class="btn btn-primary" onclick="majSms()">Valider</button>
+		  </div>
+		</div>
+	  </div>
+	</div>
+</div>
+</body>
+</html>
