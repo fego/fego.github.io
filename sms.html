@@ -14,30 +14,6 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 	
 	<script>
-		function toggleFullScreen() {
-		  if (!document.fullscreenElement &&    // alternative standard method
-			  !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement ) {  // current working methods
-			if (document.documentElement.requestFullscreen) {
-			  document.documentElement.requestFullscreen();
-			} else if (document.documentElement.msRequestFullscreen) {
-			  document.documentElement.msRequestFullscreen();
-			} else if (document.documentElement.mozRequestFullScreen) {
-			  document.documentElement.mozRequestFullScreen();
-			} else if (document.documentElement.webkitRequestFullscreen) {
-			  document.documentElement.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
-			}
-		  } else {
-			if (document.exitFullscreen) {
-			  document.exitFullscreen();
-			} else if (document.msExitFullscreen) {
-			  document.msExitFullscreen();
-			} else if (document.mozCancelFullScreen) {
-			  document.mozCancelFullScreen();
-			} else if (document.webkitExitFullscreen) {
-			  document.webkitExitFullscreen();
-			}
-		  }
-		}
 		
 		function majSms(){
 			var sms = $('#smsSaisi').val();
@@ -65,15 +41,17 @@
 				spanTag.html('O');
 			}
 		}
-		
-		$(function() {
-			toggleFullScreen();
-		});
 	</script>
 	
 	<style>
+		.marge20 {
+			margin-top: 20px;
+		}
+		
+		.titre {
+			font-size:20px;
+		}
 		.score {
-			padding-top: 10px;
 			padding-left: 20px;
 			font-size:20px;
 		}
@@ -83,7 +61,6 @@
 		}
 	
 		.sms {
-			margin-top: 20px;
 			font-family: "Lucida Console", Courier, monospace;
 		}
 		
@@ -111,21 +88,13 @@
 </head>
 <body>
 <div class="container-fluid">
-	<div class="row score">
-		<div class="col col-sm-11">
-			<span class="scoreItem" onclick="updateScore(this);">O</span>
-			<span class="scoreItem" onclick="updateScore(this);">O</span>
-			<span class="scoreItem" onclick="updateScore(this);">O</span>
-			<span class="scoreItem" onclick="updateScore(this);">O</span>
-			<span class="scoreItem" onclick="updateScore(this);">O</span>
-			<span class="scoreItem" onclick="updateScore(this);">O</span>
-			<span class="scoreItem" onclick="updateScore(this);">O</span>
-		</div>
-		<div col="col col-sm-1"><span class="glyphicon glyphicon-edit" aria-hidden="true" data-toggle="modal" data-target="#myModal"></span></div>
+	<div class="row titre marge20">
+		<div class="col-sm-11 text-center">SMS</div>
+		<div class="col-sm-1"><span class="glyphicon glyphicon-edit" aria-hidden="true" data-toggle="modal" data-target="#myModal"></span></div>
 	</div>
 	<div class="row">
 		<div class="col col-sm-12">
-			<table class="table sms">
+			<table class="table sms marge20">
 				<tbody>
 					<tr id="ligne1" class="text-center">
 						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">1</div></td>
@@ -153,7 +122,20 @@
 			</table>
 		</div>
 	</div>
-	<div style="height:100%"></div>
+	<div class="row score marge20">
+		<div class="col col-sm-12 text-center">
+			<span class="scoreItem" onclick="updateScore(this);">O</span>
+			<span class="scoreItem" onclick="updateScore(this);">O</span>
+			<span class="scoreItem" onclick="updateScore(this);">O</span>
+			<span class="scoreItem" onclick="updateScore(this);">O</span>
+			<span class="scoreItem" onclick="updateScore(this);">O</span>
+			<span class="scoreItem" onclick="updateScore(this);">O</span>
+			<span class="scoreItem" onclick="updateScore(this);">O</span>
+		</div>
+	</div>
+	<div class="row marge20">
+		<div class="text-center">Un jeu de Laurent Escoffier et David Franck édité par In Ludo Veritas</div>
+	</div>
 	<!-- MODAL -->
 	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 	  <div class="modal-dialog" role="document">
