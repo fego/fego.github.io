@@ -49,7 +49,7 @@
 		}
 		
 		.titre {
-			font-size:80px;
+			font-size:7em;
 		}
 		.score {
 			padding-left: 20px;
@@ -57,7 +57,7 @@
 		
 		.scoreItem {
 			cursor: pointer;
-			font-size:70px;
+			font-size:7em;
 			padding-right:20px;
 		}
 	
@@ -79,7 +79,7 @@
 		}
 		
 		.numeroCellule {
-			font-size:10px;
+			font-size:0.5em;
 		}
 		
 		.effacer {
@@ -89,6 +89,7 @@
 			position: relative;
 			width: auto;
 			margin: 10px;
+			font-size:4em;
 		}
 	</style>
 </head>
@@ -142,6 +143,9 @@
 	<div class="row marge20">
 		<div class="text-center">Un jeu de Laurent Escoffier et David Franck édité par In Ludo Veritas</div>
 	</div>
+	<div class="form-group">
+		<input type="text" class="form-control input-sm" placeholder="SMS" aria-describedby="basic-addon1" maxlength="18">
+	</div>
 </div>
 <!-- MODAL -->
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -152,9 +156,9 @@
 		<h4 class="modal-title" id="myModalLabel">Saisie du SMS</h4>
 	  </div>
 	  <div class="modal-body">
-		<div class="row">
-			<div class="col-sm-11"><input id="smsSaisi" type="text" class="form-control" placeholder="SMS" aria-describedby="basic-addon1" maxlength="18"></div>
-			<div class="col-sm-1 effacer"><span class="glyphicon glyphicon-remove" aria-hidden="true" onclick="$('#smsSaisi').val('');"></span></div>
+		<div class="form-group">
+			<input id="smsSaisi" type="text" class="form-control input-sm" placeholder="SMS" aria-describedby="basic-addon1" maxlength="18">
+			<span class="glyphicon glyphicon-remove" aria-hidden="true" onclick="$('#smsSaisi').val('');"></span>
 		</div>
 	  </div>
 	  <div class="modal-footer">
