@@ -1,6 +1,8 @@
 <html>
 <head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
@@ -49,25 +51,27 @@
 		}
 		
 		.titre {
-			font-size:7em;
+			font-size:5em;
 		}
+		
+		#showPopup {
+			font-size:0.8em;
+		}
+		
 		.score {
 			padding-left: 20px;
 		}
 		
 		.scoreItem {
 			cursor: pointer;
-			font-size:7em;
+			font-size:5em;
 			padding-right:20px;
-		}
-	
-		.sms {
-			font-family: "Lucida Console", Courier, monospace;
 		}
 		
 		.table {
 			border-collapse:separate; 
 			border-spacing:1em;
+			font-family: "Lucida Console", Courier, monospace;
 		}
 		
 		.table>tbody>tr>td {
@@ -75,7 +79,7 @@
 		}
 		
 		.lettre {
-			font-size:80px;
+			font-size:2em;
 		}
 		
 		.numeroCellule {
@@ -91,17 +95,21 @@
 			margin: 10px;
 			font-size:4em;
 		}
+		
+		#smsSaisi {
+			height:90px;
+			font-size:1em;
+		}
 	</style>
 </head>
 <body>
 <div class="container-fluid">
 	<div class="row titre marge20">
-		<div class="col-sm-10 text-center">SMS</div>
-		<div class="col-sm-2"><span class="glyphicon glyphicon-edit" aria-hidden="true" data-toggle="modal" data-target="#myModal"></span></div>
+		<div class="col-sm-12">SMS <span id="showPopup" class="glyphicon glyphicon-edit" aria-hidden="true" data-toggle="modal" data-target="#myModal"></span></div>
 	</div>
 	<div class="row">
 		<div class="col col-sm-12">
-			<table class="table sms marge20">
+			<table class="table table-responsive marge20">
 				<tbody>
 					<tr id="ligne1" class="text-center">
 						<td><div class="lettre">&nbsp;</div><div class="numeroCellule text-right">1</div></td>
@@ -143,9 +151,6 @@
 	<div class="row marge20">
 		<div class="text-center">Un jeu de Laurent Escoffier et David Franck édité par In Ludo Veritas</div>
 	</div>
-	<div class="form-group">
-		<input type="text" class="form-control input-sm" placeholder="SMS" aria-describedby="basic-addon1" maxlength="18">
-	</div>
 </div>
 <!-- MODAL -->
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -158,12 +163,12 @@
 	  <div class="modal-body">
 		<div class="form-group">
 			<input id="smsSaisi" type="text" class="form-control input-sm" placeholder="SMS" aria-describedby="basic-addon1" maxlength="18">
-			<span class="glyphicon glyphicon-remove" aria-hidden="true" onclick="$('#smsSaisi').val('');"></span>
 		</div>
 	  </div>
 	  <div class="modal-footer">
 		<button type="button" class="btn btn-default" data-dismiss="modal">Annuler</button>
-		<button type="button" class="btn btn-primary" onclick="majSms()">Valider</button>
+		<button type="button" class="btn btn-default" onclick="$('#smsSaisi').val('');">Effacer</button>
+		<button type="button" class="btn btn-primary" onclick="majSms();">Valider</button>
 	  </div>
 	</div>
   </div>
