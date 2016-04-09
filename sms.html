@@ -32,7 +32,7 @@
 					$(this).html('&nbsp;')
 				}
 			});
-			$('#myModal').modal('hide')
+			$('#blockSaisie').addClass('hidden');
 		}
 		
 		function updateScore(span){
@@ -100,7 +100,17 @@
 <body>
 <div class="container">
 	<div class="row titre marge20">
-		<div class="col-sm-12">SMS <span id="showPopup" class="glyphicon glyphicon-edit" aria-hidden="true" data-toggle="modal" data-target="#myModal"></span></div>
+		<div class="col-sm-12">SMS <span id="showPopup" class="glyphicon glyphicon-edit" aria-hidden="true" onclick="$('#blockSaisie').removeClass('hidden');"></span></div>
+	</div>
+	<div id="blockSaisie" class="row hidden">
+		<div class="form-group">
+			<input id="smsSaisi" type="text" class="form-control input-sm" placeholder="SMS" aria-describedby="basic-addon1" maxlength="18">
+		</div>
+	  <div class="row">
+		<button type="button" class="btn btn-default" onclick="$('#blockSaisie').addClass('hidden');">Annuler</button>
+		<button type="button" class="btn btn-default" onclick="$('#smsSaisi').val('');$('#blockSaisie').removeClass('hidden');">Effacer</button>
+		<button type="button" class="btn btn-primary" onclick="majSms();">Valider</button>
+	  </div>
 	</div>
 	<div class="row">
 			<table class="table table-responsive marge20">
