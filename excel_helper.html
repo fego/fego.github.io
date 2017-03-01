@@ -17,7 +17,7 @@
 				var valeurLettre = lettres.charCodeAt(i) - 65;
 				var aAjouter = 0;
 				if(i > 0) {
-					total += 26 * (valeurLettre + 1 ) * i;
+					total += Math.pow(26 * (valeurLettre + 1 ), i);
 				} else {
 					total += valeurLettre;
 				}
