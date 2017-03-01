@@ -1,0 +1,30 @@
+<html>
+<head>
+	<meta charset="UTF-8"> 
+	<script>
+		function calculerLettres() {
+			var lettres = document.getElementById('lettres').value.toUpperCase();
+			lettres = reverse(lettres);
+			var total = 0;
+			for(var i = 0; i < lettres.length; i++) {
+				var valeurLettre = lettres.charCodeAt(i) - 65;
+				var aAjouter = 0;
+				if(i > 0) {
+					total += 26 * (valeurLettre + 1 ) * i;
+				} else {
+					total += valeurLettre;
+				}
+			}
+			document.getElementById('resultatLettres').innerHTML= total;
+		}
+
+		function reverse(s){
+		    return s.split("").reverse().join("");
+		}
+	</script>
+</head>
+<body>
+<p>Indiquer les lettres des colonnes excel : (exemple AZ) </p>
+<p>Lettres : <input type="text" id="lettres"><button onclick="calculerLettres()" type="button">Calculer</button> Résultat : <span id="resultatLettres"></span></p>
+</body>
+</html>
