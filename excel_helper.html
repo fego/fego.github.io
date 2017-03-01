@@ -2,8 +2,15 @@
 <head>
 	<meta charset="UTF-8"> 
 	<script>
+
 		function calculerLettres() {
-			var lettres = document.getElementById('lettres').value.toUpperCase();
+			var lettres = document.getElementById('lettres').value;
+			if(!lettres){
+				//console.log("aucune lettre saisie");
+				return;
+			}
+			lettres = lettres.toUpperCase();
+			//console.log('saisie : ' + lettres);
 			lettres = reverse(lettres);
 			var total = 0;
 			for(var i = 0; i < lettres.length; i++) {
@@ -25,6 +32,11 @@
 </head>
 <body>
 <p>Indiquer les lettres des colonnes excel : (exemple AZ) </p>
-<p>Lettres : <input type="text" id="lettres"><button onclick="calculerLettres()" type="button">Calculer</button> Résultat : <span id="resultatLettres"></span></p>
+<p>Lettres : <input type="text" id="lettres"> Résultat : <span id="resultatLettres"></span></p>
+<script>
+	document.getElementById('lettres').addEventListener('keyup', function (e) {
+	      calculerLettres();
+	});
+</script>
 </body>
 </html>
