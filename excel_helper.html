@@ -17,7 +17,7 @@
 				var valeurLettre = lettres.charCodeAt(i) - 65;
 				var aAjouter = 0;
 				if(i > 0) {
-					total += Math.pow(26 * (valeurLettre + 1 ), i);
+					total += Math.pow(26, i) * (valeurLettre + 1 );
 				} else {
 					total += valeurLettre;
 				}
@@ -28,14 +28,31 @@
 		function reverse(s){
 		    return s.split("").reverse().join("");
 		}
+
+		function calculerChiffres(){
+			var reste = document.getElementById('chiffres').value;
+			calculerChiffresPourReste(reste, 0);
+		}
+
+		function calculerChiffresPourReste(reste, puissance) {
+			console.log('reste ' + reste + ' puissance ' + puissance);
+			
+		}
 	</script>
 </head>
 <body>
 <p>Indiquer les lettres des colonnes excel : (exemple AZ) </p>
 <p>Lettres : <input type="text" id="lettres"> Résultat : <span id="resultatLettres"></span></p>
+
+<p>Indiquer les chiffres des colonnes excel : (exemple 52) </p>
+<p>Lettres : <input type="text" id="chiffres"> Résultat : <span id="resultatChiffres"></span></p>
+
 <script>
 	document.getElementById('lettres').addEventListener('keyup', function (e) {
 	      calculerLettres();
+	});
+	document.getElementById('chiffres').addEventListener('keyup', function (e) {
+	      calculerChiffres();
 	});
 </script>
 </body>
