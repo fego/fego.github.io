@@ -1,0 +1,107 @@
+<html>
+<head>
+	<meta charset="UTF-8"> 
+	<script>
+
+		function calculerLettres() {
+			var lettres = document.getElementById('lettres').value;
+			if(!lettres){
+				//console.log("aucune lettre saisie");
+				return;
+			}
+			lettres = lettres.toUpperCase();
+			//console.log('saisie : ' + lettres);
+			lettres = reverse(lettres);
+			var total = 0;
+			for(var i = 0; i < lettres.length; i++) {
+				var valeurLettre = lettres.charCodeAt(i) - 65;
+				var aAjouter = 0;
+				if(i > 0) {
+					total += Math.pow(26, i) * (valeurLettre + 1 );
+				} else {
+					total += valeurLettre;
+				}
+			}
+			document.getElementById('resultatLettres').innerHTML= total;
+		}
+
+		function reverse(s){
+		    return s.split("").reverse().join("");
+		}
+
+		function calculerChiffres(){
+			var chiffres = document.getElementById('chiffres').value;
+			if(!chiffres && !Number.isInteger(chiffres)) {
+				return;
+			}
+			var resultat = zyva(parseInt(chiffres), "");
+			console.log("resultat : " + resultat);
+			document.getElementById('resultatChiffres').innerHTML= resultat;
+		}
+
+		function zyva(chiffres, resultat){
+			console.log("> appel zyva : " + chiffres + "/" + resultat);
+			if(chiffres < 26){
+				return resultat + String.fromCharCode(65 + chiffres);
+			}
+
+			// recherche de l'exposant
+			var continuer = true;
+			var exposant = 1;
+			while(continuer){
+				if(nombreMaxPossiblePourExpostant(exposant) < chiffres) {
+					exposant++;
+				} else {
+					continuer = false;
+				}
+			}
+			console.log('>>exposant ' + exposant);
+
+			// recherche du multiplicateur pour la lettre
+			var indexLettreBase1 = 1; 
+			var somme = 0;
+			for(;indexLettreBase1 < 27;indexLettreBase1++){
+				somme = Math.pow(26, exposant) * (indexLettreBase1);
+				console.log('>> somme ' + somme  + ' indexLettreBase1 ' + indexLettreBase1);
+				if(somme > chiffres){
+					indexLettreBase1--; // on est allé trop loin on redescend
+					somme = Math.pow(26, exposant) * (indexLettreBase1);
+					break;
+				} 
+			}
+			if(indexLettreBase1 == 27) {
+				indexLettreBase1 = 26;
+			}
+			console.log('>>indexLettreBase1 ' + indexLettreBase1);
+			return zyva(chiffres - somme, resultat + String.fromCharCode(65 + indexLettreBase1 - 1))
+		}
+
+		function nombreMaxPossiblePourExpostant(exposant){
+			var nombre = 25;
+			var memoExposant = exposant;
+			while(exposant > 0){
+				nombre = nombre + Math.pow(26, exposant) * 26;
+				exposant--;
+			}
+			console.log('>> nombre pour exposant ' + memoExposant + ' : ' + nombre);
+			return nombre;
+		}
+	</script>
+</head>
+<body>
+<p>Indiquer les lettres des colonnes excel : (exemple AZ) </p>
+<p>Lettres : <input type="text" id="lettres"> Résultat : <span id="resultatLettres"></span></p>
+
+<p>Indiquer les chiffres des colonnes excel : (exemple 52) </p>
+<p>Chiffres : <input type="text" id="chiffres"> Résultat : <span id="resultatChiffres"></span></p>
+
+<script>
+	document.getElementById('lettres').addEventListener('keyup', function (e) {
+	      calculerLettres();
+	});
+	document.getElementById('chiffres').addEventListener('keyup', function (e) {
+	      calculerChiffres();
+	});
+</script>
+</body>
+</html>
