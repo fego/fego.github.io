@@ -24,27 +24,29 @@ Cela a abouti à 4 mesures :
 - temps pour restaurer un service
 - taux d'erreurs sur les changements
 
-En 2019 dans le rapport figure une nouvelle catégorie, dite "elite" , voici ce que font ces meilleurs performeurs par rapport aux moins bons[^3] (dans le livre vous trouverez les chiffres de 2017 qui sont déjà assez impressionnants) : 
+En 2019 dans le rapport figure une nouvelle catégorie, dite "élite", voici ce que font ces meilleurs performeurs par rapport aux moins bons[^3] (dans le livre vous trouverez les chiffres de 2017 qui sont déjà assez impressionnants) : 
 
 ![b468307df3f84d12d1079cde08d1ed5e.png]({{ site.url }}images/b468307df3f84d12d1079cde08d1ed5e.png)
 
 ## Développer la culture d'une organisation
 
-Maintenant que l'on sait ce qui permet de mesurer la performance, voyons ce qui permet de l'améliorer.
+Maintenant que vous savez comment vous vous situez en niveau de performance, voyons ce que propose le livre pour vous améliorer.
 
-On commence par l'aspect organisationnel. Le constat : les organisations avec un bon flux de communication fonctionne de façon plus efficace. 
+On commence par l'aspect organisationnel. Le constat : les organisations avec un bon flux de communication fonctionnent de façon plus efficace. 
 
 Ils distinguent 3 typologie des organisations, basées sur le travail de [Ron Westrum](https://en.wikipedia.org/wiki/Ron_Westrum) : 
 
 - pathologique, orientée pourvoir
 - bureaucratique, orientée règle
-- génératrices , focus sur la mission.
+- génératrices, focus sur la mission.
 
 Une bonne culture requiert de la confiance et de la coopération. Elle permet des bonnes prises de décision et la possibilité de revenir en arrière car plus ouverte et transparente.
 
-Ils citent une étude de Google qui a conclu en 2015 : "qui" est dans l'équipe importe moins que comment les membres de l'équipe interagissent, structurent leur travail et voient leur contributions. Bref, **tout vient de la dynamique d'équipe**.  Cela me rappelle [ce podcast avec Arnaud Lemaire](https://compagnon.artisandeveloppeur.fr/feed-entries/podcast/le-facteur-de-performance-1-d-une-equipe-avec-arnaud-lemaire) que je vous conseille. 
+Ils citent une étude de Google qui a conclu en 2015 : "qui" est dans l'équipe importe moins que comment les membres de l'équipe interagissent, structurent leur travail et voient leurs contributions. Bref, **tout vient de la dynamique d'équipe**.  Cela me rappelle [ce podcast avec Arnaud Lemaire](https://compagnon.artisandeveloppeur.fr/feed-entries/podcast/le-facteur-de-performance-1-d-une-equipe-avec-arnaud-lemaire) que je vous conseille. 
 
 Comment changer la culture ? Non pas en changeant ce que les personnes pensent, mais ce qu'elles font.
+
+J'ai eu un peu de mal à extraire la sève de ce chapitre malgré ces quelques éléments intéressants.
 
 ## Impact des pratiques techniques sur la performance
 
@@ -52,7 +54,7 @@ Beaucoup de méthodes agiles, comme Scrum, ont traitées les pratiques technique
 
 ### Continuous delivery
 
-Une de ces pratiques est le continuous delivery, soit la capacité de mettre en production de façon sécurisée, rapidement et durablement des features, de la config, des bug fixes, des expérimentations.
+Une de ces pratiques est le continuous delivery (CD), soit la capacité de mettre en production de façon sécurisée, rapidement et durablement des features, de la config, des bug fixes, des expérimentations.
 
 Travailler en continous delivery c'est :
 
@@ -62,10 +64,10 @@ Travailler en continous delivery c'est :
 - Poursuivre sans relâche l'amélioration continue.
 - Responsabiliser et impliquer tout le monde dans le delivery.
 
-Pour implémenter le CD (continuous delivery), il faut les fondations suivantes : 
+Pour implémenter le CD, il faut les fondations suivantes : 
 
 - Tout automatiser à partir de ce qui se trouve dans le VCS (code, mais aussi la configuration).
-- Limiter la durée de vie des branches (moins d'un jour) et les intégrer dans master régulièrement. Quasiment jamais de "stop commit" (code lock). Valable quelque soit la taille de l'équipe, du projet, de l'orga.
+- Limiter la durée de vie des branches (moins d'un jour) et les intégrer dans master régulièrement. Quasiment jamais de "stop commit" (code lock). Valable quelle que soit la taille de l'équipe, du projet, de l'orga.
 - Jouer tous les tests (TU et acceptance) à chaque commit. Tous les tests doivent être fiables, ne pas produire de faux positifs. Si vous avez des tests instables, mettez les dans une autre "test suite" (de quarantaine). On doit pouvoir avant jouer tous les tests sur son poste en local et les testeurs devraient effectuer des tests exploratoires sur les derniers builds.
 
 Que cela va-t-il apporter ? Moins de douleur lors du déploiement et moins de risque de burn out, une mise en prod n'est plus un big bang qui stress tout le monde. Cela influence aussi positivement la culture de l'organisation, le taux d'erreurs sur les changements. On peut alors se concentrer sur les nouveaux besoins, plutôt que de faire du rework. 
@@ -91,7 +93,7 @@ Pour une bonne performance il faut pouvoir :
 Et comme bien souvent quand on parle architecture, on parle aussi équipe tant les deux semblent s'influencer. 
 Les équipes doivent être multi fonctionnelles (dev, ops, fonc, testeur). La communication inter équipe est très importante, mais on essaie de réduire le bruit pour laisser la place à l'essentiel[^2]. Il est bien entendu question de la fameuse [loi de Conway](https://fr.wikipedia.org/wiki/Loi_de_Conway), mais pour amener un concept qui vaut le coup d'être creusé : "[Inverse Conway Maneuver](https://www.thoughtworks.com/radar/techniques/inverse-conway-maneuver)", ou l'idée est d'adapter l'organisation à l'architecture cible. Bon, [sur le radar de thoughtworks](https://www.thoughtworks.com/radar/faq), ça a disparu assez rapidement...
 
-Ils conseillent de permettre aux équipes de choisir leur propres outils. Cependant il y a certains endroits ou des standards doivent s'appliquer (par exemple au niveau des plateformes). Les outils choisis doivent être appréciés par les développeurs, et répondre au besoin.
+Ils conseillent de permettre aux équipes de choisir leurs propres outils. Cependant il y a certains endroits ou des standards doivent s'appliquer (par exemple au niveau des plateformes). Les outils choisis doivent être appréciés par les développeurs, et répondre au besoin.
 
 ## Management
 
@@ -126,7 +128,7 @@ Les 5 caractéristiques d'un leader de la transformation :
 
 Les équipes les plus performantes sont celles qui ont des leaders les meilleurs dans les dimensions ci-dessus, mais les leaders ne peuvent réussir les objectifs de performance seuls. 
 
-La connaissance est le pouvoir, et vous devez donnez le pouvoir à ceux qui ont la connaissance. 
+La connaissance est le pouvoir, et vous devez donner le pouvoir à ceux qui ont la connaissance. 
 
 ## Retour d'expérience chez ING Pays Bas
 Après un chapitre sur la méthodologie pour mener ces recherches, le livre s'achève sur un retour d'expérience de Steve Bell et Karen Whitley Bell chez ING Netherlands. Il est question d'organisation des équipes, que vous avez déjà peut être rencontré : 
@@ -139,7 +141,7 @@ Rapidement ça donne :
 * squad : équipe de 9 personnes max, autonome, démantelée quand la mission est terminée. 
 * chapitre : développe l'expertise et la connaissance de façon transverse.
 
-Et pour clôturer en beauté ce livre, ils donnent leur conseils, que je résumerai avec ces quelques phrases que j'ai bien appréciées : 
+Et pour clôturer en beauté ce livre, ils donnent leurs conseils, que je résumerai avec ces quelques phrases que j'ai bien appréciées : 
 
 * Ne pas chercher à copier. Etudier et apprendre des autres entreprises, mais ensuite expérimenter et adapter à ce qui peut marcher pour vous et votre culture. 
 * Ne pas demander à une grande société de consulting de transformer votre organisation. 
@@ -164,5 +166,5 @@ Quelques liens autour du livre si vous voulez vous faire un autre avis :
 * Une [vidéo de 30mn](https://www.youtube.com/watch?v=UYiQMnkXLMQ) de Nicole Forsgren sur le rapport 2019
 
 [^1]: je ne sais jamais si je dois "franciser" un mot anglais, le laisser en anglais ou alors chercher absolument une traduction, je ferais certainement un peu de tout ça dans cette article…
-[^2]: sujet abordé par Adam Tornhill dans sont livre [Software Design X-Ray](https://pragprog.com/titles/atevol/software-design-x-rays/)
+[^2]: sujet abordé par Adam Tornhill dans son livre [Software Design X-Ray](https://pragprog.com/titles/atevol/software-design-x-rays/)
 [^3]: voir [le rapport 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf) p21 (et p18 pour la comparaison entre les différents niveaux)
