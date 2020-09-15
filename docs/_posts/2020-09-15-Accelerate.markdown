@@ -1,7 +1,10 @@
 # Accelerate
 
 Je vous partage ici quelques notes suite à la lecture du livre [_Accelerate_](https://itrevolution.com/book/accelerate/) de Nicole Forsgren, Jez Humble et Gene Kim. 
-Dans le livre, les auteurs montrent comment la technologie permet d'augmenter la performance des entreprises et leurs revenus, que c'est une clé de leur réussite. Depuis quelques années ils réalisent des rapports nommés "state of devops", ce livre en révèle les découvertes et la méthode. Le but de ma lecture étant surtout de découvrir et comprendre les clés de la performance, je fais l'impasse sur la partie méthodologie, chapitres cependant essentiels pour donner du poids aux conclusions du livre. Celle-ci étant celle d'un développeur, je suis certainement passé à côté de pas mal d'idées, et j'en ai écarté aussi certaines volontairement. J'espère vous donner envie de lire le livre.
+
+Depuis quelques années les auteurs réalisent des rapports nommés "state of devops", ce livre en révèle les découvertes et la méthode. Les auteurs montrent comment les pratiques "devops" permettent d'augmenter la performance des entreprises et leurs revenus, que c'est une clé de leur réussite.  Mais qu'est ce que "[devops](https://en.wikipedia.org/wiki/DevOps)" ? C'est à la fois des pratiques techniques, des process lean, et une culture. C'est ces différents aspects qui seront regardés à la loupe. 
+
+Le but de ma lecture étant surtout de découvrir et comprendre les clés de la performance, je fais l'impasse sur la partie méthodologie, chapitres cependant essentiels pour donner du poids aux conclusions du livre. Celle-ci étant celle d'un développeur, je suis certainement passé à côté de pas mal d'idées, et j'en ai écarté aussi certaines volontairement. J'espère vous donner envie de lire le livre.
 
 ## Mesure de la performance
 L'idée du livre étant de comprendre ce que font les meilleurs performeurs par rapport aux autres, afin de pouvoir dégager ce qui les rends meilleurs. Comment font-ils pour à la fois être rapides et stables ?
