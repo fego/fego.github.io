@@ -89,7 +89,7 @@ Pour une bonne performance il faut pouvoir :
 - faire des gros changements de design sans la permission de quelqu'un en dehors de l'équipe.
 - faire des grands changements dans le design sans que cela implique beaucoup de travail pour les autres équipes
 - faire son travail sans communiquer et se coordonner avec des personnes en dehors de l'équipe
-- deploy et release[^1] à la demande, indépendamment des autres services
+- deploy et release à la demande, indépendamment des autres services
 - faire la majorité des tests à la demande, sans nécessité d'avoir un environnement d'intégration.
 - réaliser des déploiements pendant les heures normales de travail.
 
@@ -170,6 +170,5 @@ Quelques liens autour du livre si vous voulez vous faire un autre avis :
 
 ___
 
-[^1]: je ne sais jamais si je dois "franciser" un mot anglais, le laisser en anglais ou alors chercher absolument une traduction, je ferais certainement un peu de tout ça dans cette article…
 [^2]: sujet abordé par Adam Tornhill dans son livre [Software Design X-Ray](https://pragprog.com/titles/atevol/software-design-x-rays/)
 [^3]: voir [le rapport 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf) p21 (et p18 pour la comparaison entre les différents niveaux)
