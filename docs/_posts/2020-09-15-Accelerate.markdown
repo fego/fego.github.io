@@ -165,6 +165,8 @@ Quelques liens autour du livre si vous voulez vous faire un autre avis :
 * [le rapport de 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf)
 * Une [vidéo de 30mn](https://www.youtube.com/watch?v=UYiQMnkXLMQ) de Nicole Forsgren sur le rapport 2019
 
+___
+
 [^1]: je ne sais jamais si je dois "franciser" un mot anglais, le laisser en anglais ou alors chercher absolument une traduction, je ferais certainement un peu de tout ça dans cette article…
 [^2]: sujet abordé par Adam Tornhill dans son livre [Software Design X-Ray](https://pragprog.com/titles/atevol/software-design-x-rays/)
 [^3]: voir [le rapport 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf) p21 (et p18 pour la comparaison entre les différents niveaux)
