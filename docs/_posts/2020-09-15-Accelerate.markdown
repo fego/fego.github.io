@@ -37,7 +37,7 @@ Maintenant que vous savez comment vous vous situez en niveau de performance, voy
 
 On commence par l'aspect organisationnel. Le constat : les organisations avec un bon flux de communication fonctionnent de façon plus efficace. 
 
-Ils distinguent 3 typologie des organisations, basées sur le travail de [Ron Westrum](https://en.wikipedia.org/wiki/Ron_Westrum) : 
+Ils distinguent 3 typologies des organisations, basées sur le travail de [Ron Westrum](https://en.wikipedia.org/wiki/Ron_Westrum) : 
 
 - pathologique, orientée pourvoir
 - bureaucratique, orientée règle
