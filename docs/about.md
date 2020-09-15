@@ -4,12 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Je m'appelle David FRANCK, je suis développeur chez E-Vetch, et je vais tâcher de partager des idées, notes, sur ce blog sur des sujets probablement liés au développement, mais pas que. 
+Je suis aussi auteur de jeux de société, comme [Pix](https://www.trictrac.net/jeu-de-societe/pix-0), [Loony Quest](https://www.trictrac.net/jeu-de-societe/loony-quest) et plus récemment [Attrâpe Rêves](https://www.trictrac.net/jeu-de-societe/attrape-reves).
