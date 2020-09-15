@@ -11,8 +11,8 @@ title: Le trésor est sous le fourneau
 description: > # this means to ignore newlines until "baseurl:"
   Il est question ici de notes de lecture, idées, bref, de tout et de rien. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: @dayoud
+url: "http://davidfranck.eu" # the base hostname & protocol for your site
+twitter_username: dayoud
 github_username:  fego
 
 # Build settings
