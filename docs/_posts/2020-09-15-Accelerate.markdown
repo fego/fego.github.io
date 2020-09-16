@@ -147,7 +147,7 @@ Rapidement ça donne :
 
 Et pour clôturer en beauté ce livre, ils donnent leurs conseils, que je résumerai avec ces quelques phrases que j'ai bien appréciées : 
 
-* Ne pas chercher à copier. Etudier et apprendre des autres entreprises, mais ensuite expérimenter et adapter à ce qui peut marcher pour vous et votre culture. Par exemple le modèle Spotify ne sera [peut-être pas adapté à votre organisation](https://www.jeremiahlee.com/posts/failed-squad-goals/) ("_The co-author of the Spotify model and multiple agile coaches who worked at Spotify have been telling people to not copy it for years_", "_You might have discovered the Spotify model because you were trying to figure out how to structure your teams. Don’t stop here. Keep researching_"). 
+* Ne pas chercher à copier. Etudier et apprendre des autres entreprises, mais ensuite expérimenter et adapter à ce qui peut marcher pour vous et votre culture. Par exemple le modèle Spotify ne sera [peut-être pas adapté à votre organisation](https://www.jeremiahlee.com/posts/failed-squad-goals/)[^4][^5]. 
 * Ne pas demander à une grande société de consulting de transformer votre organisation. 
 * Tout le monde doit changer sa façon de travailler, qui que ce soit. 
 * Le changement demande de la discipline, du courage. 
@@ -173,3 +173,5 @@ ___
 
 [^2]: sujet abordé par Adam Tornhill dans son livre [Software Design X-Ray](https://pragprog.com/titles/atevol/software-design-x-rays/)
 [^3]: voir [le rapport 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf) p21 (et p18 pour la comparaison entre les différents niveaux)
+[^4]: Citation issue de l'article : "_The co-author of the Spotify model and multiple agile coaches who worked at Spotify have been telling people to not copy it for years_"
+[^5]: Autre citation de l'article : "_You might have discovered the Spotify model because you were trying to figure out how to structure your teams. Don’t stop here. Keep researching_"
