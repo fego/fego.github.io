@@ -134,7 +134,8 @@ Les équipes les plus performantes sont celles qui ont des leaders les meilleurs
 La connaissance est le pouvoir, et vous devez donner le pouvoir à ceux qui ont la connaissance. 
 
 ## Retour d'expérience chez ING Pays Bas
-Après un chapitre sur la méthodologie pour mener ces recherches, le livre s'achève sur un retour d'expérience de Steve Bell et Karen Whitley Bell chez ING Netherlands. Il est question d'organisation des équipes, que vous avez déjà peut être rencontré : 
+
+Après un chapitre sur la méthodologie pour mener ces recherches, le livre s'achève sur un retour d'expérience de Steve Bell et Karen Whitley Bell chez ING Netherlands. Il est question d'organisation des équipes, que vous avez déjà [peut être rencontré](https://www.atlassian.com/agile/agile-at-scale/spotify) : 
 
 ![orga équipeschez ing](https://agilebusinessmanifesto.com/wp-content/uploads/2017/10/ING-agile-1.png)
 
@@ -146,7 +147,7 @@ Rapidement ça donne :
 
 Et pour clôturer en beauté ce livre, ils donnent leurs conseils, que je résumerai avec ces quelques phrases que j'ai bien appréciées : 
 
-* Ne pas chercher à copier. Etudier et apprendre des autres entreprises, mais ensuite expérimenter et adapter à ce qui peut marcher pour vous et votre culture. 
+* Ne pas chercher à copier. Etudier et apprendre des autres entreprises, mais ensuite expérimenter et adapter à ce qui peut marcher pour vous et votre culture. Par exemple le modèle Spotify ne sera [peut-être pas adapté à votre organisation](https://www.jeremiahlee.com/posts/failed-squad-goals/) ("_The co-author of the Spotify model and multiple agile coaches who worked at Spotify have been telling people to not copy it for years_", "_You might have discovered the Spotify model because you were trying to figure out how to structure your teams. Don’t stop here. Keep researching_"). 
 * Ne pas demander à une grande société de consulting de transformer votre organisation. 
 * Tout le monde doit changer sa façon de travailler, qui que ce soit. 
 * Le changement demande de la discipline, du courage. 
@@ -157,7 +158,7 @@ Et pour clôturer en beauté ce livre, ils donnent leurs conseils, que je résum
 Ce qui est dit dans ce livre va souvent dans le sens de l'intuition, enfin de celles des personnes techniques, mais le gros point fort est d'amener si ce n'est des preuves, au moins des éléments forts de réponse à l'importance de la performance de l'IT.
 Il pourra s'avérer être un bon compagnon lors de réflexions sur les organisations des équipes et de la mise en place des solutions techniques et accompagner le changement tout au long de la vie des projets.
 
-Je remercie [Fabien](https://twitter.com/fhiegel) pour sa relecture et ses bons conseils.
+Je remercie [Fabien](https://twitter.com/fhiegel) et Rémi pour leur relecture et bons conseils.
 
 ## Ressources
 
