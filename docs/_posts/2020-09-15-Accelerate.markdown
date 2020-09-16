@@ -7,7 +7,8 @@ Depuis quelques années les auteurs réalisent des rapports nommés "state of de
 Le but de ma lecture étant surtout de découvrir et comprendre les clés de la performance, je fais l'impasse sur la partie méthodologie, chapitres cependant essentiels pour donner du poids aux conclusions du livre. Celle-ci étant celle d'un développeur, je suis certainement passé à côté de pas mal d'idées, et j'en ai écarté aussi certaines volontairement. J'espère vous donner envie de lire le livre.
 
 ## Mesure de la performance
-L'idée du livre étant de comprendre ce que font les meilleurs performeurs par rapport aux autres, afin de pouvoir dégager ce qui les rends meilleurs. Comment font-ils pour à la fois être rapides et stables ?
+
+Dans le livre les auteurs nous montrent ce que font les meilleurs performeurs par rapport aux autres, afin de pouvoir dégager ce qui les rends meilleurs. Comment font-ils pour à la fois être rapides et stables, sans contrepartie ?
 On commence par s'intéresser aux mesures de la performance.
 
 Les auteurs critiquent les modèles de maturité, (comme [CMMI](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)) car 
@@ -22,8 +23,8 @@ Il faut donc utiliser des modèles basés sur les capacités. Une bonne mesure d
 
 Cela a abouti à 4 mesures : 
 
-- délai de mise en production à parti d'un commit. Catégories : moins d'1 h, moins d'1 j, entre 1 j et 1 semaine, entre 1 semaine et 1 mois, entre 1 mois et 6 mois.
-- fréquence de déploiement, et son corollaire la réduction de la taille des livraisons. Catégories : à la demande, entre 1 par heure et 1 par jour, entre 1 par jour et 1 par semaine, entre 1 par semaine et 1 par mois, entre 1 par mois et 1 tous les 6 mois, moins de 1 fois tous les 6 mois.
+- délai de mise en production à parti d'un commit. (_Catégories : moins d'1 h, moins d'1 j, entre 1 j et 1 semaine, entre 1 semaine et 1 mois, entre 1 mois et 6 mois._)
+- fréquence de déploiement, et son corollaire la réduction de la taille des livraisons. (_Catégories : à la demande, entre 1 par heure et 1 par jour, entre 1 par jour et 1 par semaine, entre 1 par semaine et 1 par mois, entre 1 par mois et 1 tous les 6 mois, moins de 1 fois tous les 6 mois._)
 - temps pour restaurer un service
 - taux d'erreurs sur les changements
 
