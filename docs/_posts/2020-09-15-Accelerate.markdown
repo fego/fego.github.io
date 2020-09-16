@@ -147,7 +147,7 @@ Rapidement ça donne :
 
 Et pour clôturer en beauté ce livre, ils donnent leurs conseils, que je résumerai avec ces quelques phrases que j'ai bien appréciées : 
 
-* Ne pas chercher à copier. Etudier et apprendre des autres entreprises, mais ensuite expérimenter et adapter à ce qui peut marcher pour vous et votre culture. Par exemple le modèle Spotify ne sera [peut-être pas adapté à votre organisation](https://www.jeremiahlee.com/posts/failed-squad-goals/)[^4][^5]. 
+* Ne pas chercher à copier. Etudier et apprendre des autres entreprises, mais ensuite expérimenter et adapter à ce qui peut marcher pour vous et votre culture. Par exemple le modèle Spotify ne sera [peut-être pas adapté à votre organisation](https://www.jeremiahlee.com/posts/failed-squad-goals/)[^4] [^5]. 
 * Ne pas demander à une grande société de consulting de transformer votre organisation. 
 * Tout le monde doit changer sa façon de travailler, qui que ce soit. 
 * Le changement demande de la discipline, du courage. 
