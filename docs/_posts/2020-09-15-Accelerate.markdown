@@ -156,7 +156,7 @@ Et pour clôturer en beauté ce livre, ils donnent leurs conseils, que je résum
 
 ## Conclusion
 
-Ce qui est dit dans ce livre va souvent dans le sens de l'intuition, enfin de celles des personnes techniques, mais le gros point fort est d'amener si ce n'est des preuves, au moins des éléments forts de réponse à l'importance de la performance de l'IT.
+Ce qui est dit dans ce livre va souvent dans le sens de l'intuition, enfin au moins de celle des personnes techniques il me semble, mais le gros point fort est d'amener si ce n'est des preuves, au moins des éléments forts de réponse à l'importance de la performance de l'IT.
 Il pourra s'avérer être un bon compagnon lors de réflexions sur les organisations des équipes et de la mise en place des solutions techniques et accompagner le changement tout au long de la vie des projets.
 
 Je remercie [Fabien](https://twitter.com/fhiegel) et Rémi pour leur relecture et bons conseils.
