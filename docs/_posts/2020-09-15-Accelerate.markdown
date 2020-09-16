@@ -136,7 +136,7 @@ La connaissance est le pouvoir, et vous devez donner le pouvoir à ceux qui ont 
 
 ## Retour d'expérience chez ING Pays Bas
 
-Après un chapitre sur la méthodologie pour mener ces recherches, le livre s'achève sur un retour d'expérience de Steve Bell et Karen Whitley Bell chez ING Netherlands. Il est question d'organisation des équipes, que vous avez déjà [peut être rencontré](https://www.atlassian.com/agile/agile-at-scale/spotify) : 
+Après un chapitre sur la méthodologie pour mener ces recherches, le livre s'achève sur un retour d'expérience de Steve Bell et Karen Whitley Bell chez ING Netherlands. Il est question d'organisation des équipes, avec un modèle que vous avez déjà [peut être rencontré](https://www.atlassian.com/agile/agile-at-scale/spotify) : 
 
 ![orga équipeschez ing](https://agilebusinessmanifesto.com/wp-content/uploads/2017/10/ING-agile-1.png)
 
