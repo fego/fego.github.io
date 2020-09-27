@@ -23,7 +23,7 @@ Il faut donc utiliser des modèles basés sur les capacités. Une bonne mesure d
 
 Cela a abouti à 4 mesures : 
 
-- délai de mise en production à parti d'un commit. (_Catégories : moins d'1 h, moins d'1 j, entre 1 j et 1 semaine, entre 1 semaine et 1 mois, entre 1 mois et 6 mois._)
+- délai de mise en production à partir d'un commit. (_Catégories : moins d'1 h, moins d'1 j, entre 1 j et 1 semaine, entre 1 semaine et 1 mois, entre 1 mois et 6 mois._)
 - fréquence de déploiement, et son corollaire la réduction de la taille des livraisons. (_Catégories : à la demande, entre 1 par heure et 1 par jour, entre 1 par jour et 1 par semaine, entre 1 par semaine et 1 par mois, entre 1 par mois et 1 tous les 6 mois, moins de 1 fois tous les 6 mois._)
 - temps pour restaurer un service
 - taux d'erreurs sur les changements
@@ -128,7 +128,7 @@ Les 5 caractéristiques d'un leader de la transformation :
 - communique d'une façon qui inspire et motive, même dans un environnement incertain
 - stimule intellectuellement, incite à penser différemment.
 - montre de l'attention et de la considération au besoin et sentiments des autres
-- loue et reconnaît les réussites et améliorations, complimente personnellement quand certains se surpasse.
+- loue et reconnaît les réussites et améliorations, complimente personnellement quand certains se surpassent.
 
 Les équipes les plus performantes sont celles qui ont des leaders les meilleurs dans les dimensions ci-dessus, mais les leaders ne peuvent réussir les objectifs de performance seuls. 
 
