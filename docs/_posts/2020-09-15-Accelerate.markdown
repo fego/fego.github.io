@@ -34,7 +34,7 @@ En 2019 dans le rapport figure une nouvelle catégorie, dite "élite", voici ce 
 
 ## Développer la culture d'une organisation
 
-Maintenant que vous savez comment vous vous situez en niveau de performance, voyons ce que propose le livre pour vous améliorer.
+Maintenant que vous savez comment vous vous situez en niveau de performance (ou allez [voir ici](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance) comment automatiser des métriques pour savoir clairement où vous en êtes), voyons ce que propose le livre pour vous améliorer.
 
 On commence par l'aspect organisationnel. Le constat : les organisations avec un bon flux de communication fonctionnent de façon plus efficace. 
 
