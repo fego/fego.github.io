@@ -54,7 +54,7 @@ J'ai eu un peu de mal à extraire la sève de ce chapitre malgré ces quelques �
 
 ## Impact des pratiques techniques sur la performance
 
-Beaucoup de méthodes agiles, comme Scrum, ont traitées les pratiques techniques (comme TDD, l'intégration continue, etc) comme secondaires. A la différence d'XP. Pourtant les pratiques techniques sont vitales pour la réussite.
+Beaucoup de méthodes agiles, comme Scrum, ont traité les pratiques techniques (comme TDD, l'intégration continue, etc) comme secondaires. A la différence d'XP. Pourtant les pratiques techniques sont vitales pour la réussite.
 
 ### Continuous delivery
 
