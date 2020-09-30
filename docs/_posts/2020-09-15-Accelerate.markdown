@@ -105,7 +105,7 @@ Quid du management sur l'impact de la perforamnce ?
 
 ### Lean management
 
-Ce n'est pas un sujet que je connais, voici ce que j'en retient : le lean management va tendre à : 
+Ce n'est pas un sujet que je connais, voici ce que j'en retiens : le lean management va tendre à : 
 
 - limiter le WIP
 - créer des indicateurs visuels sur la qualité, la productivité, et le statut courant (et aussi failures, defect rate).
