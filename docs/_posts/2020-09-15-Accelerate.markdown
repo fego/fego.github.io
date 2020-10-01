@@ -10,7 +10,7 @@ J'espère vous donner envie de lire le livre.
 
 ## Mesure de la performance
 
-Dans le livre les auteurs nous montrent ce que font les meilleurs performeurs par rapport aux autres, afin de pouvoir dégager ce qui les rends meilleurs. Comment font-ils pour à la fois être rapides et stables, sans contrepartie ?
+Dans le livre, les auteurs nous montrent ce que font les meilleurs performeurs par rapport aux autres, afin de pouvoir dégager ce qui les rends meilleurs. Comment font-ils pour à la fois être rapides et stables, sans contrepartie ?
 On commence par s'intéresser aux mesures de la performance.
 
 Les auteurs critiquent les modèles de maturité, (comme [CMMI](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)) car 
@@ -20,17 +20,17 @@ Les auteurs critiquent les modèles de maturité, (comme [CMMI](https://en.wikip
 
 Il faut donc utiliser des modèles basés sur les capacités. Une bonne mesure doit avoir deux caractéristiques clés : 
 
-- être focus sur un revenu global pour assurer que les équipes ne sont pas en concurrences les unes avec les autres.
-- être focus sur les revenus et non sur ce qui est produit (et qui ne génère pas forcément des revenus)
+- être focalisée sur un revenu global pour assurer que les équipes ne sont pas en concurrences les unes avec les autres.
+- être focalisée sur les revenus et non sur ce qui est produit (et qui ne génère pas forcément des revenus)
 
 Cela a abouti à 4 mesures : 
 
-- délai de mise en production à partir d'un commit. (_Catégories : moins d'1 h, moins d'1 j, entre 1 j et 1 semaine, entre 1 semaine et 1 mois, entre 1 mois et 6 mois._)
-- fréquence de déploiement, et son corollaire la réduction de la taille des livraisons. (_Catégories : à la demande, entre 1 par heure et 1 par jour, entre 1 par jour et 1 par semaine, entre 1 par semaine et 1 par mois, entre 1 par mois et 1 tous les 6 mois, moins de 1 fois tous les 6 mois._)
+- délai de mise en production à partir d'un commit. (Catégories : moins d'1 h, moins d'1 j, entre 1 j et 1 semaine, entre 1 semaine et 1 mois, entre 1 mois et 6 mois.)
+- fréquence de déploiement et son corollaire la réduction de la taille des livraisons. (Catégories : à la demande, entre 1 par heure et 1 par jour, entre 1 par jour et 1 par semaine, entre 1 par semaine et 1 par mois, entre 1 par mois et 1 tous les 6 mois, moins de 1 fois tous les 6 mois.)
 - temps pour restaurer un service
 - taux d'erreurs sur les changements
 
-En 2019 dans le rapport figure une nouvelle catégorie, dite "élite", voici ce que font ces meilleurs performeurs par rapport aux moins bons[^3] (dans le livre vous trouverez les chiffres de 2017 qui sont déjà assez impressionnants) : 
+En 2019, une nouvelle catégorie, dite « élite », figure dans le rapport : voici ce que font ces meilleurs performeurs par rapport aux moins bons[^3] (dans le livre vous trouverez les chiffres de 2017 qui sont déjà assez impressionnants) : 
 
 ![b468307df3f84d12d1079cde08d1ed5e.png]({{ site.url }}images/b468307df3f84d12d1079cde08d1ed5e.png)
 
@@ -44,11 +44,11 @@ Ils distinguent 3 typologies des organisations, basées sur le travail de [Ron W
 
 - pathologique, orientée pourvoir
 - bureaucratique, orientée règle
-- génératrices, focus sur la mission.
+- génératrices, focalisée sur la mission.
 
 Une bonne culture requiert de la confiance et de la coopération. Elle permet des bonnes prises de décision et la possibilité de revenir en arrière car plus ouverte et transparente.
 
-Ils citent une étude de Google qui a conclu en 2015 : "qui" est dans l'équipe importe moins que comment les membres de l'équipe interagissent, structurent leur travail et voient leurs contributions. Bref, **tout vient de la dynamique d'équipe**.  Cela me rappelle [ce podcast avec Arnaud Lemaire](https://compagnon.artisandeveloppeur.fr/feed-entries/podcast/le-facteur-de-performance-1-d-une-equipe-avec-arnaud-lemaire) que je vous conseille. 
+Ils citent une étude de Google qui a conclu en 2015 : "qui" est dans l'équipe importe moins que comment les membres de l'équipe interagissent, structurent leur travail et voient leurs contributions. Bref, **tout vient de la dynamique d'équipe**.  Cela me rappelle [ce podcast avec Arnaud Lemaire](https://compagnon.artisandeveloppeur.fr/feed-entries/podcast/le-facteur-de-performance-1-d-une-equipe-avec-arnaud-lemaire) que je vous recommande. 
 
 Comment changer la culture ? Non pas en changeant ce que les personnes pensent, mais ce qu'elles font.
 
@@ -58,17 +58,17 @@ J'ai eu un peu de mal à extraire la sève de ce chapitre malgré ces quelques �
 
 Beaucoup de méthodes agiles, comme Scrum, ont traité les pratiques techniques (comme TDD, l'intégration continue, etc) comme secondaires. A la différence d'XP. Pourtant les pratiques techniques sont vitales pour la réussite.
 
-### Continuous delivery
+### _Continuous delivery_
 
-Une de ces pratiques est le continuous delivery (CD), soit la capacité de mettre en production de façon sécurisée, rapidement et durablement des features, de la config, des bug fixes, des expérimentations.
+Une de ces pratiques est le _continuous delivery_ (CD), soit la capacité de mettre en production de façon sécurisée, rapidement et durablement des _features_, de la config, des corrections, des expérimentations.
 
-Travailler en continous delivery c'est :
+Travailler en _continous delivery_ c'est :
 
 - Permettre de détecter rapidement s'il y a des problèmes.
-- Travailler en petit lot. Les organisations ont tendance à planifier le travail en gros morceaux. En splittant le travail en plus petits morceaux qui permettent de mesurer les revenus rapidement, nous avons le feedback essentiel sur le travail fourni, cela rajoute quelques frais, mais les bénéfices sont énormes pour éviter de délivrer des choses qui n'amènent aucune valeur.
-- Laisser les tâches répétitives aux ordinateurs, les personnes résolvent des problèmes et peuvent travailler sur des problèmes à haute valeur ajoutée.
+- Travailler en petit lot. Les organisations ont tendance à planifier le travail en gros morceaux. En découpant le travail en plus petits morceaux qui permettent de mesurer les revenus rapidement, nous avons le _feedback_ essentiel sur le travail fourni. Cela rajoute quelques frais, mais les bénéfices sont énormes pour éviter de délivrer des choses qui n'amènent aucune valeur.
+- Laisser les tâches répétitives aux ordinateurs, les personnes résolvent des problèmes et peuvent travailler sur des sujets à haute valeur ajoutée.
 - Poursuivre sans relâche l'amélioration continue.
-- Responsabiliser et impliquer tout le monde dans le delivery.
+- Responsabiliser et impliquer tout le monde dans le _delivery_.
 
 Pour implémenter le CD, il faut les fondations suivantes : 
 
