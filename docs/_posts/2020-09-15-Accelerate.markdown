@@ -80,7 +80,7 @@ Que cela va-t-il apporter ? Moins de douleur lors du déploiement et moins de ri
 
 ### Architecture
 
-Hormis le cas ou le logiciel est outsourcé ou le cas d'un mainframe (et non l'intégration *avec* un mainframe), les types de systèmes n'influencent pas la performance. Cependant deux caractéristiques d'architecture sont importantes :
+Hormis le cas ou le logiciel est _outsourcé_ ou le cas d'un _mainframe_ (et non l'intégration **avec** un mainframe), les types de systèmes n'influencent pas la performance. Cependant deux caractéristiques d'architecture sont importantes :
 
 - capacité à tester la majorité de l'application hors environnement d'intégration
 - capacité à deploy / release l'application indépendamment des autres applications / services dont on dépend.
@@ -89,7 +89,7 @@ Il faut donc des systèmes peu couplés.
 
 Pour une bonne performance il faut pouvoir : 
 
-- faire des gros changements de design sans la permission de quelqu'un en dehors de l'équipe.
+- faire des grandes changements dans le design sans la permission de quelqu'un en dehors de l'équipe.
 - faire des grands changements dans le design sans que cela implique beaucoup de travail pour les autres équipes
 - faire son travail sans communiquer et se coordonner avec des personnes en dehors de l'équipe
 - deploy et release à la demande, indépendamment des autres services
@@ -97,23 +97,25 @@ Pour une bonne performance il faut pouvoir :
 - réaliser des déploiements pendant les heures normales de travail.
 
 Et comme bien souvent quand on parle architecture, on parle aussi équipe tant les deux semblent s'influencer. 
-Les équipes doivent être multi fonctionnelles (dev, ops, fonc, testeur). La communication inter équipe est très importante, mais on essaie de réduire le bruit pour laisser la place à l'essentiel[^2]. Il est bien entendu question de la fameuse [loi de Conway](https://fr.wikipedia.org/wiki/Loi_de_Conway), mais pour amener un concept qui vaut le coup d'être creusé : "[Inverse Conway Maneuver](https://www.thoughtworks.com/radar/techniques/inverse-conway-maneuver)", ou l'idée est d'adapter l'organisation à l'architecture cible. Bon, [sur le radar de thoughtworks](https://www.thoughtworks.com/radar/faq), ça a disparu assez rapidement...
+Les équipes doivent être multi fonctionnelles (dev, ops, fonc, testeur). 
+La communication inter équipes est très importante, mais on essaie de réduire le bruit pour laisser la place à l'essentiel[^2]. 
+Il est bien entendu question de la fameuse [loi de Conway](https://fr.wikipedia.org/wiki/Loi_de_Conway), mais pour amener un concept qui vaut le coup d'être creusé : "[Inverse Conway Maneuver](https://www.thoughtworks.com/radar/techniques/inverse-conway-maneuver)", où l'idée est d'adapter l'organisation à l'architecture cible. Bon, [sur le radar de thoughtworks](https://www.thoughtworks.com/radar/faq), ça a disparu assez rapidement...
 
 Ils conseillent de permettre aux équipes de choisir leurs propres outils. Cependant il y a certains endroits ou des standards doivent s'appliquer (par exemple au niveau des plateformes). Les outils choisis doivent être appréciés par les développeurs, et répondre au besoin.
 
 ## Management
 
-Quid du management sur l'impact de la perforamnce ?
+Quel est l'impact du management sur la performance ?
 
 ### Lean management
 
-Ce n'est pas un sujet que je connais, voici ce que j'en retiens : le lean management va tendre à : 
+Ce n'est pas un sujet que je connais, voici ce que j'en retiens : le _lean management_ va tendre à : 
 
-- limiter le WIP
-- créer des indicateurs visuels sur la qualité, la productivité, et le statut courant (et aussi failures, defect rate).
-- utiliser les données de performance du logiciel et des outils de monitoring pour prendre des décisions business quotidiennement
+- limiter le _WIP_
+- créer des indicateurs visuels sur la qualité, la productivité, et le statut courant (et aussi _failures_, _defect rate_).
+- utiliser les données de performance du logiciel et des outils de _monitoring_ pour prendre des décisions _business_ quotidiennement
 
-Il impact positivement la performance et la culture de l'organisation.
+Il impacte positivement la performance et la culture de l'organisation.
 
 ### Leaders et managers
 
