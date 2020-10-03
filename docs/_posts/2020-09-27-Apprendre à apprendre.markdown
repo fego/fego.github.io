@@ -18,13 +18,15 @@ Le cours attaque par les concepts de mémoire et des 2 modes de pensée, concept
 La mémoire est de deux types. 
 La mémoire de travail qui ne peut traiter que 4 informations à la fois (en général, et non 7 comme on l'a longtemps cru). 
 Elle accueille tout ce qui est nouveau. 
-C'est à travers un ensemble de pratique (que je vous décrirai plus loin) que le transfert vers la mémoire à long terme s'effectuera. 
+C'est à travers un ensemble de pratiques (que je vous décrirai plus loin) que le transfert vers la mémoire à long terme s'effectuera. 
 Cette dernière est comme un grand entrepôt. 
 
 On commence par faire rentrer ce que l'on apprend dans la mémoire de travail dans le mode dit *focus*. 
 On analyse séquentiellement les problèmes, on est concentré. 
 A contrario, dans le mode diffus on laisse notre esprit vagabonder. 
 C'est le royaume de l'intuition, d'où émerge les idées nouvelles, mais qu'il faudra regarder avec l’œil du mode focus, car tout ce qui vient du mode diffus n'est pas valable. 
+
+![insister.png]({{ site.url }}images/insister.jpg)
 
 Avez-vous déjà eu la sensation de trop insister sur un problème, sentir que vous vous tapez contre un mur, qu'il faudrait certainement arrêter et prendre l'air au lieu de continuer à vous acharner ? Cela m'est arrivé de nombreuses fois, et peut encore m'arriver, mais ça ne mène à rien en général, c'est même plutôt contre-productif. C'est pourquoi nous avons besoin d'alterner les deux modes de pensées. 
 Et quand nous sommes coincés, c'est le moment de faire une pause. 
