@@ -1,6 +1,6 @@
 # Apprendre à apprendre, le MOOC
 
-Quoi de mieux pour tester ce que l'on vient d'apprendre que de le partager ? 
+« Quoi de mieux pour tester ce que l'on vient d'apprendre que de le partager ? »
 Vous trouverez ce conseil dans le mooc
 [Learning to learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
 proposé par Barbara Oakley et Terrence Sejnowsky.
