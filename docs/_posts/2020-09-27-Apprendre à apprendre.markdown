@@ -16,10 +16,10 @@ Je l'ai suivi en anglais mais des sous titres en français sont disponibles et d
 
 ## Mémoire et modes de pensées
 
-Le cours débute par les concepts de mémoire et des 2 modes de pensée, concepts clés utilisés tout au long du cours. 
+Le cours débute par les concepts de mémoire et des deux modes de pensée, concepts clés utilisés tout au long du cours. 
 
 La mémoire est de deux types. 
-La mémoire de travail qui ne peut traiter que 4 informations à la fois (en général, et non 7 comme on l'a longtemps cru). 
+La mémoire de travail qui ne peut traiter que quatre informations à la fois (en général, et non sept comme on l'a longtemps cru). 
 Elle accueille tout ce qui est nouveau. 
 C'est à travers un ensemble de pratique (que je vous décrirai plus loin) que le transfert vers la mémoire à long terme s'effectuera. 
 Cette dernière est comme un grand entrepôt. 
