@@ -7,7 +7,7 @@ proposé par Barbara Oakley et Terrence Sejnowsky.
 
 En effet, quand on partage nos connaissances, on voit tout de suite quelles
 notions l'on explique le moins bien, et qui sont donc à revoir. 
-Je vais donc vous résumer ici ce que j'ai vu et entendu dans ce mooc, qui dès la première semaine m'a complètement emballé. 
+Je vais donc vous résumer ici ce que j'ai vu et entendu dans ce mooc, qui dès la première semaine m'a complètement passionné. 
 J'espère ne pas tomber dans un travers évoqué dans le mooc, celui de l'illusion de la connaissance, sentiment que l'on peut avoir après avoir lu un article, vu une solution à un problème, mais où l'on n'a pas acquis de réelle compréhension et encore moins d'expertise sur le sujet. 
 Je suis bien entendu loin de l'expertise, [à peine débutant sur le sujet](https://fr.wikipedia.org/wiki/Effet_Dunning-Kruger), je vais donc simplement vous brosser un aperçu de ce mooc. 
 
@@ -16,7 +16,7 @@ Je l'ai suivi en anglais mais des sous titres en français sont disponibles et d
 
 ## Mémoire et modes de pensées
 
-Le cours attaque par les concepts de mémoire et des 2 modes de pensée, concepts clés utilisés tout au long du cours. 
+Le cours débute par les concepts de mémoire et des 2 modes de pensée, concepts clés utilisés tout au long du cours. 
 
 La mémoire est de deux types. 
 La mémoire de travail qui ne peut traiter que 4 informations à la fois (en général, et non 7 comme on l'a longtemps cru). 
