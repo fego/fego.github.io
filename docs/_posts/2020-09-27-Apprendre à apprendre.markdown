@@ -1,15 +1,12 @@
 # Apprendre à apprendre, le MOOC
 
-« Quoi de mieux pour tester ce que l'on vient d'apprendre que de le partager ? »
-Vous trouverez ce conseil dans le mooc
-[Learning to learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
-proposé par Barbara Oakley et Terrence Sejnowsky.
+Quoi de mieux pour tester ce que l'on vient d'apprendre que de le partager ? 
+Vous trouverez ce conseil dans le MOOC [Learning to learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) proposé par Barbara Oakley et Terrence Sejnowsky.
 
-En effet, quand on partage nos connaissances, on voit tout de suite quelles
-notions l'on explique le moins bien, et qui sont donc à revoir. 
-Je vais donc vous résumer ici ce que j'ai vu et entendu dans ce mooc, qui dès la première semaine m'a complètement passionné. 
-J'espère ne pas tomber dans un travers évoqué dans le mooc, celui de l'illusion de la connaissance, sentiment que l'on peut avoir après avoir lu un article, vu une solution à un problème, mais où l'on n'a pas acquis de réelle compréhension et encore moins d'expertise sur le sujet. 
-[À peine débutant sur le sujet](https://fr.wikipedia.org/wiki/Effet_Dunning-Kruger), je vais simplement vous brosser un aperçu de ce mooc. 
+En effet, quand on partage nos connaissances, on voit tout de suite quelles notions l'on explique le moins bien, et qui sont donc à revoir. 
+Je vais donc vous résumer ici ce que j'ai vu et entendu dans ce MOOC, qui dès la première semaine m'a complètement passionné. 
+J'espère ne pas tomber dans un travers évoqué dans le cours, celui de l'illusion de la connaissance, sentiment que l'on peut avoir après avoir lu un article, vu une solution à un problème, mais où l'on n'a pas acquis de réelle compréhension et encore moins d'expertise sur le sujet. 
+[À peine débutant sur le sujet](https://fr.wikipedia.org/wiki/Effet_Dunning-Kruger), je vais donc simplement vous brosser un aperçu de ce MOOC. 
 
 Il dure 4 semaines, pendant lesquelles il vous faudra prévoir entre 3 à 5 heures de travail pour chacune, mais dont la matière extraite vous accompagnera pour toute une vie. 
 Je l'ai suivi en anglais mais des sous titres en français sont disponibles et de bonne qualité. 
@@ -55,7 +52,7 @@ Certains moments du cours sont un peu plus ardus, enfin l'ont été pour moi. Et
 Mais à force on relie ces informations entre elles, on leur donne du contexte et elles finissent par faire sens, comme un puzzle. 
 Et le cours aide bien à construire ce puzzle de l'apprentissage, c'est avant tout un cours très didactique qui reste plutôt simple à suivre. 
 
-Et pour nous aider à coller les morceaux on pourra utiliser les directement les techniques présentées dans le mooc.
+Et pour nous aider à coller les morceaux on pourra utiliser les directement les techniques présentées dans le MOOC.
 
 ## Techniques 
 
@@ -70,10 +67,10 @@ On pourra par la suite ancrer cela avec de la répétition espacée, une techniq
 Le cours propose d'ailleurs aussi des articles (optionnels), mais qui permettent d'avoir des informations complémentaires très intéressantes (par exemple [cet article](https://www.aft.org/sites/default/files/periodicals/dunlosky.pdf) de John Dunlosky). 
 Ils font partie de sections optionnelles qui permettent d'aller plus loin et qui comportent aussi des témoignages plus légers que le contenu du cours mais néanmoins intéressant, comme par exemple celui d'une écrivaine qui partage quelques techniques d'écriture. 
 
-Le but n'étant pas de faire un tour exhaustif du mooc mais plutôt de brosser un aperçu je vais m'arrêter la sur les techniques qui peuvent aider dans l'apprentissage. 
-Mais le mooc en aborde d'autres, comme l'entrelacement, la visualisation. 
+Le but n'étant pas de faire un tour exhaustif du MOOC mais plutôt de brosser un aperçu je vais m'arrêter la sur les techniques qui peuvent aider dans l'apprentissage. 
+Mais le MOOC en aborde d'autres, comme l'entrelacement, la visualisation. 
 
-Arrivé ici, vous vous dites peut-être que ce mooc est fait pour vous, mais allez-vous vraiment franchir le pas ? 
+Arrivé ici, vous vous dites peut-être que ce MOOC est fait pour vous, mais allez-vous vraiment franchir le pas ? 
 Ce n'est pas toujours simple de savoir comment investir son précieux temps. 
 
 ## Procrastination
@@ -95,4 +92,4 @@ Un étudiant ira par exemple à la  bibliothèque, lieu où il aura moins de dis
 Puis, quand on réussit une tâche, se féliciter, et même célébrer sa réussite. 
 
 Je me félicite donc d'avoir écrit cet article qui touche à sa fin ! 
-Peut-être saurez-vous si ce mooc est fait pour vous ? 
+Peut-être saurez-vous si ce MOOC est fait pour vous ? 
