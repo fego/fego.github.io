@@ -21,7 +21,7 @@ Le cours débute par les concepts de mémoire et des deux modes de pensée, conc
 La mémoire est de deux types. 
 La mémoire de travail qui ne peut traiter que quatre informations à la fois (en général, et non sept comme on l'a longtemps cru). 
 Elle accueille tout ce qui est nouveau. 
-C'est à travers un ensemble de pratique (que je vous décrirai plus loin) que le transfert vers la mémoire à long terme s'effectuera. 
+C'est à travers un ensemble de pratiques (que je vous décrirai plus loin) que le transfert vers la mémoire à long terme s'effectuera. 
 Cette dernière est comme un grand entrepôt. 
 
 On commence par faire rentrer ce que l'on apprend dans la mémoire de travail dans le mode dit *focus*. 
