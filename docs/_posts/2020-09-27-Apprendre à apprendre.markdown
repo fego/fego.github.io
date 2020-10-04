@@ -97,7 +97,7 @@ Etant développeur et aussi [auteur de jeux](https://www.trictrac.net/jeu-de-soc
 
 # Créativité
 
-Par exemple, il ne sert à rien de forcer trop longtemps quand on bloque, par exemple, sur un problème de mécanique. 
+Il ne sert à rien de forcer trop longtemps quand on bloque, par exemple, sur un problème de mécanique. 
 Il faut laisser le mode diffus faire son travail. 
 Bien souvent la solution émergera par elle-même, sous la douche, ou après une bonne nuit de sommeil. 
 
