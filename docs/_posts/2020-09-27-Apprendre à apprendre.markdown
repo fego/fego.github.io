@@ -103,7 +103,7 @@ Comme on l'a vu, il ne sert à rien de forcer trop longtemps quand on bloque, pa
 Il faut laisser le mode diffus faire son travail. 
 Bien souvent la solution émergera par elle-même, sous la douche, ou après une bonne nuit de sommeil. 
 
-J'aime aussi le concept de transfert, que des connaissances d'un domaine alimente les autres. 
+J'aime aussi le concept de transfert, que des connaissances d'un domaine alimentent les autres. 
 Pour moi c'est très important dans la création ludique. 
 Rien n'apparaît de nul part, une idée vient d'associations de concepts qui à un moment se relient grâce au mode diffus. 
 C'est la curiosité et la pratique qui feront émerger les idées. 
