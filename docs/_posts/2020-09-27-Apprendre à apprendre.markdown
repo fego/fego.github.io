@@ -115,7 +115,7 @@ Cela est exprimé dans le cours sous la forme de la Loi de la sérendipité : "D
 Et saviez-vous que les personnes les plus créatives sont en général plus ouvertes mais aussi plus désagréables ? 
 En effet, elles sont plus souvent dans l'opposition, plus prompte à être en désaccord et donc à sortir des sentiers battus. 
 Ce point n'est pas tellement développé, mais je l'ai trouvé intrigant. 
-Personnellement j'ai penser que l'on peut exprimer son désaccord tout en restant agréable. 
+Personnellement j'aime penser que l'on peut exprimer son désaccord tout en restant agréable. 
 Cependant la perception par les autres peut être parfois négative j'imagine, quelque soit la forme. 
 Comme le dit Thomas d'Ansembourg, "désaccord n'est pas désamour". 
 
