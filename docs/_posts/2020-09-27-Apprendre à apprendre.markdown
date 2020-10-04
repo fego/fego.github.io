@@ -56,7 +56,6 @@ Et pour nous aider à coller les morceaux on pourra utiliser les directement les
 
 ## Techniques 
 
-
 La technique qui est mise le plus en avant est le *recall*.
 C'est simple : plutôt que de lire et relire ses notes, chercher à se rappeler ce que l'on vient d'apprendre, et si possible dans un autre lieu. 
 On cherche à bien comprendre les notions de base avant d'avancer vers des notions plus avancées. 
@@ -100,13 +99,13 @@ Etant développeur et aussi [auteur de jeux](https://www.trictrac.net/jeu-de-soc
 ![créativité]({{ site.url }}images/créativité.jpeg)
 _Crédits : [Steve Johnson](https://www.pexels.com/fr-fr/photo/acrylique-arriere-plan-art-art-contemporain-1548110/)_
 
-Il ne sert à rien de forcer trop longtemps quand on bloque, par exemple, sur un problème de mécanique. 
+Comme on l'a vu, il ne sert à rien de forcer trop longtemps quand on bloque, par exemple, sur un problème de mécanique dans un jeu. 
 Il faut laisser le mode diffus faire son travail. 
 Bien souvent la solution émergera par elle-même, sous la douche, ou après une bonne nuit de sommeil. 
 
 J'aime aussi le concept de transfert, que des connaissances d'un domaine alimente les autres. 
 Pour moi c'est très important dans la création ludique. 
-Rien n'apparait de nul part, une idée vient d'associations de concepts qui à un moment se relient grâce au mode diffus. 
+Rien n'apparaît de nul part, une idée vient d'associations de concepts qui à un moment se relient grâce au mode diffus. 
 C'est la curiosité et la pratique qui feront émerger les idées. 
 Cela est exprimé dans le cours sous la forme de la Loi de la sérendipité : "Dame chance favorise ceux qui essaient".
 
