@@ -89,7 +89,27 @@ Aussi, on a tout intérêt à bien organiser ses tâches, en notant la veille au
 En notant ses tâches, on libère de la place dans notre mémoire de travail (qui n'en a que 4 rappelez-vous). 
 De même, mettre en place des rituels va nous aider à ancrer des bonnes habitudes. 
 Un étudiant ira par exemple à la  bibliothèque, lieu où il aura moins de distractions. 
-Puis, quand on réussit une tâche, se féliciter, et même célébrer sa réussite. 
+On commencera sa journée par les tâches qui nous gênent le plus, 
+"_eat your frog early on_".
+
+Ces différentes techniques sont applicables dans beaucoup (tous ?) les domaines, scientifiques ou artistiques. 
+Etant développeur et aussi [auteur de jeux](https://www.trictrac.net/jeu-de-societe/liste/auteur-illustrateur/david-franck), je pense qu'elles impacteront globalement ma façon de travailler. 
+
+# Créativité
+
+Par exemple, il ne sert à rien de forcer trop longtemps quand on bloque, par exemple, sur un problème de mécanique. 
+Il faut laisser le mode diffus faire son travail. 
+Bien souvent la solution émergera par elle-même, sous la douche, ou après une bonne nuit de sommeil. 
+
+Et saviez-vous que les personnes les plus créatives sont en général plus ouvertes mais aussi plus désagréables ? 
+En effet, elles sont plus souvent dans l'opposition, plus prompte à être en désaccord et donc à sortir des sentiers battus. 
+Ce point n'est pas tellement développé, mais je l'ai trouvé intrigant. 
+Personnellement j'ai penser que l'on peut exprimer son désaccord tout en restant agréable. 
+Cependant la perception par les autres peut être parfois négative j'imagine, quelque soit la forme. 
+Comme le dit Thomas d'Ansembourg, "désaccord n'est pas désamour". 
+
+Enfin, n'oubliez pas de vous féliciter quand vous réussissez une tâche, et même célébrer vos réussites. 
+Cela vous aidera à ancrer les bonnes habitudes. 
 
 Je me félicite donc d'avoir écrit cet article qui touche à sa fin ! 
 Peut-être saurez-vous si ce MOOC est fait pour vous ? 
