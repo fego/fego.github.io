@@ -96,8 +96,8 @@ Etant développeur et aussi [auteur de jeux](https://www.trictrac.net/jeu-de-soc
 
 # Créativité
 
-![créativité]({{ site.url }}images/ark_mechanik_big)
-_Crédits : [Simon Stålenhag](https://www.simonstalenhag.se/bilderbig/ark_mechanik_big.jpg)_
+![créativité]({{ site.url }}images/Tales_from_the_Loop_Simon_Stalenhag_varselklotet.jpg)
+_Crédits : [Simon Stålenhag](https://www.simonstalenhag.se/)_
 
 Comme on l'a vu, il ne sert à rien de forcer trop longtemps quand on bloque, par exemple, sur un problème de mécanique dans un jeu. 
 Il faut laisser le mode diffus faire son travail. 
