@@ -27,7 +27,7 @@ A contrario, dans le mode diffus on laisse notre esprit vagabonder.
 C'est le royaume de l'intuition, d'où émerge les idées nouvelles, mais qu'il faudra regarder avec l’œil du mode focus, car tout ce qui vient du mode diffus n'est pas valable. 
 
 ![insister.png]({{ site.url }}images/insister.jpeg)
-_Crédits : Gioele Fazzeri(https://www.pexels.com/fr-fr/photo/lumineux-aube-soleil-couchant-homme-4496727/)_
+_Crédits : [Gioele Fazzeri](https://www.pexels.com/fr-fr/photo/lumineux-aube-soleil-couchant-homme-4496727/)_
 
 Avez-vous déjà eu la sensation de trop insister sur un problème, sentir que vous vous tapez contre un mur, qu'il faudrait certainement arrêter et prendre l'air au lieu de continuer à vous acharner ? Cela m'est arrivé de nombreuses fois, et peut encore m'arriver, mais ça ne mène à rien en général, c'est même plutôt contre-productif. C'est pourquoi nous avons besoin d'alterner les deux modes de pensées. 
 Et quand nous sommes coincés, c'est le moment de faire une pause. 
