@@ -123,5 +123,5 @@ Comme le dit Thomas d'Ansembourg, "désaccord n'est pas désamour".
 Enfin, n'oubliez pas de vous féliciter quand vous réussissez une tâche, et même célébrer vos réussites. 
 Cela vous aidera à ancrer les bonnes habitudes. 
 
-Je me félicite donc d'avoir écrit cet article qui touche à sa fin ! 
-Peut-être saurez-vous si ce MOOC est fait pour vous ? 
+Je me félicite donc d'avoir écrit cet article qui touche à sa fin ! 
+Peut-être saurez-vous si ce MOOC est fait pour vous ? 
