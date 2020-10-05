@@ -80,8 +80,8 @@ Mais pourquoi procrastine-t-on ?
 
 Le cours aborde aussi ce sujet. 
 Et si au début je n'étais pas trop emballé à l'idée d'avoir une section complète lui étant consacrée, j'ai fini par être conquis. 
-Déjà, savoir que le sentiment d'inconfort que l'on a parfois, même sur des tâches dans des domaines qui nous plaisent, est normal, j'ai trouvé cela rassurant (ce sont les zones de la douleur qui s'activent dans le cerveau !). 
-Cette appréhension disparaît assez vite, et pour plonger plus facilement dans une tâche il faut mettre son attention sur le processus et non le résultat attendu. 
+Déjà, savoir que le sentiment d'inconfort que l'on a parfois, même sur des tâches dans des domaines qui nous plaisent, est normal, j'ai trouvé cela rassurant (ce sont les zones de la douleur qui s'activent dans le cerveau !). 
+Cette appréhension disparaît assez vite, et pour plonger plus facilement dans une tâche il faut mettre son attention sur le processus et non sur le résultat attendu. 
 
 On va s'aider (encore) de la technique du pomodoro. 
 
