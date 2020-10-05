@@ -35,10 +35,10 @@ Et quand nous sommes coincés, c'est le moment de faire une pause.
 Vous pouvez aller dormir, le sommeil est fondamental dans l'apprentissage, mais au bureau ce n'est pas encore une pratique très répandue. 
 
 C'est là que la technique du [pomodoro](https://fr.wikipedia.org/wiki/Technique_Pomodoro) pourra vous être utile. 
-En résumé, vous alternez des phases en mode focus pendant 25mn et vous faites une pause de 5mn. 
-Et tous les 4 cycles vous faites une pause longue (25mn).
-Ce n'est pas toujours évident de respecter ces alternances, nous sommes menacés de toute part par des sollicitations, que ce soit un collègue qui a une question, un mail, mais aussi un sms personnel. 
-Il est donc important de se mettre dans une bulle pendant ces 25mn, avec un casque, en coupant les notifications. 
+En résumé, vous alternez des phases en mode focus pendant 25min et vous faites une pause de 5min. 
+Et tous les 4 cycles vous faites une pause longue (25min).
+Ce n'est pas toujours évident de respecter ces alternances, nous sommes menacés de toute part par des sollicitations, que ce soit un collègue qui a une question, un mail, mais aussi un SMS personnel. 
+Il est donc important de se mettre dans une bulle pendant ces 25min, avec un casque, en coupant les notifications. 
 Et il est tout aussi important de bien respecter les pauses, les courtes comme les longues. 
 C'est une discipline personnelle et il m'arrive encore trop souvent de ne pas le respecter, par impatience, incapacité à me poser. 
 
