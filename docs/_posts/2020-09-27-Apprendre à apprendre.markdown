@@ -111,7 +111,7 @@ _Les changement de paradigmes ont été apportés par des jeunes ou par des pers
 
 Rien n'apparaît de nulle part, une idée vient d'associations de concepts qui à un moment se relient les uns les autres grâce au mode diffus. 
 C'est la curiosité et la pratique qui feront émerger les idées. 
-Cela est exprimé dans le cours sous la forme de la Loi de la sérendipité : "Dame chance favorise ceux qui essaient". 
+Cela est exprimé dans le cours sous la forme de la Loi de la sérendipité : « Dame chance favorise ceux qui essaient ». 
 
 Et saviez-vous que les personnes les plus créatives sont en général plus ouvertes mais aussi plus désagréables ? 
 En effet, elles sont plus souvent dans l'opposition, plus prompte à être en désaccord et donc à sortir des sentiers battus. 
