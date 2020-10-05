@@ -10,6 +10,7 @@ J'espère ne pas tomber dans un travers évoqué dans le cours, celui de l'illus
 
 Il dure 4 semaines, pendant lesquelles il vous faudra prévoir entre 3 à 5 heures de travail pour chacune, mais dont la matière extraite vous accompagnera pour toute une vie. 
 Je l'ai suivi en anglais mais des sous titres en français sont disponibles et de bonne qualité. 
+Arrivé à la fin, je me suis même aperçu qu'il existait une [version complétement en français](https://www.coursera.org/learn/apprendre-comment-apprendre).
 
 ## Mémoire et modes de pensées
 
