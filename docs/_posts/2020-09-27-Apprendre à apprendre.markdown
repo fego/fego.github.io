@@ -117,7 +117,7 @@ Et saviez-vous que les personnes les plus créatives sont en général plus ouve
 En effet, elles sont plus souvent dans l'opposition, plus prompte à être en désaccord et donc à sortir des sentiers battus. 
 Ce point n'est pas tellement développé, mais je l'ai trouvé intrigant. 
 Personnellement j'aime penser que l'on peut exprimer son désaccord tout en restant agréable. 
-Cependant la perception par les autres peut être parfois négative j'imagine, quelque soit la forme. 
+Cependant j’imagine que la perception par les autres peut être parfois négative, quelque soit la forme. 
 Comme le dit Thomas d'Ansembourg, "désaccord n'est pas désamour". 
 
 Enfin, n'oubliez pas de vous féliciter quand vous réussissez une tâche, et même célébrer vos réussites. 
