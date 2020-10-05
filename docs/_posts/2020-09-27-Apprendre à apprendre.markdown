@@ -92,8 +92,8 @@ Un étudiant ira par exemple à la bibliothèque, lieu où il aura moins de dist
 On commencera sa journée par les tâches qui nous gênent le plus, 
 "_eat your frog early on_".
 
-Ces différentes techniques sont applicables dans beaucoup (tous ?) les domaines, scientifiques ou artistiques. 
-Etant développeur et aussi [auteur de jeux](https://www.trictrac.net/jeu-de-societe/liste/auteur-illustrateur/david-franck), je pense qu'elles impacteront globalement ma façon de travailler. 
+Ces différentes techniques sont applicables dans beaucoup (tous ?) les domaines, scientifiques ou artistiques. 
+Étant développeur et aussi [auteur de jeux](https://www.trictrac.net/jeu-de-societe/liste/auteur-illustrateur/david-franck), je pense qu'elles auront globalement un impact sur ma façon de travailler. 
 
 # Créativité
 
