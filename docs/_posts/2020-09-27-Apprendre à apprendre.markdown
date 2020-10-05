@@ -113,7 +113,7 @@ Rien n'apparaît de nulle part, une idée vient d'associations de concepts qui �
 C'est la curiosité et la pratique qui feront émerger les idées. 
 Cela est exprimé dans le cours sous la forme de la Loi de la sérendipité : « Dame chance favorise ceux qui essaient ». 
 
-Et saviez-vous que les personnes les plus créatives sont en général plus ouvertes mais aussi plus désagréables ? 
+Et saviez-vous que les personnes les plus créatives sont en général plus ouvertes mais aussi plus désagréables ? 
 En effet, elles sont plus souvent dans l'opposition, plus prompte à être en désaccord et donc à sortir des sentiers battus. 
 Ce point n'est pas tellement développé, mais je l'ai trouvé intrigant. 
 Personnellement j'aime penser que l'on peut exprimer son désaccord tout en restant agréable. 
