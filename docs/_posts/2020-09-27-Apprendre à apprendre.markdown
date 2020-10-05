@@ -104,12 +104,12 @@ Comme on l'a vu, il ne sert à rien de forcer trop longtemps quand on bloque, pa
 Il faut laisser le mode diffus faire son travail. 
 Bien souvent la solution émergera par elle-même, sous la douche, ou après une bonne nuit de sommeil. 
 
-J'aime aussi le concept de transfert, que des connaissances d'un domaine alimentent les autres. 
+J'aime aussi le concept de transfert, qui est l’idée que des connaissances d'un domaine alimentent les autres. 
 Pour moi c'est très important dans la création ludique. 
 
 _Les changement de paradigmes ont été apportés par des jeunes ou par des personnes étrangères à une discipline_ (Thomas S. Kuhn). 
 
-Rien n'apparaît de nulle part, une idée vient d'associations de concepts qui à un moment se relient grâce au mode diffus. 
+Rien n'apparaît de nulle part, une idée vient d'associations de concepts qui à un moment se relient les uns les autres grâce au mode diffus. 
 C'est la curiosité et la pratique qui feront émerger les idées. 
 Cela est exprimé dans le cours sous la forme de la Loi de la sérendipité : "Dame chance favorise ceux qui essaient". 
 
