@@ -46,29 +46,29 @@ Si on est dans le forçage, on ne pourra pas faire les connexions nécessaires, 
 
 ## *Chunk* ? 
 
-C'est un concept qui est introduit dans le cours et qui est suffisamment abstrait pour ne pas être simple à comprendre. 
+C'est un concept qui est introduit dans le cours et qui est très abstrait.
 D'ailleurs dans mes notes je ne l'ai pas traduit, signe d'une certaine difficulté à bien appréhender cette notion. 
-Je vous résume simplement le sens que j'ai compris : un ensemble d'informations reliées par leur usage ou leur signification. 
-Certains moments du cours sont un peu plus ardus, enfin l'ont été pour moi. Et ce sont des efforts inévitables quand on est confrontés à des nouveaux concepts abstraits, il y a une forte charge cognitive. 
-Mais à force on relie ces informations entre elles, on leur donne du contexte et elles finissent par faire sens, comme un puzzle. 
-Et le cours aide bien à construire ce puzzle de l'apprentissage, c'est avant tout un cours très didactique qui reste plutôt simple à suivre. 
+Je vous résume simplement le sens que j'ai compris : un ensemble d'informations reliées par leur usage ou leur signification. 
+Certains moments du cours ont été pour moi un peu plus ardus. Et ce sont des efforts inévitables quand on est confrontés à des nouveaux concepts abstraits, il y a une forte charge cognitive. 
+Mais à force on relie ces informations entre elles, on leur donne du contexte et elles finissent par avoir du sens, comme un puzzle. 
+Et le cours aide bien à construire ce puzzle de l'apprentissage, c'est avant tout un cours très pédagogique qui reste plutôt simple à suivre. 
 
-Et pour nous aider à coller les morceaux on pourra utiliser les directement les techniques présentées dans le MOOC.
+Et pour nous aider à recoller les morceaux on pourra utiliser directement les techniques présentées dans le MOOC.
 
 ## Techniques 
 
 La technique qui est mise le plus en avant est le *recall*.
-C'est simple : plutôt que de lire et relire ses notes, chercher à se rappeler ce que l'on vient d'apprendre, et si possible dans un autre lieu. 
+C'est simple : plutôt que de lire et relire ses notes, on cherche à se rappeler ce que l'on vient d'apprendre, et si possible dans un autre lieu. 
 On cherche à bien comprendre les notions de base avant d'avancer vers des notions plus avancées. 
 C'est plus puissant que de faire des mindmaps, même si ce n'est pas inutile d'en faire. 
-Mais faire ces exercices peu après un apprentissage est une discipline qui aura beaucoup d'impacts. 
+Mais faire ces exercices très tôt après un apprentissage est une discipline qui aura beaucoup d'impacts. 
 
 On pourra par la suite ancrer cela avec de la répétition espacée, une technique aussi très efficace qui permet de s'autotester régulièrement sans risquer la surcharge. Pour cela j'utilise personnellement [Anki](https://apps.ankiweb.net/) depuis quelques temps, et je trouve cet outil très pratique (il existe sur mobile et en version desktop). Si vous ne connaissez pas cette technique je vous invite à consulter le [super exposé](https://ncase.me/remember/) de Nicky Case, très didactique. 
 Le cours propose d'ailleurs aussi des articles (optionnels), mais qui permettent d'avoir des informations complémentaires très intéressantes (par exemple [cet article](https://www.aft.org/sites/default/files/periodicals/dunlosky.pdf) de John Dunlosky). 
 Ils font partie de sections optionnelles qui permettent d'aller plus loin et qui comportent aussi des témoignages plus légers que le contenu du cours mais néanmoins intéressant, comme par exemple celui d'une écrivaine qui partage quelques techniques d'écriture. 
 
-Le but n'étant pas de faire un tour exhaustif du MOOC mais plutôt de brosser un aperçu je vais m'arrêter la sur les techniques qui peuvent aider dans l'apprentissage. 
-Mais le MOOC en aborde d'autres, comme l'entrelacement, la visualisation. 
+Le but n'étant pas de faire un tour exhaustif du MOOC mais plutôt de brosser un aperçu je vais m'arrêter là sur les techniques qui peuvent aider dans l'apprentissage. 
+Mais le MOOC en aborde d'autres, comme l'entrelacement, la visualisation  
 
 Arrivé ici, vous vous dites peut-être que ce MOOC est fait pour vous, mais allez-vous vraiment franchir le pas ? 
 Ce n'est pas toujours simple de savoir comment investir son précieux temps. 
