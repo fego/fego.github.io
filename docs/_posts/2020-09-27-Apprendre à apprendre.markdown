@@ -88,7 +88,7 @@ On va s'aider (encore) de la technique du pomodoro.
 Aussi, on a tout intérêt à bien organiser ses tâches, en notant la veille au soir les tâches du lendemain et aussi une fois par semaine toutes les tâches de la semaine. 
 En notant ses tâches, on libère de la place dans notre mémoire de travail (qui n'en a que 4 rappelez-vous). 
 De même, mettre en place des rituels va nous aider à ancrer des bonnes habitudes. 
-Un étudiant ira par exemple à la  bibliothèque, lieu où il aura moins de distractions. 
+Un étudiant ira par exemple à la bibliothèque, lieu où il aura moins de distractions. 
 On commencera sa journée par les tâches qui nous gênent le plus, 
 "_eat your frog early on_".
 
