@@ -53,7 +53,7 @@ Certains moments du cours ont été pour moi un peu plus ardus. Et ce sont des e
 Mais à force on relie ces informations entre elles, on leur donne du contexte et elles finissent par avoir du sens, comme un puzzle. 
 Et le cours aide bien à construire ce puzzle de l'apprentissage, c'est avant tout un cours très pédagogique qui reste plutôt simple à suivre. 
 
-Et pour nous aider à recoller les morceaux on pourra utiliser directement les techniques présentées dans le MOOC.
+Et pour nous aider à assembler les pièces on pourra utiliser directement les techniques présentées dans le MOOC.
 
 ## Techniques 
 
@@ -104,7 +104,7 @@ Comme on l'a vu, il ne sert à rien de forcer trop longtemps quand on bloque, pa
 Il faut laisser le mode diffus faire son travail. 
 Bien souvent la solution émergera par elle-même, sous la douche, ou après une bonne nuit de sommeil. 
 
-J'aime aussi le concept de transfert, qui est l’idée que des connaissances d'un domaine alimentent les autres. 
+J'aime aussi le concept de transfert : des connaissances d'un domaine alimentent les autres. 
 Pour moi c'est très important dans la création ludique. 
 
 _Les changement de paradigmes ont été apportés par des jeunes ou par des personnes étrangères à une discipline_ (Thomas S. Kuhn). 
