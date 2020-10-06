@@ -125,3 +125,5 @@ Cela vous aidera à ancrer les bonnes habitudes.
 
 Je me félicite donc d'avoir écrit cet article qui touche à sa fin ! 
 Peut-être saurez-vous si ce MOOC est fait pour vous ? 
+
+_Un grand merci à [Christophe](https://twitter.com/profgraorg) pour sa relecture._
