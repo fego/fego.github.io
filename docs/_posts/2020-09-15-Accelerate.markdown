@@ -32,7 +32,7 @@ Cela a abouti à 4 mesures :
 
 En 2019, une nouvelle catégorie, dite « élite », figure dans le rapport : voici ce que font ces meilleurs performeurs par rapport aux moins bons[^3] (dans le livre vous trouverez les chiffres de 2017 qui sont déjà assez impressionnants) : 
 
-![b468307df3f84d12d1079cde08d1ed5e.png]({{ site.url }}images/b468307df3f84d12d1079cde08d1ed5e.png)
+![performance]({{ site.url }}images/accelerate_1.png)
 
 ## Développer la culture d'une organisation
 
