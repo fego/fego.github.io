@@ -57,7 +57,7 @@ On peut aussi mettre des étiquettes (ou *tags*) sur une note. Par exemple *#pri
 
 ## La puissance de la simplicité
 
-Prendre des *smart* notes **ce n'est "que" ça. Un peu de méthode, un outil pour faire des connexions. C'est tout. Mais ça change tout. 
+Prendre des *smart* notes ce n'est "que" ça. Un peu de méthode, un outil pour faire des connexions. C'est tout. Mais ça change tout. 
 
 Au début j'ai un peu tâtonné, et je tâtonne encore un peu d'ailleurs. Comme toute découverte c'était encore abstrait, comme j'imagine que ça l'est pour vous encore maintenant si vous ne connaissiez pas le Zettelkasten (ou slip box en anglais). Mais pour rien au monde je ne reviendrai en arrière. J'ai maintenant des notes utiles, faciles à utiliser, qui chaque jour prennent de la valeur, me permettent de partager plus facilement ma connaissance, augmente ma motivation. Dans mon quotidien professionnel elles me servent déjà. Et c'est le troisième article que j'écrits grâce à ce système, sans douleur. 
 
