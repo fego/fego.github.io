@@ -18,7 +18,7 @@ Quel est l'intérêt de notes que l'on peut difficilement réutiliser, exploiter
 
 Simon Stalenhag - [https://www.simonstalenhag.se/tftl.html](https://www.simonstalenhag.se/tftl.html)
 
-La conférence m'a ouvert l'esprit sur cet état de fait. Mes notes me servaient peu. Un cimetierre de notes. C'était à la fois déprimant de réaliser cela, mais c'était aussi l'espoir de trouver une solution qui ravirait mon "moi du futur", certainement très heureux de trouver des notes utiles et exploitables. 
+La conférence m'a ouvert l'esprit sur cet état de fait. Mes notes me servaient peu. Un cimetière de notes. C'était à la fois déprimant de réaliser cela, mais c'était aussi l'espoir de trouver une solution qui ravirait mon "moi du futur", certainement très heureux de trouver des notes utiles et exploitables. 
 
 J'ai donc commencé à utiliser la méthode qu'il propose, et j'ai creusé plus tard avec le livre "[How to take smart notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502)" qui est venu alimenter le tableau. Deux mois plus tard, je peux vous dire que j'en suis très content. Vraiment. Extrêmement content. 
 
@@ -37,7 +37,7 @@ On commence par la capture. En lisant, regardant, écoutant, on prend des notes 
 
 Puis vient la phase d'élaboration. C'est l'étape la plus importante. Il faut s'y atteler rapidement, car plus on tarde, plus on oublie le contexte de nos notes. Ce que l'on fait ? On va réécrire ses notes sous forme atomique. Une idée, un concept, une note. Enfin, le plus possible, il ne s'agit pas de bloquer à cause de cela. La note doit être de qualité, mais étant donné que c'est un processus itératif, on reviendra dessus, et parfois avec du recul on pourra faire des ajustements plus pertinents.   Celle-ci doit être claire et être lisible par le "moi du futur". On peut faire cela sur des papiers comme le faisait [Niklas Luhman](https://fr.wikipedia.org/wiki/Niklas_Luhmann) l'inventeur du système (nommé [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)). Mais en 2020 ça vaut le coup de s'aider d'un logiciel (j'utilise [Obsidian](https://obsidian.md/), mais il y en a plein d'autres). 
 
-Une fois la note satisfaisante on va la connecter aux autres notes. Pour cela on crée des liens vers des notes avec lesquelles elle a une connexion. On peut aussi aller dans nos autres notes pointer vers cette nouvelle note (avec un outil c'est fait en 2 secondes, si vous choisissez l'option papier, il vous faudra un système de numérotation que je ne décirai pas ici mais vous trouverez facilement des propositions en cherchant sur le net). Ainsi petit à petit se tisse une toile de notes. Plus de catégories statiques, de notes empilées, mais un réseau.
+Une fois la note satisfaisante on va la connecter aux autres notes. Pour cela on crée des liens vers des notes avec lesquelles elle a une connexion. On peut aussi aller dans nos autres notes pointer vers cette nouvelle note (avec un outil c'est fait en 2 secondes, si vous choisissez l'option papier, il vous faudra un système de numérotation que je ne décrirai pas ici mais vous trouverez facilement des propositions en cherchant sur le net). Ainsi petit à petit se tisse une toile de notes. Plus de catégories statiques, de notes empilées, mais un réseau.
 
 Voici par exemple à quoi ressemble mon réseau de notes après deux mois : 
 
@@ -47,18 +47,18 @@ Ces connexions reliant des notes assez simples sont très utiles. Elle servent �
 
 Dans le livre Sönke Arhens parle beaucoup de cas d'usages d'étudiants ou de chercheurs, car ce sont des cibles évidentes. En effet, bien souvent la méthode enseignée consiste plutôt a concevoir un plan à l'avance, puis ensuite de péniblement venir remplir les cases. Alors qu'avec ce système de prise de notes, on privilégie la libre pensée. Ce n'est qu'à la fin que l'on va faire le plan, fruit, des recherches. Comme il le dit "les vrais experts ne font pas de plan, ils s'adaptent". 
 
-Mais tout cela est aussi très utile pour bien d'autres usages. Je m'en sers beaucoup pour ma prise de notes techniques en informatique. J'y aggrège tout ce que j'apprends, formulé avec mes mots. Et petit à petit depuis que je fais cela ma prise de hauteur sur un sujet est beaucoup plus facile. Mais j'y mets aussi des notesp lus psycho / socio /développement personnel. 
+Mais tout cela est aussi très utile pour bien d'autres usages. Je m'en sers beaucoup pour ma prise de notes techniques en informatique. J'y agrège tout ce que j'apprends, formulé avec mes mots. Et petit à petit depuis que je fais cela ma prise de hauteur sur un sujet est beaucoup plus facile. Mais j'y mets aussi des notes plus psycho / socio /développement personnel. 
 
 Ce travail d'élaboration et de connexion est aussi un bon moyen de mémorisation, bien que ce ne soit pas le but ultime. Mais notre compréhension augmentant, les connexions s'établissant, les informations que nous mémorisons s'enrichissent, se complètent, prennent encore plus sens. 
 
 Enfin, parfois il peut être utile de créer une note structurée. Une sorte d'index, un point de départ pour des recherches. Il faudra limiter au maximum ces notes pour ne pas figer la structure et ne pas tomber dans le travers des catégories. Ces dernières limitent le champ d'investigation, rigidifient nos notes. Dans ce système on est dans un processus qui part du bas, des notes. Ce n'est pas du *top down* avec des catégories prédéfinies, elles émergent au fur et à mesure, et les notes leur sont transverses, elles peuvent apparaitre dans plusieurs réseaux. J'ai par exemple des notes reliées à un ensemble de notes sur le sujet de la "prise de notes" et d'autres notes reliées autour du sujet de "l'apprentissage", mais j'ai aussi des notes qui sont reliées aux deux sujets. 
 
-On peut aussi mettre des étiquettes (ou *tags*) sur une note. Par exemple *#prisedenote #apprentissage*. Cela pourra être utile pour des recherches, mais là encore, le choix du tag semble être tout un art pourqu'il soit réellement utile dans le futur. 
+On peut aussi mettre des étiquettes (ou *tags*) sur une note. Par exemple *#prisedenote #apprentissage*. Cela pourra être utile pour des recherches, mais là encore, le choix du tag semble être tout un art pour qu'il soit réellement utile dans le futur. 
 
 ## La puissance de la simplicité
 
 Prendre des *smart* notes **ce n'est "que" ça. Un peu de méthode, un outil pour faire des connexions. C'est tout. Mais ça change tout. 
 
-Au début j'ai un peu tatonné, et je tatonne encore un peu d'ailleurs. Comme toute découverte c'était encore abstrait, comme j'imagine que ça l'est pour vous encore maintenant si vous ne connaissiez pas le Zettelkasten (ou slip box en anglais). Mais pour rien au monde je ne reviendrai en arrière. J'ai maintenant des notes utiles, faciles à utiliser, qui chaque jour prennent de la valeur, me permettent de partager plus facilement ma connaisance, augmente ma motivation. Dans mon quotidien professionnel elles me servent déjà. Et c'est le troisième article que j'écrits grâce à ce système, sans douleur. 
+Au début j'ai un peu tâtonné, et je tâtonne encore un peu d'ailleurs. Comme toute découverte c'était encore abstrait, comme j'imagine que ça l'est pour vous encore maintenant si vous ne connaissiez pas le Zettelkasten (ou slip box en anglais). Mais pour rien au monde je ne reviendrai en arrière. J'ai maintenant des notes utiles, faciles à utiliser, qui chaque jour prennent de la valeur, me permettent de partager plus facilement ma connaissance, augmente ma motivation. Dans mon quotidien professionnel elles me servent déjà. Et c'est le troisième article que j'écrits grâce à ce système, sans douleur. 
 
 Si cela vous parle, n'ayez pas peur, lancez vous, votre moi du futur vous remerciera !
