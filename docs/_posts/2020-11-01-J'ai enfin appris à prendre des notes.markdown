@@ -14,7 +14,7 @@ Quel est l'intérêt de notes que l'on peut difficilement réutiliser, exploiter
 
 ## Qu'est-ce qu'un bonne prise de notes ?
 
-![Bonne prise de notes]({{ site.url }}images/cimetierre.png)
+![Bonne prise de notes]({{ site.url }}images/bonne_prise_notes.png)
 
 Simon Stalenhag - [https://www.simonstalenhag.se/tftl.html](https://www.simonstalenhag.se/tftl.html)
 
