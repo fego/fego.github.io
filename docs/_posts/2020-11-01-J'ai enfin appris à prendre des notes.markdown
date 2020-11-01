@@ -14,7 +14,7 @@ Quel est l'intérêt de notes que l'on peut difficilement réutiliser, exploiter
 
 ## Qu'est-ce qu'un bonne prise de notes ?
 
-![Bonne prise de notes]({{ site.url }}images/cimetierre.jpeg)
+![Bonne prise de notes]({{ site.url }}images/cimetierre.png)
 
 Simon Stalenhag - [https://www.simonstalenhag.se/tftl.html](https://www.simonstalenhag.se/tftl.html)
 
@@ -33,7 +33,7 @@ Le secret ? Un simple processus, quelques étapes, rien de mystérieux.
 
 On commence par la capture. En lisant, regardant, écoutant, on prend des notes sur le support de son choix. Il faut toujours avoir un carnet à portée de main, mais n'importe quel bout de papier fera l'affaire. On notera aussi dessus les idées, les réflexions qui nous viennent. Ces notes sont éphémères, on les jettera. Cependant cela ne veut pas dire que l'on va bâcler ce que l'on écrit, non. On soigne tout de même le contenu un minimum. Ici on est clair et concis. Et on tâche de ne pas copier tel, on fait l'effort de paraphraser. C'est très important car cela nous permet une première appropriation du propos, de valider une première fois notre compréhension.
 
-![Capturer des notes]({{ site.url }}images/capture_notes.jpeg)
+![Capturer des notes]({{ site.url }}images/capture_notes.png)
 
 Puis vient la phase d'élaboration. C'est l'étape la plus importante. Il faut s'y atteler rapidement, car plus on tarde, plus on oublie le contexte de nos notes. Ce que l'on fait ? On va réécrire ses notes sous forme atomique. Une idée, un concept, une note. Enfin, le plus possible, il ne s'agit pas de bloquer à cause de cela. La note doit être de qualité, mais étant donné que c'est un processus itératif, on reviendra dessus, et parfois avec du recul on pourra faire des ajustements plus pertinents.   Celle-ci doit être claire et être lisible par le "moi du futur". On peut faire cela sur des papiers comme le faisait [Niklas Luhman](https://fr.wikipedia.org/wiki/Niklas_Luhmann) l'inventeur du système (nommé [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)). Mais en 2020 ça vaut le coup de s'aider d'un logiciel (j'utilise [Obsidian](https://obsidian.md/), mais il y en a plein d'autres). 
 
@@ -41,7 +41,7 @@ Une fois la note satisfaisante on va la connecter aux autres notes. Pour cela on
 
 Voici par exemple à quoi ressemble mon réseau de notes après deux mois : 
 
-![Graph Obsidian]({{ site.url }}images/graph_obsidian_dav)
+![Graph Obsidian]({{ site.url }}images/graph_obsidian_dav.png)
 
 Ces connexions reliant des notes assez simples sont très utiles. Elle servent à chaque fois que vous allez saisir une nouvelle note. En effet, on va rechercher d'abord les notes relatives à ce sujet. Et grâce à ce système c'est rapide. On pourra alors reparcourir ces notes, et ainsi rendre notre nouvelle note plus pertinente, et la relier ensuite pour l'intégrer dans le réseau. Puis, quand on reviendra consulter ces notes, comme par exemple pour écrire un article, alors il suffira de tirer un fil, et toutes les idées seront déjà prêtes, sur un plateau. Réellement. 
 
