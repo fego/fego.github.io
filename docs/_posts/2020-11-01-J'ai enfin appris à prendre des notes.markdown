@@ -55,7 +55,7 @@ Parfois il pourra être utile de créer une sorte de "super" note, comme un inde
 
 Dans le livre Sönke Arhens parle beaucoup de la prise de notes des étudiants ou des chercheurs, car ce sont des cibles évidentes. En effet, bien souvent la méthode enseignée consiste plutôt a concevoir un plan à l'avance, puis de péniblement venir remplir les cases. Avec ce système de prise de notes, on privilégie la libre pensée. Ce n'est qu'à la fin que l'on va faire le plan, fruit des recherches. Comme il le dit "les vrais experts ne font pas de plan, ils s'adaptent". 
 
-Mais tous ces conseils, et plus globalement la méthode est valable pour tout ce qui n'est pas de la fiction. Personnellement je m'en sers beaucoup pour ma prise de notes techniques en informatique. J'y agrège tout ce que j'apprends, formulé avec mes mots. Mais j'y mets aussi des notes plus psycho / socio /développement personnel / etc.
+Mais tous ces conseils, et plus globalement la méthode est valable pour tout ce qui n'est pas de la fiction. Personnellement je m'en sers beaucoup pour ma prise de notes techniques en informatique. J'y agrège tout ce que j'apprends, formulé avec mes mots. Mais j'y mets aussi des notes plus psycho / socio / développement personnel / etc.
 
 ## La puissance de la simplicité
 
