@@ -20,7 +20,7 @@ La conférence de Sönke Arhens m'a ouvert l'esprit sur cet état de fait. Mes n
 
 J'ai donc commencé à utiliser la méthode qu'il propose ([Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) en allemand, slip box en anglais) en lisant des articles à droite et à gauche. Puis j'ai creusé plus tard avec le livre "[How to take smart notes](https://takesmartnotes.com/#book)" qui est venu alimenter le tableau. Deux mois plus tard, je peux vous dire que j'en suis très content. Vraiment. Extrêmement content. 
 
-# Pourquoi prennons-nous des notes ?
+# Pourquoi prenons-nous des notes ?
 
 On ne note pas pour se rappeler. Pour cela on va utiliser d'autres techniques, comme la répétition espacée, le recall (j'en parle [là](http://fego.github.io/2020/09/27/Apprendre-%C3%A0-apprendre.html)). Certes, la prise de note en soit va déjà nous permettre de mémoriser, mais ce n'est pas le but. Le but est d'externaliser notre pensée, de décharger la mémoire afin d'avoir le *focus* sur la pensée. 
 
@@ -37,7 +37,7 @@ On commence par la capture. En lisant, regardant, écoutant, on prend des notes 
 
 ![Capturer des notes]({{ site.url }}images/capture_notes.png)
 
-Puis vient la phase d'élaboration. C'est l'étape la plus importante. Il faut s'y atteler rapidement, le soir même si possible, car plus on tarde, plus on oublie le contexte de nos notes. Ce que l'on fait ? On va réécrire les notes (capturées précédemment) sous forme atomique. Une idée égal une note. C'est un point qui n'est pas toujours évident, et j'ai tendance à parfois y déroger, à remanier mes notes itérativement. Tant que la note doit être claire et lisible par le "moi du futur" ça me va. La note une fois terminée intègre donc notre ensemble de notes dites permanentes. Elle rejoint le réseau de notes. 
+Puis vient la phase d'élaboration. C'est l'étape la plus importante. Il faut s'y atteler rapidement, le soir même si possible, car plus on tarde, plus on oublie le contexte de nos notes. Ce que l'on fait ? On va réécrire les notes (capturées précédemment) sous forme atomique. Une idée devient une note. C'est un point qui n'est pas toujours évident, et j'ai tendance à parfois y déroger, à remanier mes notes itérativement. Tant que la note doit être claire et lisible par le "moi du futur" ça me va. La note une fois terminée intègre donc notre ensemble de notes dites permanentes. Elle rejoint le réseau de notes. 
 
 On peut faire notre système sur du papier comme le faisait [Niklas Luhman](https://fr.wikipedia.org/wiki/Niklas_Luhmann) l'inventeur du Zettelkasten. J'aurais beaucoup de mal à faire comme lui, ne serait-ce que parce que pour l'instant je reviens encore régulièrement sur mes notes. Mais aujourd'hui il existe des outils faciles d'accès, et gratuits. J'utilise [Obsidian](https://obsidian.md/) mais il y en a [plein d'autres](https://nesslabs.com/how-to-choose-the-right-note-taking-app#more-9889). En simplifiant, imaginez un wiki, où chaque note serait une page du wiki. Par exemple j'ai une note "limites des systèmes de prise de notes classiques", une autre "comment faire un zettelkasten". 
 
@@ -47,15 +47,15 @@ Voici à quoi ressemble mon réseau de notes après deux mois :
 
 ![Graph Obsidian]({{ site.url }}images/graph_obsidian_dav.png)
 
-Ces connexions reliant des notes assez simples sont très utiles. Elle servent à chaque fois que vous allez saisir une nouvelle note. Je recherche avant (ou parfois pendant) la phase d'élaboration les notes relatives au sujet de la nouvelle note. Et c'est rapide. Je reparcours ces notes qui rajoutent un contexte. Ma nouvelle note en devient plus pertinente. Je la connecte aux autres. Puis, plus tard quand je reviens consulter ces notes, comme par exemple pour écrire un article, alors il suffira de tirer un fil, et toutes les idées seront déjà prêtes, sur un plateau. Réellement. 
+Ces connexions reliant des notes assez simples sont très utiles. Elle servent à chaque fois que vous allez saisir une nouvelle note. Je recherche avant (ou parfois pendant) la phase d'élaboration les notes relatives au sujet de la nouvelle note. Et c'est rapide. Je reparcours ces notes qui rajoutent un contexte. Ma nouvelle note en devient plus pertinente (et parfois ça m'évite de noter une deuxième fois quelque chose que j'avais déjà noté il y a quelques semaines...). Je la connecte aux autres. Puis, plus tard quand je reviens consulter ces notes, comme par exemple pour écrire un article, alors il suffira de tirer un fil, et toutes les idées seront déjà prêtes, sur un plateau. Réellement. 
 
 Tout simplement. Le réseau se tisse petit à petit. L'effort est dilué sur chaque saisie de note. 
 
 Parfois il pourra être utile de créer une sorte de "super" note, comme un index, un point de départ pour des recherches. Il faudra limiter au maximum ces notes pour ne pas figer la structure et ne pas tomber dans le travers des catégories. Ces dernières limitent le champ d'investigation, rigidifient nos notes. Dans ce système on est dans un processus qui part du bas, des notes. Les catégories ne sont pas prédéfinies, elles émergent au fur et à mesure, et les notes leur sont transverses. Elles peuvent apparaître dans plusieurs réseaux. J'ai par exemple des notes reliées à un ensemble de notes sur le sujet de la "prise de notes" et d'autres notes reliées autour du sujet de "l'apprentissage", mais j'ai aussi des notes qui sont reliées aux deux sujets. 
 
-Dans le livre Sönke Arhens parle beaucoup de cas d'usages d'étudiants ou de chercheurs, car ce sont des cibles évidentes. En effet, bien souvent la méthode enseignée consiste plutôt a concevoir un plan à l'avance, puis de péniblement venir remplir les cases. Avec ce système de prise de notes, on privilégie la libre pensée. Ce n'est qu'à la fin que l'on va faire le plan, fruit des recherches. Comme il le dit "les vrais experts ne font pas de plan, ils s'adaptent". 
+Dans le livre Sönke Arhens parle beaucoup de la prise de notes des étudiants ou des chercheurs, car ce sont des cibles évidentes. En effet, bien souvent la méthode enseignée consiste plutôt a concevoir un plan à l'avance, puis de péniblement venir remplir les cases. Avec ce système de prise de notes, on privilégie la libre pensée. Ce n'est qu'à la fin que l'on va faire le plan, fruit des recherches. Comme il le dit "les vrais experts ne font pas de plan, ils s'adaptent". 
 
-Personnellement je m'en sers beaucoup pour ma prise de notes techniques en informatique. J'y agrège tout ce que j'apprends, formulé avec mes mots. Mais j'y mets aussi des notes plus psycho / socio /développement personnel. 
+Mais tous ces conseils, et plus globalement la méthode est valable pour tout ce qui n'est pas de la fiction. Personnellement je m'en sers beaucoup pour ma prise de notes techniques en informatique. J'y agrège tout ce que j'apprends, formulé avec mes mots. Mais j'y mets aussi des notes plus psycho / socio /développement personnel / etc.
 
 ## La puissance de la simplicité
 
