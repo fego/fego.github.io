@@ -72,7 +72,7 @@ Cette courte introduction vous laissera certainement avec des questions, et peut
 Voici quelques liens qui me semblent pertinents pour creuser le sujet. 
 Je n'ai hélas pas trouvé de ressources vraiment pertinentes en français.
 
-* [https://leananki.com/zettelkasten-method-smart-notes/](Un article plus complet sur la méthode). 
-* [https://zettelkasten.de/](Un site très complet), maus peut-être un peu intimidant au départ. 
-* [Une chaine Youtube dédiée au Knowledge Management](https://www.youtube.com/channel/UC85D7ERwhke7wVqskV_DZUA). 
-* [https://nesslabs.com/how-to-choose-the-right-note-taking-app#more-9889](Pour vous aider à choisir le bon outil), le site de nesslabs contient beaucoup de courts articles intéressants. Personnellement j'ai commencé avec [Zettlr](https://www.zettlr.com/) car l'outil est open source, et bien fait. Cependant après avoir testé en parallèle Obsidian, j'ai fini par adopté ce dernier pour la visualisation des *backlinks* et sa fluidité. 
+* [Un article plus complet sur la méthode](https://leananki.com/zettelkasten-method-smart-notes/). 
+* [Un site très complet](https://zettelkasten.de/), mais peut-être un peu intimidant au départ. 
+* [https://www.youtube.com/channel/UC85D7ERwhke7wVqskV_DZUA](Une chaine Youtube dédiée au Knowledge Management). 
+* [Pour vous aider à choisir le bon outil](https://nesslabs.com/how-to-choose-the-right-note-taking-app#more-9889), le site de nesslabs contient beaucoup de courts articles intéressants. Personnellement j'ai commencé avec [Zettlr](https://www.zettlr.com/) car l'outil est open source, et bien fait. Cependant après avoir testé en parallèle Obsidian, j'ai fini par adopté ce dernier pour la visualisation des *backlinks* et sa fluidité. Mon seul regret est que ces outils se basent en général sur Markdown et pas asciidoc. Sinon j'utilise toujours [Notion](https://www.notion.so/Start-here-6c279d3e7e92400d93672bbdd7da1f8a), mais je le réserve par exemple pour les recettes de cuisine, mes todos, noter des idées d'activités avec mon fils, etc.
