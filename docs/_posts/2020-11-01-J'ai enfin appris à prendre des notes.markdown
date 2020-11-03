@@ -48,7 +48,7 @@ Voici à quoi ressemble mon réseau de notes après deux mois :
 
 ![Graph Obsidian]({{ site.url }}images/graph_obsidian_dav.png)
 
-Ces connexions reliant des notes assez simples sont très utiles. Elle servent à chaque fois que vous allez saisir une nouvelle note. Je recherche avant (ou parfois pendant) la phase d'élaboration les notes relatives au sujet de la nouvelle note. Et c'est rapide. Je reparcours ces notes qui rajoutent un contexte. Ma nouvelle note en devient plus pertinente (et parfois ça m'évite de noter une deuxième fois quelque chose que j'avais déjà noté il y a quelques semaines...). Je la connecte aux autres. Puis, plus tard quand je reviens consulter ces notes, comme par exemple pour écrire un article, alors il suffira de tirer un fil, et toutes les idées seront déjà prêtes, sur un plateau. Réellement. 
+Ces connexions reliant des notes assez simples sont très utiles. Elle servent à chaque fois que vous allez saisir une nouvelle note. Je recherche avant (ou parfois pendant) la phase d'élaboration les notes relatives au sujet de la nouvelle note. Et c'est rapide. Je re-parcours ces notes qui rajoutent un contexte. Ma nouvelle note en devient plus pertinente (et parfois ça m'évite de noter une deuxième fois quelque chose que j'avais déjà noté il y a quelques semaines...). Je la connecte aux autres. Puis, plus tard quand je reviens consulter ces notes, comme par exemple pour écrire un article, alors il suffira de tirer un fil, et toutes les idées seront déjà prêtes, sur un plateau. Réellement. 
 
 Tout simplement. Le réseau se tisse petit à petit. L'effort est dilué sur chaque saisie de note. 
 
@@ -65,3 +65,14 @@ Prendre des "bonnes" notes ce n'est "que" ça. Un peu de méthode, un outil pour
 Au début j'ai un peu tâtonné. Comme toute découverte c'était encore abstrait, comme j'imagine que ça l'est pour vous encore maintenant si vous ne connaissiez pas le Zettelkasten. Mais pour rien au monde je ne reviendrai en arrière. J'ai maintenant des notes utiles, faciles à utiliser, et ce n'est que le début. Chaque jour elles prennent de la valeur, me permettent de partager plus facilement ma connaissance, augmentent ma motivation. Dans mon quotidien professionnel elles me servent déjà. J'espère que cela durera, mais il me paraissait utile de partager dès à présent mon enthousiasme de novice avec vous. 
 
 Si cela vous parle, jetez un oeil à la conférence (en anglais), la forme n'est pas idéale, mais le contenu vaut le détour, tout comme le livre. Et puis ensuite pourquoi ne pas vous lancer ? Votre moi du futur vous remerciera ! 
+
+## Pour aller plus loin
+
+Cette courte introduction vous laissera certainement avec des questions, et peut-être l'envie d'en savoir plus. 
+Voici quelques liens qui me semblent pertinents pour creuser le sujet. 
+Je n'ai hélas pas trouvé de ressources vraiment pertinentes en français.
+
+* [https://leananki.com/zettelkasten-method-smart-notes/](Un article plus complet sur la méthode). 
+* [https://zettelkasten.de/](Un site très complet), maus peut-être un peu intimidant au départ. 
+* [Une chaine Youtube dédiée au Knowledge Management](https://www.youtube.com/channel/UC85D7ERwhke7wVqskV_DZUA). 
+* [https://nesslabs.com/how-to-choose-the-right-note-taking-app#more-9889](Pour vous aider à choisir le bon outil), le site de nesslabs contient beaucoup de courts articles intéressants. Personnellement j'ai commencé avec [Zettlr](https://www.zettlr.com/) car l'outil est open source, et bien fait. Cependant après avoir testé en parallèle Obsidian, j'ai fini par adopté ce dernier pour la visualisation des *backlinks* et sa fluidité. 
