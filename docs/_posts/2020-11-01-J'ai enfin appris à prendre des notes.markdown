@@ -6,7 +6,7 @@ Tout a commencé par un tweet d'un collègue qui m'a fait découvrir une [confé
 
 ## Les limites d'une prise de note classique
 
-Quand on prend de notes sans réelle méthode, on crée une archive. Ce n'est pas vivant. Très souvent mes notes étaient issues d'un premier jet, jamais retravaillées. Il m'était difficile de les relire car il leur manquait un contexte. Je les stockais telles quelles dans un dossier, et la probabilité que j'y revienne était assez faible. Et il y avait encore moins de chance que je puisse faire des connexions entre plusieurs de mes notes. Je n'avais pas réussi à extraire l'information importante sous forme lisible pour une relecture future. 
+Quand on prend des notes sans réelle méthode, on crée une archive. Ce n'est pas vivant. Très souvent mes notes étaient issues d'un premier jet, jamais retravaillées. Il m'était difficile de les relire car il leur manquait un contexte. Je les stockais telles quelles dans un dossier, et la probabilité que j'y revienne était assez faible. Et il y avait encore moins de chance que je puisse faire des connexions entre plusieurs de mes notes. Je n'avais pas réussi à extraire l'information importante sous forme lisible pour une relecture future. 
 
 Quel est l'intérêt de notes que l'on peut difficilement réutiliser, exploiter, et qui ne prennent pas de la valeur en s'accumulant ? 
 
