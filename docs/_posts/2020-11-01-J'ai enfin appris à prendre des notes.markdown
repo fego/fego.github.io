@@ -10,7 +10,7 @@ Quand on prend des notes sans réelle méthode, on crée une archive. Ce n'est p
 
 Quel est l'intérêt de notes que l'on peut difficilement réutiliser, exploiter, et qui ne prennent pas de la valeur en s'accumulant ? 
 
-## Qu'est-ce qu'un bonne prise de notes ?
+## Qu'est-ce qu'une bonne prise de notes ?
 
 ![Bonne prise de notes]({{ site.url }}images/bonne_prise_notes.png)
 
