@@ -42,7 +42,7 @@ On commence par l'aspect organisationnel. Le constat : les organisations avec un
 
 Ils distinguent 3 typologies des organisations, basées sur le travail de [Ron Westrum](https://en.wikipedia.org/wiki/Ron_Westrum) : 
 
-- pathologique, orientée pourvoir
+- pathologique, orientée pouvoir
 - bureaucratique, orientée règle
 - génératrices, focalisée sur la mission.
 
