@@ -18,7 +18,7 @@ Les auteurs critiquent les modèles de maturité, (comme [CMMI](https://en.wikip
 * ils sont statiques, on a tendance à se figer quand on arrive au niveau le plus élevé, alors qu'il faudrait continuer sans cesse de se transformer. 
 * ils ne prennent pas en compte les différences entre les organisations
 
-Il faut donc utiliser des modèles basés sur les capacités. Une bonne mesure doit avoir deux caractéristiques clés : 
+Une bonne mesure doit avoir deux caractéristiques clés : 
 
 - être focalisée sur un revenu global pour assurer que les équipes ne sont pas en concurrences les unes avec les autres.
 - être focalisée sur les revenus et non sur ce qui est produit (et qui ne génère pas forcément des revenus)
