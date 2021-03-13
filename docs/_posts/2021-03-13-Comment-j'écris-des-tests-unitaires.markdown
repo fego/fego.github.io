@@ -119,7 +119,7 @@ Trop souvent les tests vérifient des détails d'implémentation.
 Et très souvent je vois des *stubs* qui sont vérifiés alors que c'est un anti pattern comme indiqué plus haut. 
 Les tests sont un client comme un autre de notre API, ils doivent donc connaître uniquement l'abstraction qu'ils testent. 
 
-Quand un ensemble de classes collaborent étroitement ensembles, je teste les fonctionnalités offertes par la classe qui expose cela via son API. 
+Quand un ensemble de classes collaborent étroitement ensemble, je teste les fonctionnalités offertes par la classe qui expose cela via son API. 
 Par exemple si un ensemble de classes sont impliquées dans un calcul complexe, je ne teste pas indépendamment chaque classe, mais l'ensemble des classes.  
 Ce qui va définir quels collaborateurs j'embarque et le périmètre de mon test : 
 * le lien entre les collaborateurs (et qui contrôle la relation)
