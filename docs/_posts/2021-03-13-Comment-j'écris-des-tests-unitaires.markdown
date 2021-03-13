@@ -1,16 +1,20 @@
 # Comment j'écris des tests unitaires
 
-Un des sujets qui m'occupe en ce moment particulièrement c'est les tests. 
-Et si c'est un sujet vaste où j'ai encore beaucoup à apprendre, je pense avoir un peu plus cerné les bonnes pratiques de test unitaire. 
-Donc je vais vous partager les pratiques que j'essaie de suivre quand j'en écris. 
-Ces pratiques sont pour la plupart issues de lectures associées à de la pratique régulière. 
+Les tests sont un des sujets qui m'occupe particulièrement cette dernière année.
+Et si c'est un sujet vaste où j'ai encore beaucoup à apprendre, je commence à me sentir enfin plus à l'aise sur les tests unitaires. 
+Donc je vais vous partager quelques pratiques que j'essaie de suivre quand j'en écris. 
+Ces pratiques sont pour la plupart issues de lectures (voir en fin d'article), associées à de la pratique régulière sur les projets pro et des katas. 
+Cependant cela n'en fait pas des vérités car : 
+* cela est limité à mes connaissances actuelles
+* c'est un sujet avec beaucoup d'avis divergents
 
 ## Nommage des tests
 
 Une méthode de test se lit comme une phrase. 
 La phrase commence implicitement par l'objet du test, et la méthode de test indique ce qui est fait. 
-Par exemple pour un objet `Travel`, qui a une méthode `itineraryType` pour déterminer le type du voyage (international ou domestique), j'ai une méthode de test `isDomesticWhenAllTravelStationsAreInFrance`.
-Vous pouvez voir d'autres exemples sur le [wiki de Ward Cunningham](http://wiki.c2.com/?SentenceStyleForNamingUnitTests). 
+Par exemple pour un objet `Travel`, qui a une méthode `ItineraryType itineraryType()` pour déterminer le type du voyage (international ou domestique), j'ai une méthode de test `isDomesticWhenAllStationsAreInFrance`. 
+On lit donc la phrase "*Travel is domestic when all stations are in France*". 
+Vous pouvez voir d'autres exemples de ce nommage sur le [wiki de Ward Cunningham](http://wiki.c2.com/?SentenceStyleForNamingUnitTests). 
 
 Au boulot on applique une convention assez proche : chaque test commence par `should` (pratiqué par [Sandro Mancuso](https://github.com/sandromancuso) par exemple), ce qui donnerait pour l'exemple précédent : `shouldBeDomesticWhenAllTravelStationsAreInFrance`. 
 
@@ -19,30 +23,31 @@ C'est une question à se poser à la phase de refactoring en TDD.
 
 ## Structure
 
-Avoir une structure commune et partagée par l'équipe est important. 
-Deux pratiques sont courantes et équivalentes : 
+Concernant la structure, deux nommages sont pratiqués et équivalentes. Il suffit d'en choisir un et de s'y tenir.  
 
 ```
-// given
+// given ou arrange
 ici le setup du test
-// when
-l'appel au *system under test*
-// then
+// when ou act
+l'appel au system under test
+// then ou assert
 les assertions
 ```
 
 ### Assertions
 
-Après avoir nommé le test, j'enchaine par les assertions en général (parfois par le *when* aussi), en suivant la pratique de [Kent Beck](https://twitter.com/KentBeck) ou [JB Rainsberger](https://twitter.com/jbrains). 
+Après avoir nommé le test, j'enchaîne par les assertions, en général. 
+Il peut m'arriver plus rarement de commencer par le *when*.
+En tout cas, jamais par le *given*. 
 
-Tant que ces assertions testent une feature cohérente, on peut avoir autant d'assertions que nécessaire. 
-Il est en revanche inutile de répéter des assertions déjà vérifiées dans un autre test et c'est hélas une pratique que je trouve fréquemment et qui alourdi les tests inutilement. 
+Tant que les assertions testent une feature cohérente, on peut en avoir autant que nécessaire. 
+Il est en revanche inutile de répéter des assertions déjà vérifiées dans un autre test et c'est hélas une pratique que je trouve fréquemment et qui alourdit les tests inutilement. 
 
-Que doivent vérifier nos assertions ?  
-J'applique ce que Sandi Metz [a très bien résumé](https://www.youtube.com/watch?v=URSWYvyc42M) dans sa matrice. 
+Que doivent vérifier nos assertions ? 
+J'applique ce que Sandi Metz [a très bien résumé](https://www.youtube.com/watch?v=URSWYvyc42M) dans sa matrice.  
 On a des messages qui soit rentrent dans le SUT, soit sont internes au SUT, soit en sortent. 
 Ces messages sont soit des *queries* (on attend un résutat) soit des *commands* (on attend un effet de bord). 
-En fonction de ces types on effectue ou pas différentes types de vérifications. 
+En fonction de ces types on effectue, ou pas, différents types de vérifications. 
 
 | Message | Query | Command |
 | ------- | ----- | ------- |
@@ -50,7 +55,7 @@ En fonction de ces types on effectue ou pas différentes types de vérifications
 | Interne | Ne pas tester | Ne pas tester |
 | Sortant | Ne pas tester | Tester uniquement ce qui est de la responsabilité du SUT. Vérifier avec un mock si le message a bien été envoyé |
 
-On voit donc qu'à aucun moment on ne fait d'assertion sur un collaborateur qui retourne un résultat (sortant / query), hors c'est une pratique que je vois très souvent, sous forme de *verify* (avec Mockito par exemple) sur des *stubs*. 
+On voit donc qu'à aucun moment on ne fait d'assertion sur un collaborateur qui retourne un résultat (sortant / *query*), hors c'est une pratique que je vois très souvent, sous forme de *verify*  sur des *stubs* (avec Mockito par exemple en Java). 
 
 Pour aller plus loin : [When to mock](https://enterprisecraftsmanship.com/posts/when-to-mock/) et [Mocks aren't stubs](https://martinfowler.com/articles/mocksArentStubs.html). 
 
@@ -65,18 +70,28 @@ Cette phase est très importante, la qualité des contrats (des abstractions plu
 
 Puis on finit par la déclaration de ce qui est nécessaire pour initialiser le test. 
 
-### Une classe par fixture
+## Une classe par fixture
 
 Il est possible que la nécessité d'écrire beaucoup de tests soit un 
-*code smell*, particulièrement si on écrit nos tests en suivant la philosophie des *mockists*. 
-Dans ce cas c'est un signe que notre SUT a trop de responsabilité. 
+*code smell*. 
+C'est peut être un signe que notre SUT a trop de responsabilité. 
 Mais ce n'est pas toujours le cas. 
 
-Une classe de test trop grande devient vite illisible, et chaque développeur qui arrive sur ces classes aur tendance hélas à rajouter son cas de test plutôt que de faire l'effort de refactorer. 
-On finit par se retrouver avec des tests dont la couverture se recoupe et qui devienne immaintenables. 
+Quoiqu'il en soit, une classe de test trop grande devient vite illisible, et chaque développeur qui arrive sur ces classes aur tendance hélas à rajouter son cas de test plutôt que de faire l'effort de refactorer. 
+On finit par se retrouver avec des tests dont la couverture se recoupe et qui deviennent inmaintenables. 
 
-C'est pourquoi j'aime regrouper mes tests, soient dans des classes dans des fichiers séparés, soit en utilisant les inner class avec `@Nested` de [JUnit](https://junit.org/junit5/docs/5.4.1/api/org/junit/jupiter/api/Nested.html). 
-Ce qui va regrouper les tests dans chaque classe est la *fixture*, c'est à dire ce qui permet d'initialiser les tests. 
+C'est pourquoi j'aime regrouper mes tests, soient  dans des fichiers séparés, soit en utilisant les *inner class* avec `@Nested` de [JUnit](https://junit.org/junit5/docs/5.4.1/api/org/junit/jupiter/api/Nested.html). 
+C'est la *fixture*, c'est à dire ce qui permet d'initialiser les tests, qui me guide pour le regroupement de tests. 
+Tous les tests qui partagent la même *fixture* sont regroupés. 
+
+## Nommages dans les tests
+
+Pour rapidement identifier ce qui ne marche pas dans un test ko, il est intéressant d'affecter des valeurs descriptives aux variables par exemple "id du client valide", plutôt que "abcde12345". 
+Cela peut nous encourager à définir nos propres Value Types pour surcharger la méthode `toString`.  
+Il faut donc jouer sur le nom de la variable **et** sur son contenu.
+
+Aussi, au lieu de passer `null` en paramètre, cela peut valoir le coup de nommer une variable qui est elle `null`. 
+Cela facilite la lisibilité (oui, `null` en paramètre c'est moche). 
 
 ## Pourquoi et quand j'écris des tests unitaires
 
@@ -87,19 +102,38 @@ Quel est le but des tests unitaires ?
 * c'est de la documentation
 * ils révèlent les *code smells* (un test difficile à écrire est un révélateur d'un mauvais design)
 
-Ma pratique de TDD est encore trop jeune pour que je puisse prétendre synthétiser quoique ce soit à ce sujet aujourd'hui, mais depuis que je pratique, je pense que la qualité des mes conceptions est meilleure. 
-Si le sujet vous intéresse, je vous invite à suivre un de ses plus fervent défenseur en France, [Michaël Azerad](https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/?originalSubdomain=fr). 
+La raison d’être d’un test est un nouveau comportement. 
+
+Je ne ferai pas ici de description de TDD, je n'ai pas encore assez de bouteille sur la pratique pour me permettre d'en parler ici. 
+Je peux simplement vous partager que je ne code plus mes tests sans faire du TDD. 
+Si le sujet vous intéresse, je vous invite à suivre un de ses plus fervent défenseur en France, [Michaël Azerhad](https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/?originalSubdomain=fr). 
 
 ## Que doit tester un test unitaire ?
 
+Bon, je ne vous cache pas que c'est encore souvent un point dur sur lequel il m'arrive encore de buter. 
+Dans les katas moins, mais dans un projet pro avec beaucoup de complexité j'au plus de mal à trouver la bonne frontière. 
+Mais les lignes directrices suivantes m'aident. 
+
 Trop souvent les tests vérifient des détails d'implémentation. 
-Très souvent je vois des *stubs* qui sont vérifiés alors que c'est un anti pattern comme indiqué plus haut. 
+Et très souvent je vois des *stubs* qui sont vérifiés alors que c'est un anti pattern comme indiqué plus haut. 
 Les tests sont un client comme un autre de notre API, ils doivent donc connaître uniquement l'abstraction qu'ils testent. 
 
 Quand un ensemble de classes collaborent étroitement ensembles, je teste les fonctionnalités offertes par la classe qui expose cela via son API. 
 Par exemple si un ensemble de classes sont impliquées dans un calcul complexe, je ne teste pas indépendamment chaque classe, mais l'ensemble des classes.  
 Ce qui va définir quels collaborateurs j'embarque et le périmètre de mon test : 
-* le lien entre les collaborateurs
-* la complexité combinatoire : plus il y a de collaborateurs, plus il y a de chemins. Il y adonc des fois où il faudra soit ignorer des chemins (on prend le système comme une "boite grise" et non comme une "boite noire"), soit introduire des *tests doubles* pour limiter la complexité. 
+* le lien entre les collaborateurs (et qui contrôle la relation)
+* la complexité combinatoire : plus il y a de collaborateurs, plus il y a de chemins. Il y a donc des fois où il faudra soit ignorer des chemins (on prend le système comme une "boite grise" et non comme une "boite noire"), soit introduire des *tests doubles* pour limiter la complexité. 
+* la performance, mes tests doivent être rapides. Par exemple je n'embarque pas les DAOs, je les *mock*, même si certains recommandent l'usage de [testcontainers](https://www.testcontainers.org/). 
 
-WIP
+## Le chemin est encore long
+
+A travers cet article c'était une façon pour moi de [tester mes connaissances sur les tests unitaires](https://en.wikipedia.org/wiki/Inception). 
+Et si je n'ai fait que gratter la surface d'un sujet énorme, j'espère que vous y aurez trouvé quelques grains à moudre. 
+
+****
+Ressources : 
+* [Test Driven Development By Example](https://www.oreilly.com/library/view/test-driven-development/0321146530/)
+* [Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/)
+* [Practical Object-Oriented Design](https://www.poodr.com/)
+* [Don't be mocked by your Mocks: Listening to your Tests](https://www.youtube.com/watch?v=pKBjufM024U&list=PLggcOULvfLL_MfFS_O0MKQ5W_6oWWbIw5&index=20)
+* [Ian Cooper, conférence "TDD, Where Did It All Go Wrong"](https://www.youtube.com/watch?v=EZ05e7EMOLM)
