@@ -55,6 +55,7 @@ En fonction de ces types on effectue, ou pas, différents types de vérification
 | Interne | Ne pas tester | Ne pas tester |
 | Sortant | Ne pas tester | Tester uniquement ce qui est de la responsabilité du SUT. Vérifier avec un mock si le message a bien été envoyé |
 
+
 On voit donc qu'à aucun moment on ne fait d'assertion sur un collaborateur qui retourne un résultat (sortant / *query*), hors c'est une pratique que je vois très souvent, sous forme de *verify*  sur des *stubs* (avec Mockito par exemple en Java). 
 
 Pour aller plus loin : [When to mock](https://enterprisecraftsmanship.com/posts/when-to-mock/) et [Mocks aren't stubs](https://martinfowler.com/articles/mocksArentStubs.html). 
