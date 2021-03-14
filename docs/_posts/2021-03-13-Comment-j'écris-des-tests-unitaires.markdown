@@ -17,17 +17,16 @@ En pratiquant TDD la plupart du temps je conçois grâce aux tests.
 Les tests étant un client comme un autre des abstractions  (interfaces / contrats / API), leur émergence correspond à un vrai besoin. 
 La qualité des abstractions étant un élément fondamental dans la complexité des logiciels, les tests contribuent ainsi directement à une meilleure qualité. 
 Je ne ferai pas ici de description  de TDD car je n'ai pas encore assez de bouteille sur la pratique pour me permettre d'en parler ici. 
-Je peux simplement vous partager que je ne code plus mes tests autrement, et si parfois il m'arrive de bloquer et de revenir au papier crayon et aux diagrammes de séquence, je finis toujours par revenir au TDD. 
+Je peux simplement vous partager que je ne code plus sans, et si parfois il m'arrive de bloquer et de revenir au papier crayon et aux diagrammes de séquence, je finis toujours par revenir au TDD. 
 
 Si le sujet vous intéresse, je vous invite à suivre un de ses plus fervent défenseur en France, [Michaël Azerhad](https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/?originalSubdomain=fr). 
 
 ### C'est de la documentation
 
-Avec des tests de qualité, il est plutôt facile de comprendre le fonctionnement d'un logiciel. 
-Nul besoin de regarder le code et de lire des implémentations. 
+Avec des tests de qualité, il est plus facile de comprendre le fonctionnement d'un logiciel. 
 Le code des tests nous permet de comprendre le besoin. 
 Par exemple, quand je fais une revue de code , je commence par la lecture des tests. 
-Si ceux-ci sont bien écrit je comprends plus vite le besoin et la conception que si j'attaquais directement par le code de production. 
+Si ceux-ci sont bien écrit je comprends plus vite le besoin et la conception que si j'attaquais directement par les implémentations. 
 
 ### C'est un filet de sécurité
 
@@ -38,7 +37,7 @@ On *refactor* en toute sécurité et ce n'est pas rien.
 ### C'est un révélateur de *code smell*
 
 Un test difficile à écrire est un révélateur d'un problème de conception. 
-J'essaie de profiter autant que possible de ce signal pour remttre en question la  qualité  de ce que je suis en train d'écrire. 
+J'essaie de profiter autant que possible de ce signal pour remettre en question la  qualité  de ce que je suis en train d'écrire. 
 Si mon test devient complexe, ce sera probablement le cas pour mon code de production, que ce soit pour les clients de mon API ou de l'implémentation. 
 
 ## Quand écrire un test unitaire ?
@@ -67,7 +66,7 @@ Ce qui va définir quels collaborateurs j'embarque et le périmètre de mon test
 
 ## Une classe par fixture
 
-Il est possible que la nécessité d'écrire beaucoup de tests soit un 
+Il est possible que la nécessité d'écrire beaucoup de méthodes de test soit un 
 *code smell*. 
 C'est peut être un signe que notre SUT a trop de responsabilité. 
 Mais ce n'est pas toujours le cas. 
@@ -97,12 +96,13 @@ Vous pouvez voir d'autres exemples de ce nommage sur le [wiki de Ward Cunningham
 
 Au boulot on applique une convention assez proche : chaque test commence par `should`, en séparant les mot par des *underscores*, ce qui donnerait pour l'exemple précédent : `should_be_domestic_when_all_stations_are_in_france`. 
 
-Le nommage du test ne sera peut-être pas correct du premier coup, mais il est important qu'à la fin il le soit. 
-C'est une question à se poser à la phase de refactoring en TDD. 
+Le nommage du test ne sera peut-être pas correct du premier coup, mais il est important que l'on essaie de faire le mieux possible. 
+Et il ne faut donc pas hésiter à les renommer quand on repasse dessus et que l'on ne saisit pas tout de suite le sens à cause du nommage. 
+C'est aussi une question à se poser à la phase de refactoring en TDD. 
 
 ### Nommages dans les tests
 
-Pour rapidement identifier ce qui ne marche pas dans un test ko, il est intéressant d'affecter des valeurs descriptives aux variables par exemple "id du client valide", plutôt que "abcde12345". 
+Pour rapidement identifier ce qui ne marche pas dans un test ko, il est intéressant d'affecter des valeurs descriptives aux variables par exemple `"id du client valide"`, plutôt que `"abcde12345"`. 
 Cela peut nous encourager à définir nos propres Value Types pour surcharger la méthode `toString`.  
 Il faut donc jouer sur le nom de la variable **et** sur son contenu.
 
