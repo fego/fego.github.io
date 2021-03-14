@@ -44,7 +44,9 @@ Si mon test devient complexe, ce sera probablement le cas pour mon code de produ
 ## Quand écrire un test unitaire ?
 
 La raison d’être d’un test est un nouveau comportement. 
-C'est la raison principale, et cela est le plus important. 
+C'est la raison principale, et c'est le déclencheur le plus fréquent. 
+
+Parfois ça peut être des tests plus exploratoires, par exemple pour découvrir une API tierce, ou du code non couvert. 
 
 ## Quelles sont les frontières d'un test unitaire ?
 
