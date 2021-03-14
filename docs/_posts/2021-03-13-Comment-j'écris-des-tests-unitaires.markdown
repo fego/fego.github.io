@@ -3,11 +3,62 @@
 Les tests sont un des sujets qui m'occupe particulièrement cette dernière année.
 Et si c'est un sujet vaste où j'ai encore beaucoup à apprendre, je commence à me sentir enfin plus à l'aise sur les tests unitaires. 
 Donc je vais vous partager quelques pratiques que j'essaie de suivre quand j'en écris. 
-Ces pratiques sont pour la plupart issues de lectures (voir en fin d'article), associées à de la pratique régulière sur les projets pro et des katas. 
-Cependant cela n'en fait pas des vérités car : 
-* cela est limité à mes connaissances actuelles
-* c'est un sujet avec beaucoup d'avis divergents
+Elles sont pour la plupart issues de lectures (voir en fin d'article), associées à de la pratique régulière sur les projets pro et des katas. 
 
+## Pourquoi j'écris des tests unitaires
+
+### C'est un outil de conception 
+
+Pour moi aujourd'hui le plus important est leur capacité à faire émerger le design. 
+En pratiquant TDD la plupart du temps je conçois grâce aux tests. 
+Les tests étant un client comme un autre des abstractions  (interfaces / contrats / API), leur émergence correspond à un vrai besoin. 
+La qualité des abstractions étant un élément fondamental dans la complexité des logiciels, les tests contribuent ainsi directement à une meilleure qualité logicielle. 
+Je ne ferai pas ici de description  de TDD car je n'ai pas encore assez de bouteille sur la pratique pour me permettre d'en parler ici. 
+Je peux simplement vous partager que je ne code plus mes tests autrement, et si parfois il m'arrive de bloquer et de revenir au papier crayon et aux diagrammes de séquence, je retourne toujours au TDD.  
+Si le sujet vous intéresse, je vous invite à suivre un de ses plus fervent défenseur en France, [Michaël Azerhad](https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/?originalSubdomain=fr). 
+
+### C'est de la documentation
+
+Avec des tests de qualité, il est plutôt facile de comprendre le fonctionnement d'un logiciel. 
+Nul besoin de regarder le code et de lire des implémentations. 
+Le code des tests nous permet de comprendre le besoin. 
+Par exemple, quand je fais une revue de code , je commence par la lecture des tests. 
+Si ceux-ci sont bien écrit je comprends plus vite le besoin et la conception que si j'attaquais directement par le code de production. 
+
+### Un filet de sécurité
+
+Pour détecter un bug mais aussi et surtout lors d'un refactoring. 
+Les tests sont verts ? 
+On *refactor* en toute sécurité et ce n'est pas rien. 
+
+### Révélateur de *code smell*
+
+Un test difficile à écrire est un révélateur d'un problème de conception. 
+J'essaie de profiter autant que possible de ce signal pour remttre en question la  qualité  de ce que je suis en train d'écrire. 
+Si mon test devient complexe, ce sera probablement le cas pour mon code de production, que ce soit pour les clients de mon API ou de l'implémentation. 
+
+## Quand écrire un test unitaire ?
+
+La raison d’être d’un test est un nouveau comportement. 
+C'est la raison principale, et cela est le plus important. 
+
+## Quelles sont les frontières d'un test unitaire ?
+
+Bon, je ne vous cache pas que c'est encore souvent un point dur sur lequel il m'arrive encore de buter. 
+Dans les katas moins, mais dans un projet pro avec beaucoup de complexité j'au plus de mal à trouver la bonne frontière. 
+Mais les lignes directrices suivantes m'aident. 
+
+Trop souvent les tests vérifient des détails d'implémentation. 
+Et très souvent je vois des *stubs* qui sont vérifiés alors que c'est un anti pattern comme indiqué plus haut. 
+Les tests sont un client comme un autre de notre API, ils doivent donc connaître uniquement l'abstraction qu'ils testent. 
+
+Quand un ensemble de classes collaborent étroitement ensemble, je teste les fonctionnalités offertes par la classe qui expose cela via son API. 
+Par exemple si un ensemble de classes sont impliquées dans un calcul complexe, je ne teste pas indépendamment chaque classe, mais l'ensemble des classes.  
+Ce qui va définir quels collaborateurs j'embarque et le périmètre de mon test : 
+* le lien entre les collaborateurs (et qui contrôle la relation)
+* la complexité combinatoire : plus il y a de collaborateurs, plus il y a de chemins. Il y a donc des fois où il faudra soit ignorer des chemins (on prend le système comme une "boite grise" et non comme une "boite noire"), soit introduire des *tests doubles* pour limiter la complexité. 
+* la performance, mes tests doivent être rapides. Par exemple je n'embarque pas les DAOs, je les *mock*, même si certains recommandent l'usage de [testcontainers](https://www.testcontainers.org/). 
+  
 ## Nommage des tests
 
 Une méthode de test se lit comme une phrase. 
@@ -94,40 +145,9 @@ Il faut donc jouer sur le nom de la variable **et** sur son contenu.
 Aussi, au lieu de passer `null` en paramètre, cela peut valoir le coup de nommer une variable qui est elle `null`. 
 Cela facilite la lisibilité (oui, `null` en paramètre c'est moche). 
 
-## Pourquoi et quand j'écris des tests unitaires
-
-Quel est le but des tests unitaires ?
-
-* ils améliorent le design (si on pratique le TDD) : on définit les bonnes abstractions (interfaces / contrats / API), et la qualité de ces abstractions est un élément fondamental dans la complexité des logiciels. 
-* c'est un filet de sécurité, pour détecter un bug mais aussi lors d'un refactoring. 
-* c'est de la documentation
-* ils révèlent les *code smells* (un test difficile à écrire est un révélateur d'un mauvais design)
-
-La raison d’être d’un test est un nouveau comportement. 
-
-Je ne ferai pas ici de description de TDD, je n'ai pas encore assez de bouteille sur la pratique pour me permettre d'en parler ici. 
-Je peux simplement vous partager que je ne code plus mes tests sans faire du TDD. 
-Si le sujet vous intéresse, je vous invite à suivre un de ses plus fervent défenseur en France, [Michaël Azerhad](https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/?originalSubdomain=fr). 
-
-## Que doit tester un test unitaire ?
-
-Bon, je ne vous cache pas que c'est encore souvent un point dur sur lequel il m'arrive encore de buter. 
-Dans les katas moins, mais dans un projet pro avec beaucoup de complexité j'au plus de mal à trouver la bonne frontière. 
-Mais les lignes directrices suivantes m'aident. 
-
-Trop souvent les tests vérifient des détails d'implémentation. 
-Et très souvent je vois des *stubs* qui sont vérifiés alors que c'est un anti pattern comme indiqué plus haut. 
-Les tests sont un client comme un autre de notre API, ils doivent donc connaître uniquement l'abstraction qu'ils testent. 
-
-Quand un ensemble de classes collaborent étroitement ensemble, je teste les fonctionnalités offertes par la classe qui expose cela via son API. 
-Par exemple si un ensemble de classes sont impliquées dans un calcul complexe, je ne teste pas indépendamment chaque classe, mais l'ensemble des classes.  
-Ce qui va définir quels collaborateurs j'embarque et le périmètre de mon test : 
-* le lien entre les collaborateurs (et qui contrôle la relation)
-* la complexité combinatoire : plus il y a de collaborateurs, plus il y a de chemins. Il y a donc des fois où il faudra soit ignorer des chemins (on prend le système comme une "boite grise" et non comme une "boite noire"), soit introduire des *tests doubles* pour limiter la complexité. 
-* la performance, mes tests doivent être rapides. Par exemple je n'embarque pas les DAOs, je les *mock*, même si certains recommandent l'usage de [testcontainers](https://www.testcontainers.org/). 
-
 ## Le chemin est encore long
 
+Nous voilà à la fin de ce petit panorama de pratiques que j'applique pour mes tests. 
 A travers cet article c'était une façon pour moi de [tester mes connaissances sur les tests unitaires](https://en.wikipedia.org/wiki/Inception). 
 Et si je n'ai fait que gratter la surface d'un sujet énorme, j'espère que vous y aurez trouvé quelques grains à moudre. 
 
