@@ -75,7 +75,7 @@ Mais ce n'est pas toujours le cas.
 
 Quoiqu'il en soit, une classe de test trop grande devient vite illisible, et chaque développeur qui arrive sur ces classes aur tendance hélas à rajouter son cas de test plutôt que de faire l'effort de refactorer. 
 On finit par se retrouver avec des tests dont la couverture se recoupe et qui deviennent inmaintenables. 
-Et comme le dit John Ousterhout dans [*A philosophy of software design*](https://www.goodreads.com/en/book/show/39996759-a-philosophy-of-software-design), les logiciels doivent être conçus pour la facilité de lecture, pas d'écriture. 
+Or les logiciels doivent être conçus pour la facilité de lecture, pas d'écriture. 
 J'essaie donc de garder cette exigence, de ne pas céder à la facilité de l'instant. 
 
 C'est pourquoi j'aime regrouper mes tests quand c'est nécessaire, soient  dans des fichiers séparés, soit en utilisant les *inner class* avec `@Nested` de [JUnit](https://junit.org/junit5/docs/5.4.1/api/org/junit/jupiter/api/Nested.html). 
