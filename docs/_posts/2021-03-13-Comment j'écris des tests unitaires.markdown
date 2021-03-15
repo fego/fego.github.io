@@ -1,5 +1,7 @@
 # Comment j'écris des tests unitaires
 
+*Temps de lecture : environ 8 min.*
+
 Les tests sont un des sujets qui m'occupe particulièrement cette dernière année.
 Et si c'est un sujet vaste où j'ai encore beaucoup à apprendre, je commence à me sentir enfin plus à l'aise sur les tests unitaires. 
 Donc je vais vous partager quelques pratiques que j'essaie de suivre quand j'en écris. 
