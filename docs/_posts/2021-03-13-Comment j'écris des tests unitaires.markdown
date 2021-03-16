@@ -174,8 +174,8 @@ Et si je n'ai fait que gratter la surface d'un sujet énorme, j'espère que vous
 
 ****
 Ressources : 
-* [Test Driven Development By Example](https://www.oreilly.com/library/view/test-driven-development/0321146530/)
-* [Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/)
-* [Practical Object-Oriented Design](https://www.poodr.com/)
-* [Don't be mocked by your Mocks: Listening to your Tests](https://www.youtube.com/watch?v=pKBjufM024U&list=PLggcOULvfLL_MfFS_O0MKQ5W_6oWWbIw5&index=20)
-* [Ian Cooper, conférence "TDD, Where Did It All Go Wrong"](https://www.youtube.com/watch?v=EZ05e7EMOLM)
+* [Test Driven Development By Example](https://www.oreilly.com/library/view/test-driven-development/0321146530/). Le livre de référence pour apprendre le TDD. 
+* [Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/). Un autre livre de référence, et une introduction au *double loop tdd*.
+* [Practical Object-Oriented Design](https://www.poodr.com/). Un livre très intéressant de Sandi Metz où les tests sont ne sont qu'une partie du livre, mais le livre vaut le coup dans sa globalité. 
+* [Don't be mocked by your Mocks: Listening to your Tests](https://www.youtube.com/watch?v=pKBjufM024U&list=PLggcOULvfLL_MfFS_O0MKQ5W_6oWWbIw5&index=20). Très bonne vidéo de Victor Rentea. 
+* [Ian Cooper, conférence "TDD, Where Did It All Go Wrong"](https://www.youtube.com/watch?v=EZ05e7EMOLM). J'ai pris une grosse claque en découvrant cette vidéo. Un *must watch*. 
