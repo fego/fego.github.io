@@ -16,8 +16,10 @@ Tout d'abord, voyons pourquoi j'écris des tests unitaires.
 
 Pour moi aujourd'hui le plus important est leur capacité à faire émerger le design. 
 En pratiquant TDD la plupart du temps je conçois grâce aux tests. 
-Les tests étant un client comme un autre des abstractions  (interfaces / contrats / API), leur émergence correspond à un vrai besoin. 
-La qualité des abstractions étant un élément fondamental dans la complexité des logiciels, les tests contribuent ainsi directement à une meilleure qualité. 
+Le code de test appelle le code de production, c'est un consommateur des abstractions (interfaces / contrats / API) proposées par le code de production, c'est donc un client comme un autre. 
+Leur émergence correspond donc à un vrai besoin. 
+La qualité des abstractions est un élément fondamental dans la complexité des logiciels. 
+Les tests contribuent ainsi directement à une meilleure maîtrise de cette complexité. 
 Je ne ferai pas ici de description  de TDD car je n'ai pas encore assez de bouteille sur la pratique pour me permettre d'en parler ici. 
 Je peux simplement vous partager que je ne code plus sans, et si parfois il m'arrive de bloquer et de revenir au papier crayon et aux diagrammes de séquence, je finis toujours par revenir au TDD. 
 
@@ -56,7 +58,7 @@ Dans les katas moins, mais dans un projet pro avec beaucoup de complexité j'au 
 Mais les lignes directrices suivantes m'aident. 
 
 Trop souvent les tests vérifient des détails d'implémentation. 
-Et très souvent je vois des *stubs* qui sont vérifiés alors que c'est un anti pattern comme indiqué plus haut. 
+Et très souvent je vois des *stubs* (collaborateur simulé avec une réponse prédéfinie) qui sont vérifiés alors que c'est un anti pattern comme indiqué plus haut. 
 Les tests sont un client comme un autre de notre API, ils doivent donc connaître uniquement l'abstraction qu'ils testent. 
 
 Quand un ensemble de classes collaborent étroitement ensemble, je teste les fonctionnalités offertes par la classe qui expose cela via son API. 
@@ -64,21 +66,21 @@ Par exemple si un ensemble de classes sont impliquées dans un calcul complexe, 
 Ce qui va définir quels collaborateurs j'embarque et le périmètre de mon test : 
 * le lien entre les collaborateurs (et qui contrôle la relation)
 * la complexité combinatoire : plus il y a de collaborateurs, plus il y a de chemins. Il y a donc des fois où il faudra soit ignorer des chemins (on prend le système comme une "boite grise" et non comme une "boite noire"), soit introduire des *tests doubles* pour limiter la complexité. 
-* la performance, mes tests doivent être rapides. Par exemple je n'embarque pas les DAOs, je les *mock*, même si certains recommandent l'usage de [testcontainers](https://www.testcontainers.org/). 
+* la performance, mes tests doivent être rapides. Par exemple je n'embarque pas les DAOs, je les *mock* (avec des *stubs*...), même si certains recommandent l'usage de [testcontainers](https://www.testcontainers.org/). 
 
 ## Une classe par fixture
 
 Il est possible que la nécessité d'écrire beaucoup de méthodes de test soit un 
 *code smell*. 
-C'est peut être un signe que notre SUT a trop de responsabilité. 
+C'est peut être un signe que notre SUT (*System Under Test*) a trop de responsabilité. 
 Mais ce n'est pas toujours le cas. 
 
-Quoiqu'il en soit, une classe de test trop grande devient vite illisible, et chaque développeur qui arrive sur ces classes aur tendance hélas à rajouter son cas de test plutôt que de faire l'effort de refactorer. 
+Quoiqu'il en soit, une classe de test trop grande devient vite illisible, et chaque développeur qui arrive sur ces classes aura tendance hélas à rajouter son cas de test plutôt que de faire l'effort de refactorer. 
 On finit par se retrouver avec des tests dont la couverture se recoupe et qui deviennent inmaintenables. 
 Or les logiciels doivent être conçus pour la facilité de lecture, pas d'écriture. 
 J'essaie donc de garder cette exigence, de ne pas céder à la facilité de l'instant. 
 
-C'est pourquoi j'aime regrouper mes tests quand c'est nécessaire, soient  dans des fichiers séparés, soit en utilisant les *inner class* avec `@Nested` de [JUnit](https://junit.org/junit5/docs/5.4.1/api/org/junit/jupiter/api/Nested.html). 
+C'est pourquoi j'aime regrouper mes tests quand c'est nécessaire, soit  dans des fichiers séparés, soit en utilisant les *inner class* avec `@Nested` de [JUnit](https://junit.org/junit5/docs/5.4.1/api/org/junit/jupiter/api/Nested.html). 
 C'est la *fixture*, c'est à dire ce qui permet d'initialiser les tests, qui me guide pour le regroupement de tests. 
 Tous les tests qui partagent la même *fixture* sont regroupés. 
   
@@ -112,7 +114,7 @@ Il faut donc jouer sur le nom de la variable **et** sur son contenu.
 
 Aussi, au lieu de passer `null` en paramètre, cela peut valoir le coup de nommer une variable qui est elle `null`. 
 Cela facilite la lisibilité (oui, `null` en paramètre c'est moche). 
-
+La variable est ainsi typée, c'est un *dummy*. 
 
 ## Structure
 
@@ -155,7 +157,7 @@ Pour aller plus loin : [When to mock](https://enterprisecraftsmanship.com/posts/
 
 ### When
 
-Ensuite vient l'écriture du *when*, l'appel à notre SUT (System Under Test). 
+Ensuite vient l'écriture du *when*, l'appel à notre SUT. 
 Normalement on sait déjà ce que l'on attend comme retour car on a déjà écrit les assertions.  
 On doit donc finir de décrire  l'abstraction de notre objet testé. 
 Cette phase est très importante, la qualité des contrats (des abstractions plus globalement) étant fondamentale pour réduire la complexité des applications. 
