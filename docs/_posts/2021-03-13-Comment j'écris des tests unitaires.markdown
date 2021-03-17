@@ -49,7 +49,7 @@ Si mon test devient complexe, ce sera probablement le cas pour mon code de produ
 La raison d’être d’un test est un nouveau comportement. 
 C'est la raison principale, et c'est le déclencheur le plus fréquent. 
 
-Parfois ça peut être des tests plus exploratoires, par exemple pour découvrir une API tierce, ou du code non couvert. 
+Parfois ça peut être des tests plus exploratoires, par exemple pour découvrir une API tierce, ou du code non couvert dans le cas d'un bug. 
 
 ## Quelles sont les frontières d'un test unitaire ?
 
@@ -108,7 +108,8 @@ C'est aussi une question à se poser à la phase de refactoring en TDD.
 
 ### Nommages dans les tests
 
-Pour rapidement identifier ce qui ne marche pas dans un test ko, il est intéressant d'affecter des valeurs descriptives aux variables par exemple `"id du client valide"`, plutôt que `"abcde12345"`. 
+Pour rapidement identifier ce qui ne marche pas dans un test ko, il est intéressant d'affecter des valeurs descriptives aux variables. 
+Par exemple `"id du client valide"`, plutôt que `"abcde12345"`. 
 Cela peut nous encourager à définir nos propres Value Types pour surcharger la méthode `toString`.  
 Il faut donc jouer sur le nom de la variable **et** sur son contenu.
 
@@ -141,7 +142,7 @@ Il est en revanche inutile de répéter des assertions déjà vérifiées dans u
 Que doivent vérifier nos assertions ? 
 J'applique ce que Sandi Metz [a très bien résumé](https://www.youtube.com/watch?v=URSWYvyc42M) dans sa matrice.  
 On a des messages qui soit rentrent dans le SUT, soit sont internes au SUT, soit en sortent. 
-Ces messages sont soit des *queries* (on attend un résutat) soit des *commands* (on attend un effet de bord). 
+Ces messages sont soit des *queries* (on attend un résultat) soit des *commands* (on attend un effet de bord). 
 En fonction de ces types on effectue, ou pas, différents types de vérifications. 
 
 | Message | Query | Command |
