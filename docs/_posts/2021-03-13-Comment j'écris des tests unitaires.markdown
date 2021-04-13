@@ -166,6 +166,11 @@ Cette phase est très importante, la qualité des contrats (des abstractions plu
 ### Given / Arrange
 
 Puis on finit par la déclaration de ce qui est nécessaire pour initialiser le test. 
+Ici il peut être intéressant d'utiliser des builders pour faciliter la création d'objets. 
+Au boulot on expérimente actuellement leur utilisation conjointement au pattern *Object Mother*. 
+On a des classes qui fournissent des builders déjà pré-initialisés et utile fréquemment pour nos tests. 
+On a dons des *given* plus simples à lire, et des tests plus rapides à écrire. 
+Tout cela est très bien décrit dans [cet article](https://reflectoring.io/objectmother-fluent-builder/). 
 
 ## Le chemin est encore long
 
