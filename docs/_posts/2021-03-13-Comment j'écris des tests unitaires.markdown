@@ -20,7 +20,7 @@ Le code de test appelle le code de production, c'est un consommateur des abstrac
 Leur émergence correspond donc à un vrai besoin. 
 La qualité des abstractions est un élément fondamental dans la complexité des logiciels. 
 Les tests contribuent ainsi directement à une meilleure maîtrise de cette complexité. 
-Je ne ferai pas ici de description  de TDD car je n'ai pas encore assez de bouteille sur la pratique pour me permettre d'en parler ici. 
+Je ne ferai pas ici de description  de TDD, c'est un sujet qui mérite un article en soi, et il me faut encore acquérir de l'expérience pour pouvoir la partager. 
 Je peux simplement vous partager que je ne code plus sans, et si parfois il m'arrive de bloquer et de revenir au papier crayon et aux diagrammes de séquence, je finis toujours par revenir au TDD. 
 
 Si le sujet vous intéresse, je vous invite à suivre un de ses plus fervent défenseur en France, [Michaël Azerhad](https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/?originalSubdomain=fr). 
