@@ -16,6 +16,7 @@ Combien de sociétés ont une culture de partage ?
 Souvent cette absence finit en découragement, déception, et pèse dans la balance quand l’heure de la démission approche. 
 
 ![egoiste]({{ site.url }}images/egoiste.jpg)
+
 *"Egoiste"par Kazuhiro Keino est sous licence CC BY 2.0*
 
 Cette culture, tout le monde en porte un bout de responsabilité il me semble. 
