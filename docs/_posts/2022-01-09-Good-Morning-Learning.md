@@ -33,7 +33,7 @@ A l’origine l’idée est de prendre le temps que l’on ne passe plus dans le
 On se retrouve tous les matins pendant 30 minutes. Les 20 premières minutes chaque participant effectue la veille techno de son choix, par exemple en lisant un article ou en écoutant un podcast. 
 Puis sur les 10 dernières minutes on fait un retour aux autres. 
 Il n’y a aucune attente, pression. 
-On crée des groupes de 5 max, et si on dépasse en se sépare en sous groupes, pour avoir au moins 2 minutes de restitution par personne. 
+On fait des sous-groupes si nécessaire, de 5 personnes max, pour avoir au moins 2 minutes de restitution par personne. 
 
 L’expérience au niveau de la société a un peu fonctionné. 
 Les quelques piliers des autres moments de partages ont à nouveau fait tourner la boutique. 
