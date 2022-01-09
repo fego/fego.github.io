@@ -1,4 +1,5 @@
 # Apprendre ensemble grâce au *good morning learning*
+*Temps de lecture : environ 7 minutes*
 
 Plus le temps passe, plus je me dis que l’on ne partage pas assez nos connaissances dans le développement logiciel. 
 Je vois beaucoup de personnes continuer à apprendre par elles-mêmes. 
@@ -28,7 +29,7 @@ Un temps de partage mis en place depuis plusieurs mois sur mon projet actuel.
 J’ai découvert la pratique grâce à un ancien (*snif*) [collègue](https://fhiegel.github.io/) qui l’a mise en place au niveau de la société (sncf connect & tech). 
 C'est un format imaginé par Philippe Bourgau, qui en fait la description sur [son blog](https://philippe.bourgau.net/growth-mindset-coaching-turn-remote-work-commutes-into-team-learning/). 
 A l’origine l’idée est de prendre le temps que l’on ne passe plus dans les transports (grâce au développement du télétravail) pour en faire du temps de veille partagée. 
-On se retrouve tous les matin pendant 30 minutes. Les 20 premières minutes chaque participant effectue la veille techno de son choix, par exemple en lisant un article ou en écoutant un podcast. 
+On se retrouve tous les matins pendant 30 minutes. Les 20 premières minutes chaque participant effectue la veille techno de son choix, par exemple en lisant un article ou en écoutant un podcast. 
 Puis sur les 10 dernières minutes on fait un retour aux autres. 
 Il n’y a aucune attente, pression. 
 On crée des groupes de 5 max, et si on dépasse en se sépare en sous groupes, pour avoir au moins 2 minutes de restitution par personne. 
@@ -49,7 +50,7 @@ Rapidement quelques *crafters* habitués ont accroché à l’idée et on mis la
 Ensemble nous avons mis en place une formule qui désormais fonctionne depuis plusieurs mois. 
 En voici le détail, : 
 Nous nous retrouvons de 11h30 à 12h tous les jours. On avait essayé de 9h à 9h30, mais globalement c’était plus compliqué. 
-Aucun créneau ne peut satisfaire tous le monde. 
+Aucun créneau ne peut satisfaire tout le monde. 
 Il faut essayer, et garder ce qui marche le mieux. Vu le créneau, on a d’ailleurs rebaptisé les séances “les Apérales” 🙂
 Vient qui veut, quand iel veut. 
 C’est un créneau sur le temps de travail, c’est important. 
@@ -62,21 +63,21 @@ Le contenu est un peu différent de la version proposée par P. Bourgau.
 
 Nous avons gardé les séances de veille partagée comme dans le format d’origine, et ce sont les séances les plus fréquentes. 
 Ce sont aussi celles où il y a le moins de monde, mais ça fonctionne quand même. 
-Certains ne viennent pas, mais profitent des ressources qui sont partagées pour les consulter à d’autres moments. Je préfèrerait qu’iels viennent, mais c’est mieux que rien. 
+Certains ne viennent pas, mais profitent des ressources qui sont partagées pour les consulter à d’autres moments. Je préfèrerais qu’iels viennent, mais c’est mieux que rien. 
 Tout ce qui l’on partage dans ces séances est consigné dans un wiki. 
 De ces séances j’en tire souvent des pistes intéressantes grâce au partage des autres, sans compter ce que j’ai pu aussi découvrir pendant les 20 minutes de veille que j’ai fait. 
 C’est une occasion de se retrouver entre collègues, de créer ou renforcer des liens. 
 Ce sont des personnes que je contacte facilement pour leur poser une question, leur demander un avis, et je pense que c’est en parti grâce à ces moments partagés. 
 
-Nous avons ajouté la possibilité de faire des présentation. 
+Nous avons ajouté la possibilité de faire des présentations. 
 
 Cela peut prendre 10 minutes, ou les 30 minutes, peu importe. C’est une opportunité aux multiples avantages : se lancer auprès d’un public dans un contexte quand même sécurisant, tester ses propres connaissances, partager plus largement au projet des pratiques. 
-Les sujets sont très variés. D’une présentation très générale sur TDD  à un exemple de code concret du projet, tout est possible. 
-Ces présentations attire du monde et sont une réussite. 
+Les sujets sont très variés. D’une présentation très générale sur TDD à un exemple de code concret du projet, tout est possible. 
+Ces présentations attirent du monde et sont une réussite. 
 On aimerait que plus de monde se lance, mais la graine pousse, et on continue de l’arroser. 
 
 Avec le temps nous avons donc implanté un créneau de 30 minutes de partage quotidien. 
-Grâce à ces moments j’ai pu découvrir de nombreuses choses qui m’aurait demander beaucoup plus de temps pour les découvrir seul. 
+Grâce à ces moments j’ai pu découvrir de nombreuses choses qui m’aurait demandé beaucoup plus de temps pour les découvrir seul. 
 
 ## Demain
 
@@ -95,7 +96,7 @@ Je prévois aussi de tester un nouveau type de séance : le challenge de code.
 Un peu d’[egoless programming,](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/) de la revue express, du partage d’idées. 
 Le principe : je viens avec du code que je viens de faire et qui me parait intéressant de partager (un refacto, un design intéressant, un bug sioux, etc.) et de challenger. 
 Je le présente et je prends les retours, les idées. 
-A ceux qui font du pair ou du mob, cela pourrait les faire sourire, mais quand ces pratiques sont encore peu présentes (on mob à dose homéopatique chez nous) ça me semble être une bonne occasion pour faire un pas dans ce sens. 
+A ceux qui font du pair ou du mob, cela pourrait les faire sourire, mais quand ces pratiques sont encore peu présentes (on mob à dose homéopathique chez nous) ça me semble être une bonne occasion pour faire un pas dans ce sens. 
 En revanche à ceux qui se disent qu’ils ne pourront jamais faire ça dans leur boite, que leur manager ne l’autorisera jamais sur le temps de travail, je vous propose d’essayer sans demander l’autorisation, et vous verrez bien, vous pourriez avoir une bonne surprise. 
 N’hésitez pas à mettre en avant le fait que cela peut être un atout pour recruter, et que l’intelligence collective est un pas de plus vers plus de qualité, donc de productivité. 
 Si on vous répond par une fin de non recevoir, peut-être est-il alors temps de poser votre valise ailleurs ?
