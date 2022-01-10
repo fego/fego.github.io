@@ -25,9 +25,10 @@ Le management doit la promouvoir, l’encourager, et les équipes doivent se l�
 
 Dans son livre ["les entreprises humanistes"](https://www.babelio.com/livres/Lecomte-Les-Entreprises-humanistes/818280), Jacques Lecompte nous apprend que 3 motivations nous poussent  à enrichir notre travail : le désir d’exercer un contrôle sur son activité, d’avoir une image positive de soi et de se sentir en relation avec d’autres personnes (d'après Amy Wrzesniewski et Jane Dutton). 
 
-Et si la programmation nous enferme derrière une machine, et que ces temps de *remote* peuvent accentuer encore plus ce sentiement, il me semble important de saisir et créer tout ce qui pourrait créer du lien, et bénéficier à tous (voir dans XP le principe le plus important, le bénéfice mutuel). 
+Et si la programmation nous enferme derrière une machine, et que ces temps de *remote* peuvent accentuer encore plus ce sentiment, il me semble important de saisir et créer tout ce qui pourrait créer du lien, et bénéficier à tous (voir dans XP le principe le plus important, le bénéfice mutuel). 
 La suite de cet article est un retour d’expérience sur le *good morning learning*, une opportunité de créer des relations avec d'autres personnes, d'être utiles les uns aux autres.
-Ce temps de partage est mis en place depuis plusieurs mois sur mon projet actuel. 
+
+C'est un tel temps de partage qui est mis en place depuis plusieurs mois sur mon projet actuel. 
 Un temps d'intelligence collective, de partage de connaissance. 
 
 ## Les origines
@@ -55,6 +56,7 @@ Je me suis alors retroussé les manches pour tenter le coup sur mon projet (une 
 Rapidement quelques *crafters* habitués ont accroché à l’idée et on mis la main à la pâte. 
 Ensemble nous avons mis en place une formule qui désormais fonctionne depuis plusieurs mois. 
 En voici le détail : 
+
 Nous nous retrouvons de 11h30 à 12h tous les jours. 
 On avait essayé de 9h à 9h30, mais globalement c’était plus compliqué. 
 Aucun créneau ne peut satisfaire tout le monde. 
@@ -65,15 +67,15 @@ C’est un créneau sur le temps de travail, c’est important.
 On ne demande pas de sacrifier 30 minutes de sa pause déjeuner, comme c’est souvent le cas. 
 C’est donc à chacun de faire un choix, de prioriser ses tâches. 
 De mon côté j’y participe très régulièrement, et je suis toujours déçu quand je ne peux pas y aller. 
-Le contenu est un peu différent de la version proposée par P. Bourgau. 
 
 ## Le format actuel
 
+Le contenu est un peu différent de la version proposée par P. Bourgau. 
 Nous avons gardé les séances de veille partagée comme dans le format d’origine, et ce sont les séances les plus fréquentes. 
 Ce sont aussi celles où il y a le moins de monde, mais ça fonctionne quand même. 
-Certains ne viennent pas, mais profitent des ressources qui sont partagées (on note tout ce qui est partagé dans un wiki) pour les consulter à d’autres moments. 
+Parmi celles et ceux qui ne viennent pas il y en a qui profitent des ressources qui sont partagées (on note tout ce qui est partagé dans un wiki) pour les consulter à d’autres moments. 
 Je préfèrerais qu’iels viennent, mais c’est mieux que rien. 
-De ces séances j’en tire souvent des pistes intéressantes grâce au partage des autres, sans compter ce que j’ai pu aussi découvrir pendant les 20 minutes de veille que j’ai fait demon côté. 
+De ces séances j’en tire souvent des pistes intéressantes grâce au partage des autres, sans compter ce que j’ai pu aussi découvrir pendant les 20 minutes de veille que j’ai fait de mon côté. 
 C’est une occasion de se retrouver entre collègues, de créer ou renforcer des liens. 
 Ce sont des personnes que je contacte facilement pour leur poser une question, leur demander un avis, et je pense que c’est en parti grâce à ces moments partagés. 
 
@@ -107,6 +109,4 @@ On en revient à la culture de l'entreprise, et à la culture des personnes recr
 Mais peu importe, aujourd'hui ça marche sur ce projet. 
 Et peut-être que ce retour d'expérience vous aura donné envie d'essayer chez vous ?
 
-> Chaque jour, mille fois, je ressens ma vie, corps et âme, intégralement tributaire du travail des vivants et des morts. Je voudrais donner autant que je reçois et je ne cesse de recevoir. 
-
-— Albert Einstein
+> Chaque jour, mille fois, je ressens ma vie, corps et âme, intégralement tributaire du travail des vivants et des morts. Je voudrais donner autant que je reçois et je ne cesse de recevoir. — Albert Einstein
