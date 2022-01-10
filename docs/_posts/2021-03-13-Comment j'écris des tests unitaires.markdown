@@ -23,8 +23,6 @@ Les tests contribuent ainsi directement à une meilleure maîtrise de cette comp
 Je ne ferai pas ici de description  de TDD, c'est un sujet qui mérite un article en soi, et il me faut encore acquérir de l'expérience pour pouvoir la partager. 
 Je peux simplement vous partager que je ne code plus sans, et si parfois il m'arrive de bloquer et de revenir au papier crayon et aux diagrammes de séquence, je finis toujours par revenir au TDD. 
 
-Si le sujet vous intéresse, je vous invite à suivre un de ses plus fervent défenseur en France, [Michaël Azerhad](https://www.linkedin.com/in/micha%C3%ABl-azerhad-9058a044/?originalSubdomain=fr). 
-
 ### C'est de la documentation
 
 Avec des tests de qualité, il est plus facile de comprendre le fonctionnement d'un logiciel. 
@@ -54,7 +52,7 @@ Parfois ça peut être des tests plus exploratoires, par exemple pour découvrir
 ## Quelles sont les frontières d'un test unitaire ?
 
 Bon, je ne vous cache pas que c'est encore souvent un point dur sur lequel il m'arrive encore de buter. 
-Dans les katas moins, mais dans un projet pro avec beaucoup de complexité j'au plus de mal à trouver la bonne frontière. 
+Dans les katas moins, mais dans un projet pro avec beaucoup de complexité j'ai plus de mal à trouver la bonne frontière. 
 Mais les lignes directrices suivantes m'aident. 
 
 Trop souvent les tests vérifient des détails d'implémentation. 
