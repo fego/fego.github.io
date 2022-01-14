@@ -13,7 +13,7 @@ C'est encore aujourd'hui à mon avis le cas dans la majorité des entreprises.
 Il me semble que même aujourd’hui à travers les *software crafters* ce qui est mis le plus en avant c’est l’engagement personnel de chacun, et non le partage, le collectif, même si un tel mouvement existe aussi (on parle de plus en plus de mob, ou [ensemble programming](https://en.wikipedia.org/wiki/Mob_programming) par exemple). Faut-il y voir une image de notre société individualiste ? 
 
 Est-ce la faute à cet individualisme que j’ai toujours trouvé difficile de créer une dynamique de partage dans les différentes entreprises où j’ai travaillé ? 
-Combien de sociétés ont une culture de partage ? 
+Combien de sociétés ont une culture de partage, combien évoquent la problématique en entretien d'embauche ? 
 Souvent cette absence finit en découragement, déception, et pèse dans la balance quand l’heure de la démission approche. 
 
 ![egoiste]({{ site.url }}images/egoiste.jpg)
@@ -100,6 +100,11 @@ La proposition a été faite et devrait se faire.
 Je tâcherais de mettre l'article à jour dans le temps avec les nouvelles expérimentations et leurs résultats. 
 
 Cette organisation, ces réflexions, ces essais sont un investissement en énergie, avec parfois ces moments de démotivation. 
-Mais globalement la balance est très positive et fait partie aujourd'hui des satisfactions d'aller travailler chaque jour. 
+Mais comme le dit [B.Gantaume](https://artisandeveloppeur.fr/) dans ce [podcast](https://welovedevs.com/fr/benoit-gantaume-artisan-developpeur-l-excellence-est-un-chemin/) de WeLoveDevs, tout le monde n'est pas passionné par le métier de dev, donc il est inévitable d'avoir à travailler cela. 
+Comme lui, je pense qu'avec le temps ce goût peut arriver, et ce temps de partage est une graine parmi d'autre qui amenera peut-être d'autres devs à la passion. 
+Et au partage. 
+
+Et pour terminer, si j'ai un conseil à vous donner, c'est de vous appuyer sur les personnes qui, comme vous, sont motivées (si vous avez la chance d'en avoir autour de vous). 
+Mettez en place cela ensemble. 
 
 > Chaque jour, mille fois, je ressens ma vie, corps et âme, intégralement tributaire du travail des vivants et des morts. Je voudrais donner autant que je reçois et je ne cesse de recevoir. — Albert Einstein
