@@ -94,7 +94,7 @@ Il est plus facile de trouver des personnes à qui cela parle et du soutien aupr
 On continue de réflechir à comment améliorer ce format. 
 On a fait une petite enquête pour savoir ce que l'on pourrait améliorer, ce qui freine les devs pour venir plus régulièrement, et nous travaillons dessus. 
 Nous insistons notamment sur le fait que ce temps est encouragé par le management, qu'il est sur le temps de travail et participe à la bonne dynamique d'équipe. 
-Aussi, à la lecture de [cet article](https://fhiegel.github.io/blog/2022/01/13/design-patterns--les-gammes-de-la-conception-logicielle/) de mon ancien collègue, je me dis que l'on pourrait suggérer des thèmes pour aider les devs à se lancer. Plusieurs devs pourraient présenter un pattern pendant 5min chacun. Un premier essai pas trop engageant, mais déjà intéressant pour celui qui se lance et pour ceux qui bénéficient du partage. 
+Aussi, à la lecture de [cet article](https://fhiegel.github.io/blog/2022/01/13/design-patterns--les-gammes-de-la-conception-logicielle/) de mon ancien collègue, je me dis que l'on pourrait suggérer des thèmes pour aider les devs à se lancer. Plusieurs devs pourraient présenter un design pattern pendant 5/10 min chacun. Un premier essai pas trop engageant, mais déjà intéressant pour celui qui se lance et pour ceux qui bénéficient du partage. 
 
 Cette organisation, ces réflexions, ces essais sont un investissement en énergie, avec parfois ces moments de démotivation. 
 Mais globalement la balance est très positive et fait partie aujourd'hui des satisfactions d'aller travailler chaque jour. 
