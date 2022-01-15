@@ -81,10 +81,20 @@ Les sujets sont très variés.
 D’une présentation très générale sur TDD à un exemple de code concret du projet, ou une nouvelle fonctionnalité de l'Intellij, tout est possible. 
 Ces présentations attirent du monde et sont une réussite. 
 
+Tout est noté dans un log, un wiki dans notre cas. 
+Aussi bien les présentations que les ressources qui sont partagées. 
+On met une évaluation (forcément subjective) pour les ressources. 
+Le wiki contient une section avec des liens vers portails, des blogs, des chaines youtube, etc. 
+Tout cela nous le faisons pour aider les personnes qui n'ont pas encore de veille techno en place à nous rejoindre sur les sessions de veille sans le stress de ne pas trouver de ressource. 
+C'est aussi pratique pour faire un peu de promo de temps en temps. 
+Chaque mois on publie une sélection des articles les mieux évalués. 
+On le partage sur notre messagerie interne, mais aussi au niveau de l'entreprise. 
+De mon côté j'ai même commencé à partager ça sur linkedin et sur le slack de Wealcome. 
+
 ## Demain
 
-Si les séances de présentation sont un succès, j’aimerais que les séances de veille attire plus de monde, plus régulièrement. 
-Il nous arrive parfois de nous retrouver seuls. 
+Les séances de présentation sont un succès. 
+Mais j’aimerais que les séances de veille attire plus de monde, plus régulièrement. 
 Mais la tendance globale est bonne, suffisamment pour avoir envie de continuer. 
 C'est la première fois que je constate qu'une initiative de partage de connaissance s'inscrit dans la durée. 
 Dans toutes mes expériences précédentes cela n'avait pas marché. 
@@ -100,6 +110,7 @@ La proposition a été faite et devrait se faire.
 Je tâcherais de mettre l'article à jour dans le temps avec les nouvelles expérimentations et leurs résultats. 
 
 Cette organisation, ces réflexions, ces essais sont un investissement en énergie, avec parfois ces moments de démotivation. 
+Quand vous vous retrouvez tout seul à une session de veille techno, ça peut être décourageant. 
 Mais comme le dit [B.Gantaume](https://artisandeveloppeur.fr/) dans ce [podcast](https://welovedevs.com/fr/benoit-gantaume-artisan-developpeur-l-excellence-est-un-chemin/) de WeLoveDevs, tout le monde n'est pas passionné par le métier de dev, donc il est inévitable d'avoir à travailler cela. 
 Comme lui, je pense qu'avec le temps ce goût peut arriver, et ce temps de partage est une graine parmi d'autres qui amenera peut-être d'autres devs à la passion. 
 Et au partage. 
