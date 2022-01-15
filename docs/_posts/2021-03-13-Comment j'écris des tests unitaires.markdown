@@ -63,7 +63,8 @@ Quand un ensemble de classes collaborent étroitement ensemble, je teste les fon
 Par exemple si un ensemble de classes sont impliquées dans un calcul complexe, je ne teste pas indépendamment chaque classe, mais l'ensemble des classes.  
 Ce qui va définir quels collaborateurs j'embarque et le périmètre de mon test : 
 * le lien entre les collaborateurs (et qui contrôle la relation)
-* la complexité combinatoire : plus il y a de collaborateurs, plus il y a de chemins. Il y a donc des fois où il faudra soit ignorer des chemins (on prend le système comme une "boite grise" et non comme une "boite noire"), soit introduire des *tests doubles* pour limiter la complexité. 
+* la complexité combinatoire : plus il y a de collaborateurs, plus il y a de chemins. 
+Il y a donc des fois où il faudra soit ignorer des chemins (on prend le système comme une "boite grise" et non comme une "boite noire"), soit introduire des *tests doubles* pour limiter la complexité, soit [tester les chemins indépendamment](https://www.youtube.com/watch?v=Wf3WXYaMt8E). 
 * la performance, mes tests doivent être rapides. Par exemple je n'embarque pas les DAOs, je les *mock* (avec des *stubs*...), même si certains recommandent l'usage de [testcontainers](https://www.testcontainers.org/). 
 
 ## Une classe par fixture
