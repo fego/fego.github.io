@@ -87,9 +87,13 @@ On met une évaluation (forcément subjective) pour les ressources.
 Le wiki contient une section avec des liens vers portails, des blogs, des chaines youtube, etc. 
 Tout cela nous le faisons pour aider les personnes qui n'ont pas encore de veille techno en place à nous rejoindre sur les sessions de veille sans le stress de ne pas trouver de ressource. 
 C'est aussi pratique pour faire un peu de promo de temps en temps. 
-Chaque mois on publie une sélection des articles les mieux évalués. 
-On le partage sur notre messagerie interne, mais aussi au niveau de l'entreprise. 
-De mon côté j'ai même commencé à partager ça sur linkedin et sur le slack de Wealcome. 
+Chaque mois on publie une sélection des articles les mieux évalués sur notre messagerie interne. 
+C'est une façon de rappeler l'existence de ce rendez-vous, d'en informer aussi les nouveaux arrivants. 
+La communication est très importante au lancement, mais pas uniquement. 
+Yoan Thirion affirme que [*communication is key*](https://yoan-thirion.gitbook.io/knowledge-base/agile-coaching/how-to-run-a-community-of-practices-cop) dans la mise en place d'une communauté de pratique. 
+Je n'avais pas perçu cela au départ, et ne faites pas l'erreur de la négliger, cela pourrait condamner tous vos efforts. 
+On partage aussi ce résumé sur aussi au niveau de l'entreprise et j'ai même commencé à partager ça sur linkedin et sur le slack de Wealcome. 
+Ca peut donner envie aux personnes de lire les ressources partagées, et peut-être aussi de lancer un tel rendez vous sur leur projet.
 
 ## Demain
 
@@ -115,7 +119,7 @@ Mais comme le dit [B.Gantaume](https://artisandeveloppeur.fr/) dans ce [podcast]
 Comme lui, je pense qu'avec le temps ce goût peut arriver, et ce temps de partage est une graine parmi d'autres qui amenera peut-être d'autres devs à la passion. 
 Et au partage. 
 
-Et pour terminer, si j'ai un conseil à vous donner, c'est de vous appuyer sur les personnes qui, comme vous, sont motivées (si vous avez la chance d'en avoir autour de vous). 
+Et pour terminer, si j'ai un dernier conseil à vous donner, c'est de vous appuyer sur les personnes qui, comme vous, sont motivées (si vous avez la chance d'en avoir autour de vous). 
 Mettez en place cela ensemble. 
 
 > Chaque jour, mille fois, je ressens ma vie, corps et âme, intégralement tributaire du travail des vivants et des morts. Je voudrais donner autant que je reçois et je ne cesse de recevoir. — Albert Einstein
