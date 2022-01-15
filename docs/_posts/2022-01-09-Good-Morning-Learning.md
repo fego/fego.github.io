@@ -1,5 +1,5 @@
 # Apprendre ensemble grâce au *good morning learning*
-*Temps de lecture : environ 7 minutes*
+*Temps de lecture : environ 9 minutes*
 
 Plus le temps passe, plus je me dis que l’on ne partage pas assez nos connaissances dans le développement logiciel. 
 Je vois beaucoup de personnes continuer à apprendre par elles-mêmes. 
