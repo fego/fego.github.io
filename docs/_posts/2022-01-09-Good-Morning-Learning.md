@@ -101,7 +101,7 @@ Je tâcherais de mettre l'article à jour dans le temps avec les nouvelles expé
 
 Cette organisation, ces réflexions, ces essais sont un investissement en énergie, avec parfois ces moments de démotivation. 
 Mais comme le dit [B.Gantaume](https://artisandeveloppeur.fr/) dans ce [podcast](https://welovedevs.com/fr/benoit-gantaume-artisan-developpeur-l-excellence-est-un-chemin/) de WeLoveDevs, tout le monde n'est pas passionné par le métier de dev, donc il est inévitable d'avoir à travailler cela. 
-Comme lui, je pense qu'avec le temps ce goût peut arriver, et ce temps de partage est une graine parmi d'autre qui amenera peut-être d'autres devs à la passion. 
+Comme lui, je pense qu'avec le temps ce goût peut arriver, et ce temps de partage est une graine parmi d'autres qui amenera peut-être d'autres devs à la passion. 
 Et au partage. 
 
 Et pour terminer, si j'ai un conseil à vous donner, c'est de vous appuyer sur les personnes qui, comme vous, sont motivées (si vous avez la chance d'en avoir autour de vous). 
