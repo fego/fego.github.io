@@ -92,7 +92,7 @@ C'est une façon de rappeler l'existence de ce rendez-vous, d'en informer aussi 
 La communication est très importante au lancement, mais pas uniquement. 
 Yoan Thirion affirme que [*communication is key*](https://yoan-thirion.gitbook.io/knowledge-base/agile-coaching/how-to-run-a-community-of-practices-cop) dans la mise en place d'une communauté de pratique. 
 Je n'avais pas perçu cela au départ, et ne faites pas l'erreur de la négliger, cela pourrait condamner tous vos efforts. 
-On partage aussi ce résumé sur aussi au niveau de l'entreprise et j'ai même commencé à partager ça sur linkedin. 
+On partage aussi ce résumé au niveau de l'entreprise et j'ai même commencé à partager ça sur linkedin. 
 Ca peut donner envie aux personnes de lire les ressources partagées, et peut-être aussi de lancer un tel rendez vous sur leur projet.
 
 ## Demain
