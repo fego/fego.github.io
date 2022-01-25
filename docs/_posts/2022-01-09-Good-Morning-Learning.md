@@ -96,7 +96,7 @@ Je n'avais pas perçu cela au départ, et ne faites pas l'erreur de la négliger
 On partage aussi ce résumé au niveau de l'entreprise et j'ai même commencé à partager ça sur linkedin. 
 Ca peut donner envie aux personnes de lire les ressources partagées, et peut-être aussi de lancer un tel rendez vous sur leur projet.
 
-## Demain
+## Conclusion
 
 Cette organisation, ces réflexions, ces essais sont un investissement en énergie, avec parfois des moments de démotivation. 
 Mais comme le dit [B.Gantaume](https://artisandeveloppeur.fr/) dans ce [podcast](https://welovedevs.com/fr/benoit-gantaume-artisan-developpeur-l-excellence-est-un-chemin/) de WeLoveDevs, tout le monde n'est pas passionné par le métier de dev, donc il est inévitable d'avoir à travailler cela. 
