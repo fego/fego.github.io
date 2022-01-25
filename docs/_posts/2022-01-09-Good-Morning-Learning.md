@@ -1,5 +1,5 @@
 # Apprendre ensemble grâce au *good morning learning*
-*Temps de lecture : environ 9 minutes*
+*Temps de lecture : environ 7 minutes*
 
 Plus le temps passe, plus je me dis que l’on ne partage pas assez nos connaissances dans le développement logiciel. 
 Je vois beaucoup de personnes continuer à apprendre par elles-mêmes. 
@@ -23,7 +23,7 @@ Souvent cette absence finit en découragement, déception, et pèse dans la bala
 Cette culture, tout le monde en porte un bout de responsabilité il me semble. 
 Le management doit la promouvoir, l’encourager, et les équipes doivent se l’approprier, expérimenter. 
 
-Dans son livre ["les entreprises humanistes"](https://www.babelio.com/livres/Lecomte-Les-Entreprises-humanistes/818280), Jacques Lecompte nous apprend que 3 motivations nous poussent  à enrichir notre travail : le désir d’exercer un contrôle sur son activité, d’avoir une image positive de soi et de se sentir en relation avec d’autres personnes (d'après Amy Wrzesniewski et Jane Dutton). 
+Dans son livre ["les entreprises humanistes"](https://www.babelio.com/livres/Lecomte-Les-Entreprises-humanistes/818280), Jacques Lecompte nous apprend que 3 motivations nous poussent  à enrichir notre travail : le désir d’exercer un contrôle sur son activité, d’avoir une image positive de soi et de **se sentir en relation avec d’autres personnes** (d'après Amy Wrzesniewski et Jane Dutton). 
 Et si la programmation nous enferme derrière une machine, et que ces temps de *remote* peuvent accentuer encore plus ce sentiment, il me semble important de saisir et créer tout ce qui pourrait créer du lien, et bénéficier à tous (voir dans XP le principe le plus important, le bénéfice mutuel). 
 
 La suite de cet article est un retour d’expérience sur le *good morning learning*, une opportunité de créer des relations avec d'autres personnes, d'être utiles les uns aux autres.
@@ -34,7 +34,8 @@ Un temps d'intelligence collective, de partage de connaissance.
 J’ai découvert la pratique grâce à un ancien (*snif*) [collègue](https://fhiegel.github.io/) qui l’a mise en place au niveau de la société (sncf connect & tech). 
 C'est un format imaginé par Philippe Bourgau, qui en fait la description sur [son blog](https://philippe.bourgau.net/growth-mindset-coaching-turn-remote-work-commutes-into-team-learning/). 
 A l’origine l’idée est de prendre le temps que l’on ne passe plus dans les transports (grâce au développement du télétravail) pour en faire du temps de veille partagée. 
-On se retrouve tous les matins pendant 30 minutes. Les 20 premières minutes chaque participant effectue la veille techno de son choix, par exemple en lisant un article ou en écoutant un podcast. 
+On se retrouve tous les matins pendant 30 minutes. 
+Les 20 premières minutes chaque participant effectue la veille techno de son choix, par exemple en lisant un article ou en écoutant un podcast. 
 Puis sur les 10 dernières minutes on fait un retour aux autres. 
 Il n’y a aucune attente, pression. 
 On fait des sous-groupes si nécessaire, de 5 personnes max, pour avoir au moins 2 minutes de restitution par personne. 
@@ -97,24 +98,7 @@ Ca peut donner envie aux personnes de lire les ressources partagées, et peut-ê
 
 ## Demain
 
-Les séances de présentation sont un succès. 
-Mais j’aimerais que les séances de veille attire plus de monde, plus régulièrement. 
-Mais la tendance globale est bonne, suffisamment pour avoir envie de continuer. 
-C'est la première fois que je constate qu'une initiative de partage de connaissance s'inscrit dans la durée. 
-Dans toutes mes expériences précédentes cela n'avait pas marché. 
-Cela est certainement du à la culture de l'entreprise qui est à mon sens plus compatible avec ces initiatives que mes entreprises précédentes. 
-Il est plus facile de trouver des personnes à qui cela parle et du soutien auprès du management. 
-
-On continue de réflechir à comment améliorer ce format. 
-On a fait une petite enquête pour savoir ce que l'on pourrait améliorer, ce qui freine les devs pour venir plus régulièrement, et nous travaillons dessus. 
-Nous insistons notamment sur le fait que ce temps est encouragé par le management, qu'il est sur le temps de travail et participe à la bonne dynamique d'équipe. 
-Aussi, à la lecture de [cet article](https://fhiegel.github.io/blog/2022/01/13/design-patterns--les-gammes-de-la-conception-logicielle/) de mon ancien collègue, je me dis que l'on pourrait suggérer des thèmes pour aider les devs à se lancer. Plusieurs devs pourraient présenter un design pattern pendant 5/10 min chacun. 
-Un premier essai pas trop engageant, mais déjà intéressant pour celui qui se lance et pour ceux qui bénéficient du partage. 
-La proposition a été faite et devrait se faire.
-Je tâcherais de mettre l'article à jour dans le temps avec les nouvelles expérimentations et leurs résultats. 
-
-Cette organisation, ces réflexions, ces essais sont un investissement en énergie, avec parfois ces moments de démotivation. 
-Quand vous vous retrouvez tout seul à une session de veille techno, ça peut être décourageant. 
+Cette organisation, ces réflexions, ces essais sont un investissement en énergie, avec parfois des moments de démotivation. 
 Mais comme le dit [B.Gantaume](https://artisandeveloppeur.fr/) dans ce [podcast](https://welovedevs.com/fr/benoit-gantaume-artisan-developpeur-l-excellence-est-un-chemin/) de WeLoveDevs, tout le monde n'est pas passionné par le métier de dev, donc il est inévitable d'avoir à travailler cela. 
 Comme lui, je pense qu'avec le temps ce goût peut arriver, et ce temps de partage est une graine parmi d'autres qui amenera peut-être d'autres devs à la passion. 
 Et au partage. 
