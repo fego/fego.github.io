@@ -2,15 +2,22 @@
 
 Je vous partage ici quelques notes suite à la lecture du livre [_Accelerate_](https://itrevolution.com/book/accelerate/) de Nicole Forsgren, Jez Humble et Gene Kim. 
 
-Depuis quelques années, les auteurs réalisent des rapports nommés "state of devops". Ce livre en révèle les découvertes et la méthode. Les auteurs montrent comment les pratiques "devops" permettent d'augmenter la performance des entreprises et leurs revenus, que c'est une clé de leur réussite.  Mais qu'est ce que "[devops](https://en.wikipedia.org/wiki/DevOps)" ? C'est à la fois des pratiques techniques, des processus _lean_, et une culture. Ces différents aspects qui seront regardés à la loupe. 
+Depuis quelques années, les auteurs réalisent des rapports nommés "state of devops". 
+Ce livre en révèle les découvertes et la méthode. Les auteurs montrent comment les pratiques "devops" permettent d'augmenter la performance des entreprises et leurs revenus, que c'est une clé de leur réussite.  
+Mais qu'est ce que "[devops](https://en.wikipedia.org/wiki/DevOps)" ? 
+C'est à la fois des pratiques techniques, des processus _lean_, et une culture. 
+Ces différents aspects qui seront regardés à la loupe. 
 
 Le but de ma lecture étant surtout de découvrir et comprendre les clés de la performance, je fais l'impasse sur la partie méthodologie, chapitres cependant essentiels pour donner du poids aux conclusions du livre. 
-Etant un développeur, je suis certainement passé à côté de pas mal d'idées, d'autres ont été écartées volontairement. 
-J'espère vous donner envie de lire le livre.
+A travers ce bref aperçu, j'espère vous donner envie de lire le livre que j'ai trouvé très agréable à lire et marquant.
 
 ## Mesure de la performance
 
-Dans le livre, les auteurs nous montrent ce que font les meilleurs performeurs par rapport aux autres, afin de pouvoir dégager ce qui les rends meilleurs. Comment font-ils pour à la fois être rapides et stables, sans contrepartie ?
+Dans le livre, les auteurs nous montrent ce que font les meilleurs performeurs par rapport aux autres, afin de pouvoir dégager ce qui les rends meilleurs. 
+Comment font-ils pour à la fois être rapides et stables, sans contrepartie ? 
+C'est un apport majeur du livre : enfin des mesures dans notre discipline qui en manque. 
+Des conclusions peuvent ainsi en être tirées. 
+
 On commence par s'intéresser aux mesures de la performance.
 
 Les auteurs critiquent les modèles de maturité, (comme [CMMI](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)) car 
@@ -23,10 +30,12 @@ Une bonne mesure doit avoir deux caractéristiques clés :
 - être focalisée sur un revenu global pour assurer que les équipes ne sont pas en concurrences les unes avec les autres.
 - être focalisée sur les revenus et non sur ce qui est produit (et qui ne génère pas forcément des revenus)
 
-Cela a abouti à 4 mesures : 
-
+Cela a abouti à 4 mesures. \
+2 concernant le débit, le flux de production : 
 - délai de mise en production à partir d'un commit. (Catégories : moins d'1 h, moins d'1 j, entre 1 j et 1 semaine, entre 1 semaine et 1 mois, entre 1 mois et 6 mois.)
 - fréquence de déploiement et son corollaire la réduction de la taille des livraisons. (Catégories : à la demande, entre 1 par heure et 1 par jour, entre 1 par jour et 1 par semaine, entre 1 par semaine et 1 par mois, entre 1 par mois et 1 tous les 6 mois, moins de 1 fois tous les 6 mois.)
+
+2 concernant la stabilité : 
 - temps pour restaurer un service
 - taux d'erreurs sur les changements
 
@@ -38,7 +47,8 @@ En 2019, une nouvelle catégorie, dite « élite », figure dans le rapport : vo
 
 Maintenant que vous savez comment vous vous situez en niveau de performance (ou allez [voir ici](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance) comment automatiser des métriques pour savoir clairement où vous en êtes), voyons ce que propose le livre pour vous améliorer.
 
-On commence par l'aspect organisationnel. Le constat : les organisations avec un bon flux de communication fonctionnent de façon plus efficace. 
+On commence par l'aspect organisationnel. 
+Le constat : les organisations avec un bon flux de communication fonctionnent de façon plus efficace. 
 
 Ils distinguent 3 typologies des organisations, basées sur le travail de [Ron Westrum](https://en.wikipedia.org/wiki/Ron_Westrum) : 
 
@@ -46,13 +56,15 @@ Ils distinguent 3 typologies des organisations, basées sur le travail de [Ron W
 - bureaucratique, orientée règle
 - génératrices, focalisée sur la mission.
 
-Une bonne culture requiert de la confiance et de la coopération. Elle permet des bonnes prises de décision et la possibilité de revenir en arrière car plus ouverte et transparente.
+Une bonne culture requiert de la confiance et de la coopération. 
+Elle permet des bonnes prises de décision et la possibilité de revenir en arrière car plus ouverte et transparente.
 
-Ils citent une étude de Google qui a conclu en 2015 : "qui" est dans l'équipe importe moins que comment les membres de l'équipe interagissent, structurent leur travail et voient leurs contributions. Bref, **tout vient de la dynamique d'équipe**.  Cela me rappelle [ce podcast avec Arnaud Lemaire](https://compagnon.artisandeveloppeur.fr/feed-entries/podcast/le-facteur-de-performance-1-d-une-equipe-avec-arnaud-lemaire) que je vous recommande. 
+Ils citent une étude de Google qui a conclu en 2015 : "qui" est dans l'équipe importe moins que comment les membres de l'équipe interagissent, structurent leur travail et voient leurs contributions. 
+Bref, **tout vient de la dynamique d'équipe**.  
+Cela me rappelle [ce podcast avec Arnaud Lemaire](https://compagnon.artisandeveloppeur.fr/feed-entries/podcast/le-facteur-de-performance-1-d-une-equipe-avec-arnaud-lemaire) que je vous recommande. 
 
-Comment changer la culture ? Non pas en changeant ce que les personnes pensent, mais ce qu'elles font.
-
-J'ai eu un peu de mal à extraire la sève de ce chapitre malgré ces quelques éléments intéressants.
+Comment changer la culture ? 
+Non pas en changeant ce que les personnes pensent, mais ce qu'elles font.
 
 ## Impact des pratiques techniques sur la performance
 
