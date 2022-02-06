@@ -68,7 +68,9 @@ Non pas en changeant ce que les personnes pensent, mais ce qu'elles font.
 
 ## Impact des pratiques techniques sur la performance
 
-Beaucoup de méthodes agiles, comme Scrum, ont traité les pratiques techniques (comme TDD, l'intégration continue, etc) comme secondaires. A la différence d'XP. Pourtant les pratiques techniques sont vitales pour la réussite.
+Beaucoup de méthodes agiles, comme Scrum, ont traité les pratiques techniques (comme TDD, l'intégration continue, etc) comme secondaires. 
+A la différence d'XP. 
+Pourtant les pratiques techniques sont vitales pour la réussite.
 
 ### _Continuous delivery_
 
@@ -88,11 +90,15 @@ Pour implémenter le CD, il faut les fondations suivantes :
 - Limiter la durée de vie des branches (moins d'un jour) et les intégrer dans master régulièrement. Quasiment jamais de "stop commit" (code lock). Valable quelle que soit la taille de l'équipe, du projet, de l'orga.
 - Jouer tous les tests (TU et acceptance) à chaque commit. Tous les tests doivent être fiables, ne pas produire de faux positifs. Si vous avez des tests instables, mettez les dans une autre "test suite" (de quarantaine). On doit pouvoir avant jouer tous les tests sur son poste en local et les testeurs devraient effectuer des tests exploratoires sur les derniers builds.
 
-Que cela va-t-il apporter ? Moins de douleur lors du déploiement et moins de risque de burn out, une mise en prod n'est plus un big bang qui stress tout le monde. Cela influence aussi positivement la culture de l'organisation, le taux d'erreurs sur les changements. On peut alors se concentrer sur les nouveaux besoins, plutôt que de faire du rework. 
+Que cela va-t-il apporter ? 
+Moins de douleur lors du déploiement et moins de risque de *burn out*, une mise en prod n'est plus un big bang qui stress tout le monde. 
+Cela influence aussi positivement la culture de l'organisation, le taux d'erreurs sur les changements. 
+On peut alors se concentrer sur les nouveaux besoins, plutôt que de faire du rework. 
 
 ### Architecture
 
-Hormis le cas ou le logiciel est _outsourcé_ ou le cas d'un _mainframe_ (et non l'intégration **avec** un mainframe), les types de systèmes n'influencent pas la performance. Cependant deux caractéristiques d'architecture sont importantes :
+Hormis le cas où le logiciel est _outsourcé_ ou le cas d'un _mainframe_ (et non l'intégration **avec** un mainframe), les types de systèmes n'influencent pas la performance. 
+Cependant deux caractéristiques d'architecture sont importantes :
 
 - capacité à tester la majorité de l'application hors environnement d'intégration
 - capacité à deploy / release l'application indépendamment des autres applications / services dont on dépend.
