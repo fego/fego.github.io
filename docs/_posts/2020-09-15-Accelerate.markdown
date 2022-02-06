@@ -32,20 +32,21 @@ Une bonne mesure doit avoir deux caractéristiques clés :
 
 Cela a abouti à 4 mesures. \
 2 concernant le débit, le flux de production : 
-- délai de mise en production à partir d'un commit. (Catégories : moins d'1 h, moins d'1 j, entre 1 j et 1 semaine, entre 1 semaine et 1 mois, entre 1 mois et 6 mois.)
-- fréquence de déploiement et son corollaire la réduction de la taille des livraisons. (Catégories : à la demande, entre 1 par heure et 1 par jour, entre 1 par jour et 1 par semaine, entre 1 par semaine et 1 par mois, entre 1 par mois et 1 tous les 6 mois, moins de 1 fois tous les 6 mois.)
+- délai de mise en production à partir d'un commit (moins d'1 h, moins d'1 j, entre 1 j et 1 semaine, entre 1 semaine et 1 mois, entre 1 mois et 6 mois)
+- fréquence de déploiement et son corollaire la réduction de la taille des livraisons (à la demande, entre 1 par heure et 1 par jour, entre 1 par jour et 1 par semaine, entre 1 par semaine et 1 par mois, entre 1 par mois et 1 tous les 6 mois, moins de 1 fois tous les 6 mois)
 
 2 concernant la stabilité : 
 - temps pour restaurer un service
 - taux d'erreurs sur les changements
 
-En 2019, une nouvelle catégorie, dite « élite », figure dans le rapport : voici ce que font ces meilleurs performeurs par rapport aux moins bons[^3] (dans le livre vous trouverez les chiffres de 2017 qui sont déjà assez impressionnants) : 
+En 2019, une nouvelle catégorie, dite « élite », figure dans le rapport : voici ce que font ces meilleurs performeurs par rapport aux moins bons[^3] : 
 
 ![performance]({{ site.url }}images/accelerate_1.png)
 
 ## Développer la culture d'une organisation
 
-Maintenant que vous savez comment vous vous situez en niveau de performance (ou allez [voir ici](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance) comment automatiser des métriques pour savoir clairement où vous en êtes), voyons ce que propose le livre pour vous améliorer.
+En fonction des différentes catégories, vous pourrez vous situer (ou allez [voir ici](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance) comment automatiser des métriques pour savoir clairement où vous en êtes). 
+Voyons maintenant ce que propose le livre pour s'améliorer.
 
 On commence par l'aspect organisationnel. 
 Le constat : les organisations avec un bon flux de communication fonctionnent de façon plus efficace. 
