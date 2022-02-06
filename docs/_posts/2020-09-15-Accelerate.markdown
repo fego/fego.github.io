@@ -61,7 +61,7 @@ Une bonne culture requiert de la confiance et de la coopération.
 Elle permet des bonnes prises de décision et la possibilité de revenir en arrière car plus ouverte et transparente.
 
 Ils citent une étude de Google qui a conclu en 2015 : "qui" est dans l'équipe importe moins que comment les membres de l'équipe interagissent, structurent leur travail et voient leurs contributions. 
-Bref, **tout vient de la dynamique d'équipe**.  
+Bref, **tout vient de la dynamique d'équipe**. 
 Cela me rappelle [ce podcast avec Arnaud Lemaire](https://compagnon.artisandeveloppeur.fr/feed-entries/podcast/le-facteur-de-performance-1-d-une-equipe-avec-arnaud-lemaire) que je vous recommande. 
 
 Comment changer la culture ? 
