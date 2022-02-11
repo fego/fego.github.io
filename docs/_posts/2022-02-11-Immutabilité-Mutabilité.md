@@ -8,7 +8,7 @@ Une des tâches est d'introduire un modèle métier, indépendant de celui de l'
 Et nous avons décidé de partir sur un modèle immutable. 
 Enfin autant que possible. 
 Ce que je vous partage ici n'est pas nouveau, mais pourrait vous intéresser si vous n'avez pas encore creusé ce sujet. 
-J'espère vous en présenter une vue synthétique qui pourrait vous intéresser quand l'heure du choix s'offira à vous.
+J'espère vous en présenter une vue synthétique qui pourrait vous aider quand l'heure du choix s'offira à vous.
 
 ## Les bénéfices
 En résumé : on a plus de lisibilité et moins de bugs. 
@@ -42,7 +42,7 @@ Avec des objets immutables on ne peut séparer l’instanciation de l’initiali
 ### Partageable sans crainte
 
 Il n'y aura pas d'effets de bord. 
-Avec l'immutabilité on n’aura jamais à investiguer où l’état a été modifié, et qui fait planter le programme avec un petit `setTitre(null)`. 
+Avec l'immutabilité on n’aura jamais à investiguer où l’état a été modifié. 
 On peut les réutiliser partout ou nécessaire, comme par exemple `BigDecimal.ZERO`. 
 A l'inverse avec un objet mutable on peut créer des bugs difficiles à résoudre. 
 Par exemple un objet mutable issu d'un cache, si on le modifie on corrompt le cache. 
@@ -51,21 +51,23 @@ Par exemple un objet mutable issu d'un cache, si on le modifie on corrompt le ca
 
 Avec de l'immutabilité, on s'enlève de la complexité dans la gestion des accès concurrents et des bugs très difficiles à débugger.
 
-
-
 ## Dangers
 
-Le coùt est-il un problème ? 
+Le coût est-il un problème ? 
 De nos jours, probablement que non. 
 Cela ne devrait en général ne pas être un frein. 
 Cette [page du site d'oracle](https://docs.oracle.com/javase/tutorial/essential/concurrency/immutable.html) exprime bien cela :
 > Programmers are often reluctant to employ immutable objects, because they worry about the cost of creating a new object as opposed to updating an object in place. The impact of object creation is often overestimated, and can be offset by some of the efficiencies associated with immutable objects. These include decreased overhead due to garbage collection, and the elimination of code needed to protect mutable objects from corruption. 
 
+ou en français : 
+
+> Les programmeurs sont souvent réticents à utiliser des objets immuables, car ils s'inquiètent du coût de la création d'un nouvel objet par opposition à la mise à jour d'un objet en place. L'impact de la création d'objets est souvent surestimé et peut être compensé par des gains d'efficacité associés aux objets immuables. Celles-ci incluent une diminution du surcoût due au passage du garbage collector et l'élimination du code nécessaire pour protéger les objets mutables de la corruption.
+
 Attention, cela ne veut pas dire que parfois avoir des objets mutables sera une meilleure option. 
 C'est une question de compromis. 
 Pour faire ce choix on pourra s'aider de quelques métriques (taille mémoire, vitesse d'exécution).
 
-Le plsu gros danger que je vois est plus le suivant :
+Le pluu gros danger que je vois est plus le suivant :
 si le choix est appliqué de façon dogmatique, cela finirait par rendre le code plus complexe qu'il ne devrait l'être. 
 
 ## Comment rendre une classe immutable en Java ?
@@ -74,7 +76,7 @@ si le choix est appliqué de façon dogmatique, cela finirait par rendre le code
 Pourquoi mieux ? 
 Parce que l'on se réserve l'opportunité de sous classer en interne la classe
 * pas de mutateur (*setter*)
-* champs `final`
+* on met tous les champs `final`
 * si un a un champ non `final`, alors il ne faut pas l'exposer aux clients. 
 Ce peut être le cas pour des champs couteux à instancier, que l'on va rendre *lazy*. 
 * un constructeur qui vérifie les invariants (on peut s'aider par exemple de : `Objects.requireNonNull`)
