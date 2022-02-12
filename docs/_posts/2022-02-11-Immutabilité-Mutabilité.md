@@ -109,9 +109,9 @@ Pour faire ce choix on pourra s'aider de quelques métriques (taille mémoire, v
 
 Le plus gros danger que je vois est plutôt le suivant :
 si le choix est appliqué de façon dogmatique, cela finira par rendre le code plus complexe qu'il ne devrait l'être. 
-Sur notre projet, nous avons été par moment trop loin, ou de façon maladroite. 
+Sur notre projet, nous avons été n'avons pas pris les bonnes options sur certains objets, car l'usage était devenu complexe. 
 Le moment particulièrement sensible que nous avons rencontré était quand un concept nécessitait plusieurs étapes pour être construit. 
-J'adresse ce point plus bas. 
+Les solutions à ce problème sont décrites plus bas. 
 Mais tout d'abord, voyons comment rendre un objet immutable. 
 
 ## Comment rendre une classe immutable en Java ?
