@@ -51,7 +51,7 @@ Si on est obligé pour une raison quelconque d'avoir un objet mutable, il est al
 Avec de l'immutabilité, on s'enlève de la complexité dans la gestion des accès concurrents et des bugs très difficiles à débugger puisqu'un objet immutable ne pourra pas être modifié par plusieurs threads en parallèle.
 
 ### Identité de l'objet
-J'utilise le terme identité ici dans le sens de c'est ce qui est déterminé par `equals`et `hashcode` (l'implémentation de l'un impliquant l'implémentation de l'autre). 
+J'utilise le terme "identité" ici dans le sens de c'est ce qui est déterminé par `equals`et `hashcode` (l'implémentation de l'un impliquant l'implémentation de l'autre). 
 Par exemple dans l'ancienne api `java.util.Date` l'identité est déterminée par la comparaison du getter `getTime` : 
 
 ```java
