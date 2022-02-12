@@ -1,4 +1,4 @@
-# Immutabilité et mutabilité, choisir en connaissance de cause
+# Immutabilité et mutabilité en Java, choisir en connaissance de cause
 
 Pendant longtemps je n'ai vu sur mon chemin que des objets métiers mutables. 
 C'était le cas bien souvent car nous n'avions qu'un même modèle du *controller* à la base de données. 
@@ -7,37 +7,35 @@ Il y a beaucoup de travail car beaucoup de code a été produit avant que nous n
 Une des tâches est d'introduire un modèle métier, indépendant de celui de l'api et celui de la base. 
 Et nous avons décidé de partir sur un modèle immutable. 
 Enfin autant que possible. 
-Ce que je vous partage ici n'est pas nouveau, mais pourrait vous intéresser si vous n'avez pas encore creusé ce sujet. 
-J'espère vous en présenter une vue synthétique qui pourrait vous aider quand l'heure du choix s'offira à vous.
+Ce que je vous partage ici n'est pas nouveau, mais pourrait vous intéresser si vous n'avez pas encore creusé ce sujet, et que vous évoluez dans l'écosystème Java. 
 
 ## Les bénéfices
 En résumé : on a plus de lisibilité et moins de bugs. 
 Voyons le détail.
 
-### Identité de l'objet
-Si on modifie l'identité d'un objet cela peut poser des problèmes dans les maps par exemple. 
-Voici un exemple issu de l'article de [Yegor Bugayenko](https://www.yegor256.com/2014/06/09/objects-should-be-immutable.html). 
-
-```java
-Map<Date, String> map = new HashMap<>();
-Date date = new Date();
-map.put(date, "hello, world!");
-date.setTime(12345L);
-assert map.containsKey(date); // false
-```
-Et oui, le hash de la data n'est plus le même. 
-Fort heureusement, la nouvelle api `java.time` est désormais immutable. 
-
 ### Atomicité de construction
-
-Soit l’objet est créé, soit ça a planté, mais il ne peut être dans un état instable. 
+Soit l’objet est créé, soit ça a planté, mais il ne peut être dans un état invalide. 
 Ses invariants sont validés à la construction. 
 C'est un **énorme** avantage. 
 On peut utiliser l'objet sans crainte et s'éviter des vérifications fastidieuses, de la programmation défensive. 
 
+```java
+public LigneDeCommande(Long idArticle, Integer quantite) {
+    this.idArticle = Objects.requireNonNull(idArticle);
+    if (quantite < 0) {
+        throw new IllegalArgumentException("La quantite doit être >= 0");
+    }
+    this.quantite = Objects.requireNonNull(quantite);
+}
+```
+
+En utilisant cet objet, je n'aurais jamais à vérifier si la `quantite` est `null`, que ce soit en passant par un *getter* ou même dans une méthode interne. 
+
 ### Couplage temporel
 
-Avec des objets immutables on ne peut séparer l’instanciation de l’initialisation, donc on évite ces problèmes. 
+Un couplage temporel, c'est quand des instructions doivent être absolument exécutées dans un ordre précis. 
+Si on ne respecte pas cet ordre, alors on peut rencontrer une exception ou être dans un état fonctionnellement invalide. 
+Avec des objets immutables on ne peut séparer l’instanciation de l’initialisation, donc il ne sera possible d'utiliser l'objet avant de l'avoir initialisé. 
 
 ### Partageable sans crainte
 
@@ -50,6 +48,37 @@ Par exemple un objet mutable issu d'un cache, si on le modifie on corrompt le ca
 ### Thread safety
 
 Avec de l'immutabilité, on s'enlève de la complexité dans la gestion des accès concurrents et des bugs très difficiles à débugger.
+
+### Identité de l'objet
+L'identité d'un objet en Java c'est ce qui est déterminé par `equals`et `hashcode` (l'implémentation de l'un impliquant l'implémentation de l'autre). 
+Par exemple dans l'ancienne api `java.util.Date` l'identité est déterminée par la comparaison du getter `getTime` : 
+
+```java
+public boolean equals(Object obj) {
+    return obj instanceof Date && getTime() == ((Date) obj).getTime();
+}
+
+public int hashCode() {
+    long ht = this.getTime();
+    return (int) ht ^ (int) (ht >> 32);
+}
+```
+
+Or, cet objet étant mutable, le changer, c'est modifier son identité. 
+Voici un exemple issu d'un article de Yegor Bugayenko. 
+
+```java
+Map<Date, String> map = new HashMap<>();
+Date date = new Date();
+// ici la clé de la HashMap est calculée avec hashCode, donc à partir de la valeur de getTime à cet instant
+map.put(date, "hello, world!");
+// en modifiant la date, la valeur retournée par hashCode n'est plus la même
+date.setTime(12345L);
+// false car le hash de la clé n'est plus le même que le hash de la date. 
+assert map.containsKey(date); 
+```
+Et oui, le hash de la data n'est plus le même. 
+Fort heureusement, la nouvelle api `java.time` est désormais immutable. 
 
 ## Dangers
 
@@ -65,21 +94,25 @@ ou en français :
 
 Attention, cela ne veut pas dire que parfois avoir des objets mutables sera une meilleure option. 
 C'est une question de compromis. 
-Pour faire ce choix on pourra s'aider de quelques métriques (taille mémoire, vitesse d'exécution).
+Pour faire ce choix on pourra s'aider de quelques métriques (taille mémoire, vitesse d'exécution). 
 
-Le pluu gros danger que je vois est plus le suivant :
+Le plus gros danger que je vois est plus le suivant :
 si le choix est appliqué de façon dogmatique, cela finirait par rendre le code plus complexe qu'il ne devrait l'être. 
 
 ## Comment rendre une classe immutable en Java ?
 
-* on met la classe `final` ou alors (mieux), on crée un constructeur privé avec des *factory methods*. 
-Pourquoi mieux ? 
-Parce que l'on se réserve l'opportunité de sous classer en interne la classe
 * pas de mutateur (*setter*)
 * on met tous les champs `final`
 * si un a un champ non `final`, alors il ne faut pas l'exposer aux clients. 
 Ce peut être le cas pour des champs couteux à instancier, que l'on va rendre *lazy*. 
 * un constructeur qui vérifie les invariants (on peut s'aider par exemple de : `Objects.requireNonNull`)
+* il faut que les classes qui héritent continuent de garantir l'immutabilité. 
+S'il y a un risque que cela ne soit pas le cas, il est recommandé de mettre la classe `final` ou alors (mieux), on crée un constructeur privé avec des *factory methods*. 
+Pourquoi mieux ? 
+Parce que l'on se réserve l'opportunité de sous classer en interne la classe. 
+Note : en Java 17 le mot clé [`sealed`](https://docs.oracle.com/en/java/javase/17/language/sealed-classes-and-interfaces.html) a été introduit et permet de déterminer les classes qui ont le droit d'hériter de la classe. 
+
+A partir de Java 17 on peut aussi utiliser des *[records](https://docs.oracle.com/en/java/javase/17/language/records.html)* pour créer simplement des classes immutables. 
 
 ### Mais si je dois créer un objet en plusieurs étapes
 
@@ -90,6 +123,8 @@ Si ce n'est pas possible, on peut explorer d'autres solutions :
 * on fait de la composition à partir de plusieurs objets immutables (et on délègue les messages vers ces objets), ou on peut recréer un nouvel objet complet une fois les différentes informations récupérées. 
 
 On choisit la meilleure solution en fonction de chaque situation. 
+Vous constaterez que dans certains cas nous avons plus de code, par exemple lors de l'ajout d'un builder. 
+C'est est le prix de la qualité, tout comme un pour langage statiquement typé la verbosité sera la coût de la qualité. 
 
 ## Intérêt du mutable
 Et oui, il ne faut jamais être dogmatique, parfois ça vaut le coup de mettre de la mutabilité. 
@@ -100,14 +135,15 @@ Mais aussi, comme on l'a vu plus haut, si des impératifs de performance nous l'
 
 ## Conclusion
 
-La balance devrait donc souvent pencher en faveur du choix de l'immutablitité. 
+J'espère que cet article vous aura donné quelques éléments vous permettant de considérer de rendre vos objets immutables quand cela vous paraitra pertinent. 
 
 > Classes should be immutable unless there’s a very good reason to make them mutable. If a class cannot be made immutable, limit its mutability as much as possible. *J.Bloch - Effective Java* 
 
 Ou en français : 
 > les classes devraient être immutables sauf s'il y a une bonne raison de les rendres mutables. Si une classe ne peut être immutable, limitez sa mutabilité le plus possible
 
-## Ressource 
+## Ressource (en anglais)
 * le livre [effective Java](https://www.goodreads.com/book/show/34927404-effective-java)
 * [site de yegor](https://www.yegor256.com/2014/06/09/objects-should-be-immutable.html)
 * [le site d'oracle](https://docs.oracle.com/javase/tutorial/essential/concurrency/imstrat.html)
+* [un cours du MIT](https://web.mit.edu/6.005/www/fa15/classes/09-immutability/)
