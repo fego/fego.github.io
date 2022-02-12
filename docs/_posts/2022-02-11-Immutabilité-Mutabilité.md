@@ -1,13 +1,18 @@
 # Immutabilité et mutabilité en Java, choisir en connaissance de cause
 
 Pendant longtemps je n'ai vu sur mon chemin que des objets métiers mutables. 
+Les fameux POJO, avec leurs *getters* et *setters* que l'on crée par mimétisme. 
 C'était le cas bien souvent car nous n'avions qu'un même modèle du *controller* à la base de données. 
 Sur mon projet actuel nous essayons de passer sur une architecture hexagonale. 
 Il y a beaucoup de travail car beaucoup de code a été produit avant que nous ne prenions cette direction. 
 Une des tâches est d'introduire un modèle métier, indépendant de celui de l'api et celui de la base. 
 Et nous avons décidé de partir sur un modèle immutable. 
-Enfin autant que possible. 
-Ce que je vous partage ici n'est pas nouveau, mais pourrait vous intéresser si vous n'avez pas encore creusé ce sujet, et que vous évoluez dans l'écosystème Java. 
+Cela n'a pas été si simple, et j'avoue au début avoir été sur la retenue. 
+C'est mon ancien collègue Mathieu qui a poussé cette idée. 
+J'avais peur que nous introduisions trop de complexité. 
+Je vous partage donc ce qu'aujourd'hui ce modèle nous a apporté (donc c'est assez spécifique à cette expérience)/
+Tout ceci n'est pas nouveau, c'est ma synthèse de ce que j'ai pu lire. 
+J'espère vous intéresser si vous n'avez pas encore creusé ce sujet, et que vous évoluez dans l'écosystème Java. 
 
 ## Les bénéfices
 En résumé : on a plus de lisibilité et moins de bugs. 
@@ -99,6 +104,10 @@ Pour faire ce choix on pourra s'aider de quelques métriques (taille mémoire, v
 
 Le plus gros danger que je vois est plus le suivant :
 si le choix est appliqué de façon dogmatique, cela finirait par rendre le code plus complexe qu'il ne devrait l'être. 
+Sur notre projet, nous avons été par moment trop loin, ou de façon maladroite. 
+Les moments "sensibles" que nous avons rencontré était quand un concept nécessitait plusieurs étapes pour être construit. 
+J'adresse ce point plus bas. 
+Tout d'abord, voyons comment rendre un objet immutable. 
 
 ## Comment rendre une classe immutable en Java ?
 
@@ -113,7 +122,12 @@ Pourquoi mieux ?
 Parce que l'on se réserve l'opportunité de sous classer en interne la classe. 
 Note : en Java 17 le mot clé [`sealed`](https://docs.oracle.com/en/java/javase/17/language/sealed-classes-and-interfaces.html) a été introduit et permet de déterminer les classes qui ont le droit d'hériter de la classe. 
 
-A partir de Java 17 on peut aussi utiliser des *[records](https://docs.oracle.com/en/java/javase/17/language/records.html)* pour créer simplement des classes immutables. 
+Attention, ce n'est pas parce que l'on ajoute `final` que le type sera immutable. 
+C'est bien la référence que l'on ne pourra pas changer. 
+Par exemple pour une liste, si on n'utilise pas une liste immutable on aura beau la déclarer en `final` cette liste sera modifiable. 
+Il faut par exemple utiliser les différentes surcharges de `List.of()`. 
+
+A partir de Java 16 on peut aussi utiliser des *[records](https://docs.oracle.com/en/java/javase/17/language/records.html)* pour créer simplement des classes immutables, sans *boilerplate*. 
 
 ### Mais si je dois créer un objet en plusieurs étapes
 
@@ -143,8 +157,11 @@ J'espère que cet article vous aura donné quelques éléments vous permettant d
 Ou en français : 
 > les classes devraient être immutables sauf s'il y a une bonne raison de les rendres mutables. Si une classe ne peut être immutable, limitez sa mutabilité le plus possible
 
+*Un grand merci aux préciaux relecteurs des [Softaware Cratfers](https://www.meetup.com/fr-FR/nantes-software-crafters-Nantes/) de Nantes :)*
+
 ## Ressource (en anglais)
 * le livre [effective Java](https://www.goodreads.com/book/show/34927404-effective-java)
 * [site de yegor](https://www.yegor256.com/2014/06/09/objects-should-be-immutable.html)
 * [le site d'oracle](https://docs.oracle.com/javase/tutorial/essential/concurrency/imstrat.html)
-* [un cours du MIT](https://web.mit.edu/6.005/www/fa15/classes/09-immutability/)
+* [un bout de cours du MIT](https://web.mit.edu/6.005/www/fa15/classes/09-immutability/) sur l'immutabilité. 
+* [un article intéressant](https://blogs.oracle.com/javamagazine/post/java-immutable-objects-strings-date-time-records) avec un peu d'historique sur les décisions
