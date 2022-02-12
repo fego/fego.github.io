@@ -1,7 +1,7 @@
 # (Draft) Immutabilité et mutabilité en Java, choisir en connaissance de cause
 
 *Article en cours de rédaction*. 
-*Temp de lecture : environ 8 mintues*. 
+*Temp de lecture : environ 7 mintues*. 
 
 Pendant longtemps je n'ai vu sur mon chemin que des objets métiers mutables. 
 Les fameux POJO, avec leurs *getters* et *setters* que l'on crée par mimétisme. 
