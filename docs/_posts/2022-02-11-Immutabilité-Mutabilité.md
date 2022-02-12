@@ -1,10 +1,12 @@
 # (Draft) Immutabilité et mutabilité en Java, choisir en connaissance de cause
 
 *Article en cours de rédaction*. 
+*Temp de lecture : environ 8 mintues*. 
 
 Pendant longtemps je n'ai vu sur mon chemin que des objets métiers mutables. 
 Les fameux POJO, avec leurs *getters* et *setters* que l'on crée par mimétisme. 
-C'était le cas bien souvent car nous n'avions qu'un même modèle du *controller* à la base de données. 
+C'était le cas bien souvent car nous n'avions qu'un même modèle du *controller* à la base de données.
+
 Sur mon projet actuel nous essayons de passer sur une architecture hexagonale. 
 Il y a beaucoup de travail car beaucoup de code a été produit avant que nous ne prenions cette direction. 
 Une des tâches est d'introduire un modèle métier, indépendant de celui de l'api et celui de la base. 
@@ -12,6 +14,7 @@ Et nous avons décidé de partir sur un modèle immutable sous l'impulsion d'un 
 J'avoue au début avoir été sur la retenue. 
 J'avais peur que nous introduisions trop de complexité, que cela nous ralentisse. 
 Aujourd'hui, après quelques rectifications, le résultat est à mon avis vraiment positif. 
+
 Je vous partage donc ce qu'aujourd'hui ce modèle nous a apporté dans notre contexte. 
 Rien de nouveau sur le sujet, c'est ma synthèse de ce que j'ai pu lire. 
 J'espère vous intéresser si vous n'avez pas encore creusé ce sujet, et que vous évoluez dans l'écosystème Java. 
