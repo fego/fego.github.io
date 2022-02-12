@@ -1,4 +1,6 @@
-# Immutabilité et mutabilité en Java, choisir en connaissance de cause
+# (Draft) Immutabilité et mutabilité en Java, choisir en connaissance de cause
+
+*Article en cours de rédaction*. 
 
 Pendant longtemps je n'ai vu sur mon chemin que des objets métiers mutables. 
 Les fameux POJO, avec leurs *getters* et *setters* que l'on crée par mimétisme. 
@@ -6,12 +8,12 @@ C'était le cas bien souvent car nous n'avions qu'un même modèle du *controlle
 Sur mon projet actuel nous essayons de passer sur une architecture hexagonale. 
 Il y a beaucoup de travail car beaucoup de code a été produit avant que nous ne prenions cette direction. 
 Une des tâches est d'introduire un modèle métier, indépendant de celui de l'api et celui de la base. 
-Et nous avons décidé de partir sur un modèle immutable. 
-Cela n'a pas été si simple, et j'avoue au début avoir été sur la retenue. 
-C'est mon ancien collègue Mathieu qui a poussé cette idée. 
-J'avais peur que nous introduisions trop de complexité. 
-Je vous partage donc ce qu'aujourd'hui ce modèle nous a apporté (donc c'est assez spécifique à cette expérience)/
-Tout ceci n'est pas nouveau, c'est ma synthèse de ce que j'ai pu lire. 
+Et nous avons décidé de partir sur un modèle immutable sous l'impulsion d'un collègue convaincu et convaincant. 
+J'avoue au début avoir été sur la retenue. 
+J'avais peur que nous introduisions trop de complexité, que cela nous ralentisse. 
+Aujourd'hui, après quelques rectifications, le résultat est à mon avis vraiment positif. 
+Je vous partage donc ce qu'aujourd'hui ce modèle nous a apporté dans notre contexte. 
+Rien de nouveau sur le sujet, c'est ma synthèse de ce que j'ai pu lire. 
 J'espère vous intéresser si vous n'avez pas encore creusé ce sujet, et que vous évoluez dans l'écosystème Java. 
 
 ## Les bénéfices
@@ -102,12 +104,12 @@ Attention, cela ne veut pas dire que parfois avoir des objets mutables sera une 
 C'est une question de compromis. 
 Pour faire ce choix on pourra s'aider de quelques métriques (taille mémoire, vitesse d'exécution). 
 
-Le plus gros danger que je vois est plus le suivant :
-si le choix est appliqué de façon dogmatique, cela finirait par rendre le code plus complexe qu'il ne devrait l'être. 
+Le plus gros danger que je vois est plutôt le suivant :
+si le choix est appliqué de façon dogmatique, cela finira par rendre le code plus complexe qu'il ne devrait l'être. 
 Sur notre projet, nous avons été par moment trop loin, ou de façon maladroite. 
-Les moments "sensibles" que nous avons rencontré était quand un concept nécessitait plusieurs étapes pour être construit. 
+Le moment particulièrement sensible que nous avons rencontré était quand un concept nécessitait plusieurs étapes pour être construit. 
 J'adresse ce point plus bas. 
-Tout d'abord, voyons comment rendre un objet immutable. 
+Mais tout d'abord, voyons comment rendre un objet immutable. 
 
 ## Comment rendre une classe immutable en Java ?
 
