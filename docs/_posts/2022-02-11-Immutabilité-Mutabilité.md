@@ -164,9 +164,9 @@ Ou en français :
 
 *Un grand merci aux relecteurs des [Software Cratfers](https://www.meetup.com/fr-FR/nantes-software-crafters-Nantes/) de Nantes :)*
 
-## Ressource (en anglais)
+## Ressources (en anglais)
 * le livre [effective Java](https://www.goodreads.com/book/show/34927404-effective-java)
-* [site de yegor](https://www.yegor256.com/2014/06/09/objects-should-be-immutable.html)
-* [le site d'oracle](https://docs.oracle.com/javase/tutorial/essential/concurrency/imstrat.html)
+* une [page sur l'immutabilité](https://www.yegor256.com/2014/06/09/objects-should-be-immutable.html) de Yegor Bugayenko
+* *A Strategy for Defining Immutable Objects* sur [le site d'oracle](https://docs.oracle.com/javase/tutorial/essential/concurrency/imstrat.html)
 * [un bout de cours du MIT](https://web.mit.edu/6.005/www/fa15/classes/09-immutability/) sur l'immutabilité. 
 * [un article intéressant](https://blogs.oracle.com/javamagazine/post/java-immutable-objects-strings-date-time-records) avec un peu d'historique sur les décisions
