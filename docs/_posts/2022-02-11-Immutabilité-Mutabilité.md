@@ -44,10 +44,11 @@ Avec l'immutabilité on n’aura jamais à investiguer où l’état a été mod
 On peut les réutiliser partout ou nécessaire, comme par exemple `BigDecimal.ZERO`. 
 A l'inverse avec un objet mutable on peut créer des bugs difficiles à résoudre. 
 Par exemple un objet mutable issu d'un cache, si on le modifie on corrompt le cache. 
+Si on est obligé pour une raison quelconque d'avoir un objet mutable, il est alors conseillé de retourner une copie de cet objet. 
 
 ### Thread safety
 
-Avec de l'immutabilité, on s'enlève de la complexité dans la gestion des accès concurrents et des bugs très difficiles à débugger.
+Avec de l'immutabilité, on s'enlève de la complexité dans la gestion des accès concurrents et des bugs très difficiles à débugger puisqu'un objet immutable ne pourra pas être modifié par plusieurs threads en parallèle.
 
 ### Identité de l'objet
 L'identité d'un objet en Java c'est ce qui est déterminé par `equals`et `hashcode` (l'implémentation de l'un impliquant l'implémentation de l'autre). 
