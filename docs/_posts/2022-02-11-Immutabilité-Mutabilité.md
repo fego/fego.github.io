@@ -1,6 +1,5 @@
-# (Draft) Immutabilité et mutabilité en Java, choisir en connaissance de cause
+# Immutabilité et mutabilité en Java, choisir en connaissance de cause
 
-*Article en cours de rédaction*. 
 *Temp de lecture : environ 7 mintues*. 
 
 Pendant longtemps je n'ai vu sur mon chemin que des objets métiers mutables. 
@@ -72,7 +71,7 @@ Si on est obligé pour une raison quelconque d'avoir un objet mutable, il est al
 Comme les soucis de concurrence ne concernent que *l'écriture* et qu'un objet immutable ne peut jamais être modifié, il peut être partagé sans crainte dans un contexte concurrent.
 
 ### Identité de l'objet
-J'utilise le terme "identité" ici dans le sens de c'est ce qui est déterminé par `equals`et `hashcode` (l'harmonie des deux implémentations étant désirable). 
+J'utilise le terme "identité" ici dans le sens de c'est ce qui est déterminé par `equals`et `hashcode` (l'harmonie des deux implémentations [étant désirable](https://www.infoq.com/fr/articles/retour-sur-les-bases-equals-et-hashcode/)). 
 Par exemple dans l'ancienne API `java.util.Date` l'identité est déterminée par la comparaison du getter `getTime` : 
 
 ```java
@@ -90,11 +89,12 @@ Or, cet objet étant mutable, le changer, c'est modifier son identité.
 Voici un exemple issu d'un article de Yegor Bugayenko. 
 
 ```java
-Map<Date, String> map = new HashMap<>();
-Date key = new Date();
-map.put(key, "hello, world!");
-key.setTime(12345L);
-assert map.containsKey(key); 
+Date date = new Date();
+// ici la clé de la HashMap est calculée avec hashCode, donc à partir de la valeur de getTime à cet instant
+map.put(date, "hello, world!");
+// en modifiant la date, la valeur retournée par hashCode ne sera plus la même
+date.setTime(12345L);
+assert map.containsKey(date); 
 ```
 La dernière instruction va échouer car le *hash* de la clé n'est plus le même qu'à l'insertion. 
 Fort heureusement, la nouvelle api `java.time` est désormais immutable. 
@@ -175,12 +175,10 @@ class Mutator {
 ```
 
 Le choix de la solution sera guidé par ce qu'on préfère :
-* _fail-fast_
-  * tout usage « impropre » de l'instance jetera une exception
-  * utiliser `List.copyOf` dans le constructeur de `Strings`
-* _idempotence_
-  * garantir que la donnée ne bouge pas est suffisant
-  * utiliser une copie de l'attribut à chaque fois qu'on doit le communiquer (même indirectement, comme ici)
+* tout usage « impropre » de l'instance jetera une exception
+* utiliser [`List.copyOf`](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html#copyOf(java.util.Collection)) dans le constructeur de `Strings` et créer ainsi une copie immutable
+* garantir que la donnée ne bouge pas est suffisant
+* utiliser une copie de l'attribut à chaque fois qu'on doit le communiquer (même indirectement, comme ici)
 
 ### Mais si je dois créer un objet en plusieurs étapes
 
@@ -211,7 +209,7 @@ J'espère que cet article vous aura donné quelques éléments vous permettant d
 Ou en français : 
 > les classes devraient être immutables sauf s'il y a une bonne raison de les rendre mutables. Si une classe ne peut être immutable, limitez sa mutabilité le plus possible
 
-*Un grand merci aux relecteurs des [Software Cratfers](https://www.meetup.com/fr-FR/nantes-software-crafters-Nantes/) de Nantes :)*
+*Un grand merci aux relecteurs des [Software Cratfers](https://www.meetup.com/fr-FR/nantes-software-crafters-Nantes/) de Nantes ainsi qu'à Mathieu pour sa PR qui a éclairci cette article* ❤️.
 
 ## Ressources (en anglais)
 * le livre [effective Java](https://www.goodreads.com/book/show/34927404-effective-java)
