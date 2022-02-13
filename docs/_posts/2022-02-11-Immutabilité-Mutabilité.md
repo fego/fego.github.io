@@ -213,7 +213,7 @@ J'espère que cet article vous aura donné quelques éléments vous permettant d
 Ou en français : 
 > les classes devraient être immutables sauf s'il y a une bonne raison de les rendre mutables. Si une classe ne peut être immutable, limitez sa mutabilité le plus possible
 
-*Un grand merci aux relecteurs des [Software Cratfers](https://www.meetup.com/fr-FR/nantes-software-crafters-Nantes/) de Nantes ainsi qu'à Mathieu pour sa PR qui a éclairci cette article* ❤️.
+*Un grand merci aux relecteurs des [Software Cratfers](https://www.meetup.com/fr-FR/nantes-software-crafters-Nantes/) de Nantes ainsi qu'à Mathieu pour sa PR qui a éclairci cet article* ❤️.
 
 ## Ressources (en anglais)
 * le livre [effective Java](https://www.goodreads.com/book/show/34927404-effective-java)
