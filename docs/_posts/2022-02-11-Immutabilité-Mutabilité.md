@@ -62,8 +62,10 @@ Avec des objets immutables on ne peut séparer l’instanciation de l’initiali
 Il n'y aura pas d'effets de bord. 
 Avec l'immutabilité on n’aura jamais à investiguer où l’état a été modifié. 
 On peut les réutiliser partout ou nécessaire, comme par exemple `BigDecimal.ZERO`. 
+
 À l'inverse, l'utilisation d'un objet mutable peut créer des bugs difficiles à résoudre. 
 Par exemple, modifier un objet mutable issu d'un cache corrompt le cache. 
+
 Si on est obligé pour une raison quelconque d'avoir un objet mutable, il est alors conseillé de retourner une copie de cet objet. 
 
 ### _Thread safety_
@@ -197,7 +199,9 @@ On peut citer ici la disjonction entre les méthodes d'enrichissement (uniquemen
 Car il ne faut jamais être dogmatique, parfois ça vaut le coup de mettre de la mutabilité. 
 Par exemple pour certains objets de communication en dehors de l’hexagone, nos DTOs (mappés avec Jackson, JPA, etc). 
 Sur ce coup là on n'a pas vraiment le choix, et ça n'aurait pas beaucoup d'intérêt. 
+
 Mais dans d'autres cas, par exemple au sein d'une fonction, je peux créer une liste mutable pour me faciliter la mise en place d'un algorithme. 
+
 Mais aussi, comme on l'a vu plus haut, si des impératifs de performance nous l'imposent et que des mesures nous montrent que cela est une amélioration, alors on peut choisir de partir sur de objets mutables. 
 
 ## Conclusion
