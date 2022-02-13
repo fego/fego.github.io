@@ -109,7 +109,7 @@ Cette [page du site d'oracle](https://docs.oracle.com/javase/tutorial/essential/
 
 ou en français : 
 
-> Les devs sont souvent réticents à utiliser des objets immuables, car ils s'inquiètent du coût de la création d'un nouvel objet par opposition à la mise à jour d'un objet déjà existant. L'impact de la création d'objets est souvent surestimé et peut être compensé par des gains d'efficacité associés aux objets immuables. Celles-ci incluent une diminution du surcoût due au passage du *garbage collector* et l'élimination du code nécessaire pour protéger les objets mutables de la corruption.
+> Les developpeurs sont souvent réticents à utiliser des objets immuables, car ils s'inquiètent du coût de la création d'un nouvel objet par opposition à la mise à jour d'un objet déjà existant. L'impact de la création d'objets est souvent surestimé et peut être compensé par des gains d'efficacité associés aux objets immuables. Celles-ci incluent une diminution du surcoût due au passage du *garbage collector* et l'élimination du code nécessaire pour protéger les objets mutables de la corruption.
 
 Attention, cela ne veut **pas** dire qu'avoir des objets mutables n'est *jamais* une meilleure option. 
 C'est une question de compromis. 
@@ -130,13 +130,17 @@ Mais tout d'abord, voyons comment rendre un objet immutable.
 Ce peut être le cas pour des champs couteux à instancier, que l'on va rendre *lazy*. 
 * un constructeur qui vérifie les invariants (on peut s'aider par exemple de : `Objects.requireNonNull`)
 * il faut que les classes qui héritent continuent de garantir l'immutabilité. 
-S'il y a un risque que cela ne soit pas le cas, il est recommandé de mettre la classe `final` ou alors (mieux), on crée un constructeur privé avec des *factory methods*. 
-Pourquoi mieux ? 
-Parce que l'on se réserve l'opportunité de sous-classer en interne. 
+
+À partir de Java 16 on peut aussi utiliser des *[records](https://docs.oracle.com/en/java/javase/17/language/records.html)* pour créer simplement des classes immutables, sans *boilerplate*. 
+
+### Note sur l'héritage
+
+Déclarer la classe `final` permet de garantir qu'une classe fille ne viendra pas corrompre l'immutabilité.
+
+L'autre solution est de créer un constructeur privé et des *factory methods*.
+Ceci nous donne l'avantage de sous-classer en interne. 
+
 Note : en Java 17 le mot clé [`sealed`](https://docs.oracle.com/en/java/javase/17/language/sealed-classes-and-interfaces.html) a été introduit et permet de déterminer les classes qui ont le droit d'hériter de la classe, permettant de décrire des classes filles dans un autre fichier. 
-
-
-A partir de Java 16 on peut aussi utiliser des *[records](https://docs.oracle.com/en/java/javase/17/language/records.html)* pour créer simplement des classes immutables, sans *boilerplate*. 
 
 ### Le diable se cache dans les détails
 
