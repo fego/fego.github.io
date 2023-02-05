@@ -7,6 +7,7 @@ Et malgré mon anglais encore un peu limité, la lecture fut beaucoup facile que
 J'ai pris une version papier, mais j'aurais peut-être du prendre une version numérique pour m'éviter quelques aller-retour laborieux vers mon dictionnaire. 
 Mais à part ça la lecture fut fluide.  
 L'écriture est claire, efficace, et parsemé d'anecdotes qui permettent d'illustrer de façon clair les idées développées. 
+Les aspects plus théoriques sont très accessibles et accompagnés de notes bibliographiques pour creuser si on le souhaite. 
 
 J'ai peut-être juste eu un peu de mal à prendre de la hauteur sur la structure du livre pendant ma lecture. 
 Je vais donc tâcher de faire cela maintenant en vous partageant quelques éléments de ce livre que je recommande à tout le monde. 
@@ -64,6 +65,7 @@ Ces tests nous permettent d'éviter des rationalisations.  Et de commencer notre
 Mais qu'est-ce qu'un éclaireur ? 
 
 ![éclaireur]({{ site.url }}images/eclaireur_jumelles.jpg)
+
 [Source](https://www.flickr.com/photos/67611651@N03/13610540345)
 
 C'est une personne qui va privilégier la vérité, la connaissance avant tout. 
@@ -116,8 +118,8 @@ Avec le succès que l'on connaît.
 
 ## Un monde meilleur
 C'est donc un livre intéressant et très utile que nous propose Julia Galef. 
-En nous montrant qu'épouser la voie de l'éclaireur ce n'est pas renoncer, mais faire face positivement, être dans le juste et non l'illusion, l'autrice m'a donné un grand coup de fouet. 
-Tout cela n'étant en plus pas que théorique, mais aussi pratique. 
+En nous montrant qu'épouser la voie de l'éclaireur ce n'est pas renoncer, mais faire face positivement, être dans le juste et non l'illusion. 
+L'autrice m'a donné un grand coup de fouet.  
 Ce livre rejoint la pile des livres qui m'auront nettement influencé (à confirmer sur le long terme bien sûr). 
 Je pense par exemple aux ouvrages de Thomas d'Ansembourg, dont le thème de la communication non violente rejoint en partie celui du livre de Julia Galef. 
 
