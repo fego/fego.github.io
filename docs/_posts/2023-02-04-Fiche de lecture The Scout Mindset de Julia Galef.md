@@ -15,7 +15,7 @@ Je vais donc tâcher de faire cela maintenant en vous partageant quelques élém
 Avant de vous parler du *scout mindset* (j'utiliserai aussi le terme d'éclaireur dans l'article), parlons de son envers. 
 Le *soldier mindset*.  
 
-![soldat]({{ site.url }}images/soldat_poilu.png)
+![soldat]({{ site.url }}images/soldat_poilu.jpg)
 [Source](https://raddo-ethnodoc.com/raddo/document/7775)
 
 Souvent, nous nous retrouvons dans une position où l'on combat pour des idées, des opinions, où l'on va défendre des décisions. 
