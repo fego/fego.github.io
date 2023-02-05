@@ -18,7 +18,7 @@ Le *soldier mindset*.
 
 ![soldat]({{ site.url }}images/soldat_poilu.jpg)
 
-[Source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3A1915_groupe_de_soldat_du_66e_RI.JPG)
+[Source](https://commons.wikimedia.org/wiki/File:1915_groupe_de_soldat_du_66e_RI.JPG)
 
 Souvent, nous nous retrouvons dans une position où l'on combat pour des idées, des opinions, où l'on va défendre des décisions. 
 Nous sommes prêts à mentir de façon subtile pour ne pas voir la réalité. 
