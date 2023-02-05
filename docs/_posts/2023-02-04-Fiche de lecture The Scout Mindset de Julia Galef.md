@@ -30,9 +30,8 @@ Pour se protéger.
 Protéger notre égo des émotions déplaisantes, notre estime de soi. 
 Par exemple, si on rate un entretien, on rationalise en se disant que c'est mieux comme ça, de toute manière les personnes n'étaient pas très agréables. 
 On soulage notre déception.  
-C'est aussi une façon de se motiver à faire des choses difficiles, en mettant sous le tapis ce qui nous déplaît. 
-
-On protège notre identité sociale, notre appartenance à un groupe et notre loyauté envers lui. 
+C'est aussi une façon de se motiver à faire des choses difficiles, en mettant sous le tapis ce qui nous déplaît.  
+On protège aussi notre identité sociale, notre appartenance à un groupe et notre loyauté envers lui. 
 Cela nous permet de mieux se convaincre soi même pour mieux convaincre les autres. 
 Une spécialité en politique notamment. 
 
@@ -59,7 +58,8 @@ Quel est ma réaction ?
 Ou aussi le test de "scepticisme sélectif". 
 Si je suis en contact avec des arguments de mon camp, comment je les percevrais si c'était des arguments issus du camp opposé ? 
 
-Ces tests nous permettent d'éviter des rationalisations.  Et de commencer notre métamorphose en éclaireur. 
+Ces tests, qui nous invitent à changer de point de vue, nous permettent d'éviter des rationalisations.  
+Et de commencer notre métamorphose en éclaireur. 
 
 ## L'éclaireur
 Mais qu'est-ce qu'un éclaireur ? 
@@ -71,13 +71,14 @@ Mais qu'est-ce qu'un éclaireur ?
 C'est une personne qui va privilégier la vérité, la connaissance avant tout. 
 Il cherche à avoir la carte du territoire la plus précise possible. 
 Pas celle qui l'arrange. 
-Son honnêteté intellectuelle est primordiale, mais il n'en n'est pas pour autant indifférent. 
+Son honnêteté intellectuelle est primordiale. 
+Mais il n'en n'est pas pour autant indifférent. 
 Quand il se trompe il se réjouit d'avoir améliorer sa carte, d'avoir appris. 
 Le scout : 
 * sait reconnaître ses torts
 * accueillir la critique
 * se met des gardes fous pour éviter son manque d'objectivité
-* continue sans relâche à creuser sa pensée, à chercher des arguments et pas que ceux qui l'arrangeraient
+* continue sans relâche à creuser sa pensée, à chercher des arguments et uniquement ceux qui l'arrangeraient
 
 Un exemple que cite l'autrice est celui de Darwin. 
 Si sa théorie a été si béton, c'est parce qu'il n'a jamais reculé devant les arguments de ses adversaires. 
@@ -87,7 +88,7 @@ Au contraire, il traitait en priorité tout ce qui pouvait déstabiliser sa thé
 On est tous soldats, plus ou moins. 
 Savoir le reconnaître est une force, un pas vers l'amélioration. 
 Et autant on est très bon pour voir les attitudes de soldat chez les autres, autant on est très mauvais pour le voir chez nous. 
-Et souvent, ceux qui sont persuadés d'être de bons scouts objectifs, sont en fait des soldats qui s'ignorent. 
+Et souvent, ceux qui sont persuadés d'être de bons éclaireurs, sont en fait des soldats qui s'ignorent. 
 
 ## Un choix heureux
 Le scout voit donc la réalité telle qu'elle est. 
@@ -95,7 +96,7 @@ Et ce que nous dit Julia Galef, c'est que ce n'est pas un sacrifice.
 On a plus à gagner qu'à perdre. 
 Ce sont plus des opportunités de s'améliorer, d'être mieux avec les autres. 
 Et bien souvent les bénéfices de cet état d'esprit sont sous évalués ce qui nous fait choisir à tort le *soldier mindset*. 
-Le scout a des bénéfices surtout à long terme, car en apprenant de ses erreurs il nous donne de bons réflexes. 
+L'éclaireur a des bénéfices surtout à long terme, car en apprenant de ses erreurs il nous donne de bons réflexes. 
 Les bonnes habitudes sont renforcées. 
 Mais même à court terme on peut être fier de notre honnêteté intellectuelle. 
 Et ce n'est pas un réalisme triste, mais positif, une amélioration continue. 
@@ -106,14 +107,16 @@ Par exemple, dans la vie d'une équipe de développement, agir en éclaireur va 
 Grâce à une meilleure écoute et une capacité à proposer des alternatives de façon constructive, le produit aura plus de chance de remplir son but.  
 Au sein même de l'équipe aussi cela peut améliorer les rapports et l'efficacité. 
 Et ouvrir des opportunités de *pair* ou *mob programming*.  
-C'est aussi laisser la place à l'erreur aux autres, et oser soi même se tromper. 
+C'est aussi laisser la place à l'erreur.
+Pour accueillir celle des autres, mais aussi oser soi même se tromper. 
 On permet ainsi une meilleure sécurité psychologique, bien plus agréable à vivre et si impactante sur la performance des équipes (la sécurité psychologique est ce qu'il y a de [plus important dans une équipe](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/)).  
 Être un éclaireur vous aidera aussi à prendre de meilleurs décisions. 
 Par exemple avec l'"outsider test". 
-Si vous avez une décision importante à prendre, imaginez une personne qui arrive à votre poste, que ferait-elle ? 
+Si vous avez une décision importante à prendre, imaginez une personne qui arrive à votre poste. 
+Que ferait-elle ? 
 C'est grâce à ce test que les PDG d'Intel ont sauvé leur entreprise à une époque où elle était menacée de disparaître, car devenue moins performante sur son cœur de métier, la mémoire. 
 En ce mettant dans la peau d'un nouvel arrivant à leur poste, ils ont pu voir ce qui leur était si difficile en tant que fondateur : 
-Lâcher leur coeur de métier, leur identité, pour aller vers d'autres horizons, les micro processeurs. 
+il fallait lâcher leur coeur de métier, leur identité, pour aller vers d'autres horizons, les micro processeurs. 
 Avec le succès que l'on connaît. 
 
 ## Un monde meilleur
