@@ -116,7 +116,7 @@ Par exemple, dans la vie d'une équipe de développement, agir en éclaireur va 
 Grâce à une meilleure écoute et une capacité à proposer des alternatives de façon constructive, le produit aura plus de chance de remplir son but.  
 Au sein même de l'équipe aussi cela peut améliorer les rapports et l'efficacité. 
 Et ouvrir des opportunités de *pair* ou *mob programming*.  
-C'est aussi laisser la place à l'erreur.
+C'est aussi laisser la place à l'erreur. 
 Pour accueillir celle des autres, mais aussi oser soi même se tromper. 
 On permet ainsi une meilleure sécurité psychologique, bien plus agréable à vivre et si impactante sur la performance des équipes (la sécurité psychologique est ce qu'il y a de [plus important dans une équipe](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/)).  
 Être un éclaireur vous aidera aussi à prendre de meilleurs décisions. 
