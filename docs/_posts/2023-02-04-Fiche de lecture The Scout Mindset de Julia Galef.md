@@ -98,12 +98,12 @@ Ce sont plus des opportunités de s'améliorer, d'être mieux avec les autres.
 Et bien souvent les bénéfices de cet état d'esprit sont sous évalués ce qui nous fait choisir à tort le *soldier mindset*. 
 L'éclaireur a des bénéfices surtout à long terme, car en apprenant de ses erreurs il nous donne de bons réflexes. 
 Les bonnes habitudes sont renforcées.  
-Et c'est efficace. 
+Et c'est efficace.  
 L'autrice donne l'exemple d'activistes de défense des animaux. 
 Au départ ils étaient en opposition frontale. 
 Ce peut être parfois la bonne posture pour faire bouger des lignes, se faire connaitre, mais là ça ne fonctionnait plus. 
 Ils ont donc choisi de se rapprocher de leurs opposants grâce à une attitude ouverte. 
-Et ils ont obtenu beaucoup plus de résultats. 
+Et ont obtenu beaucoup plus de résultats. 
 
 Mais même à court terme on peut être fier de notre honnêteté intellectuelle. 
 Et ce n'est pas un réalisme triste, mais positif, une amélioration continue. 
