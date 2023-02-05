@@ -24,7 +24,7 @@ J'ai un peu tardé car j'appréhendais une lecture un peu technique, avec un jar
 Et malgré mon anglais encore un peu limité, la lecture fut beaucoup facile que ce que j'avais imaginé. 
 J'ai pris une version papier, mais j'aurais peut-être du prendre une version numérique pour m'éviter quelques aller-retour laborieux vers mon dictionnaire. 
 Mais à part ça la lecture fut fluide.  
-L'écriture est claire, efficace, et parsemé d'anecdotes qui permettent d'illustrer de façon clair les idées développées. 
+L'écriture est claire, efficace, et parsemée d'anecdotes qui permettent d'illustrer de façon clair les idées développées. 
 Les aspects plus théoriques sont très accessibles et accompagnés de notes bibliographiques pour creuser si on le souhaite. 
 
 J'ai peut-être juste eu un peu de mal à prendre de la hauteur sur la structure du livre pendant ma lecture. 
@@ -94,7 +94,7 @@ Mais il n'en n'est pas pour autant indifférent.
 Quand il se trompe il se réjouit d'avoir améliorer sa carte, d'avoir appris. 
 Le scout : 
 * sait reconnaître ses torts
-* accueillir la critique
+* accueille la critique
 * se met des gardes fous pour éviter son manque d'objectivité
 * continue sans relâche à creuser sa pensée, à chercher des arguments et uniquement ceux qui l'arrangeraient
 
