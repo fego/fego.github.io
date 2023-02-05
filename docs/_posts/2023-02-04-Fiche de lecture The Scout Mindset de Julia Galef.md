@@ -1,4 +1,5 @@
 # Fiche de lecture - The scout mindset de Julia Galef
+*Temps de lecture estimé : 8 minutes* 
 
 *The Scout Mindset* de Julia Galef était dans ma pile de livres à lire depuis un certain temps. 
 Et je n'ai pas été déçu de m'être lancé dans sa lecture. 
