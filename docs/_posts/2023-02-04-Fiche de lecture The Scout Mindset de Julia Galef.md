@@ -20,10 +20,6 @@ Son livre est une invitation à épouser le "scout mindset".
 
 *The Scout Mindset* de Julia Galef était dans ma pile de livres à lire depuis un certain temps. 
 Et je n'ai pas été déçu de m'être lancé dans sa lecture. 
-J'ai un peu tardé car j'appréhendais une lecture un peu technique, avec un jargon peut-être difficile à comprendre, et je souhaitais avoir la disponibilité pour cela. 
-Et malgré mon anglais encore un peu limité, la lecture fut beaucoup facile que ce que j'avais imaginé. 
-J'ai pris une version papier, mais j'aurais peut-être du prendre une version numérique pour m'éviter quelques aller-retour laborieux vers mon dictionnaire. 
-Mais à part ça la lecture fut fluide.  
 L'écriture est claire, efficace, et parsemée d'anecdotes qui permettent d'illustrer de façon clair les idées développées. 
 Les aspects plus théoriques sont très accessibles et accompagnés de notes bibliographiques pour creuser si on le souhaite. 
 
