@@ -1,6 +1,23 @@
 # Fiche de lecture - The scout mindset de Julia Galef
 *Temps de lecture estimé : 8 minutes* 
 
+Tranquillement installé avec votre ordi sur le genoux, vous parcourez votre fil twitter quand soudainement vous voyez un tweet qui vous met en rage. 
+"Bobard de khmer vert!" (remplacez "Khmer vert" par "gauchiste" ou "droitard" selon vos envies).  
+Ni une ni deux, vous foncez sur le bouton pour répondre. 
+Vous commencez sur un ton incendiaire. 
+Vous pestez contre la limite de 280 caractères de twitter. 
+Vous n'aurez pas assez de place pour expliquer la vie à ce "@#¨%$". 
+Puis, le téléphone sonne. 
+Vous répondez, 15 minutes passent. 
+Quand vous revenez à votre ordinateur, vous regardez ce que vous avez écrit. 
+Et vous réalisez que vous avez été exactement comme vous le reprochiez à cette personne. 
+Buté, sans ouverture. 
+A défendre votre identité brutalement. 
+
+C'est ce que Julia Galef appelle le "soldier mindset". 
+Cet état d'esprit qui envahit les réseaux sociaux, mais aussi notre vie au quotidien. 
+Son livre est une invitation à épouser le "scout mindset". 
+
 *The Scout Mindset* de Julia Galef était dans ma pile de livres à lire depuis un certain temps. 
 Et je n'ai pas été déçu de m'être lancé dans sa lecture. 
 J'ai un peu tardé car j'appréhendais une lecture un peu technique, avec un jargon peut-être difficile à comprendre, et je souhaitais avoir la disponibilité pour cela. 
@@ -14,7 +31,7 @@ J'ai peut-être juste eu un peu de mal à prendre de la hauteur sur la structure
 Je vais donc tâcher de faire cela maintenant en vous partageant quelques éléments de ce livre que je recommande à tout le monde. 
 
 ## Le soldat
-Avant de vous parler du *scout mindset* (j'utiliserai aussi le terme d'éclaireur dans l'article), parlons de son envers. 
+Avant de vous parler du *scout mindset* (j'utiliserai aussi le terme d'éclaireur dans l'article), revenons à son envers, présenté brièvement en  introduction. 
 Le *soldier mindset*.  
 
 ![soldat]({{ site.url }}images/soldat_poilu.jpg)
