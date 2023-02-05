@@ -129,7 +129,7 @@ Je pense par exemple aux ouvrages de Thomas d'Ansembourg, dont le thème de la c
 Vous l'aurez compris, un gros coup de cœur que je vous recommande. 
 
 ## Quelques ressources
-* pour [acheter le livre](https://www.amazon.fr/Scout-Mindset-Perils-Defensive-Thinking/dp/0735217556) ou en commande chez votre libraire
+* pour [acheter le livre](https://www.amazon.fr/Scout-Mindset-Perils-Defensive-Thinking/dp/0735217556) ou en [commande chez votre libraire](https://www.placedeslibraires.fr/livre/9780593189269-the-scout-mindset-why-some-people-see-things-clearly-and-others-don-t-julia-galef/)
 * un [talk ted](https://www.fnac.com/livre-numerique/a14820809/Julia-Galef-The-Scout-Mindset) de 10min qui m'a permis de découvrir Julia Galef il y a quelques années
 * une [conférence](https://www.youtube.com/watch?v=yfRC8ZgBXZw) passionnante où elle expose de nombreuses idées du livre
 * la [chaine youtube](https://www.youtube.com/@measureofdoubt) de Julia Galef
