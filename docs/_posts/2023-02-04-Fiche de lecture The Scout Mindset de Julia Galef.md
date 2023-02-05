@@ -93,7 +93,7 @@ Et souvent, ceux qui sont persuadés d'être de bons éclaireurs, sont en fait d
 
 ## Un choix heureux
 Le scout voit donc la réalité telle qu'elle est. 
-Et ce que nous dit Julia Galef, c'est que ce n'est pas un sacrifice. 
+Ce n'est pas un sacrifice. 
 On a plus à gagner qu'à perdre. 
 Ce sont plus des opportunités de s'améliorer, d'être mieux avec les autres. 
 Et bien souvent les bénéfices de cet état d'esprit sont sous évalués ce qui nous fait choisir à tort le *soldier mindset*. 
@@ -102,7 +102,8 @@ Les bonnes habitudes sont renforcées.
 Et c'est efficace.  
 L'autrice donne l'exemple d'activistes de défense des animaux. 
 Au départ ils étaient en opposition frontale. 
-Ce peut être parfois la bonne posture pour faire bouger des lignes, se faire connaitre, mais là ça ne fonctionnait plus. 
+Ce peut être parfois la bonne posture pour faire bouger des lignes, se faire connaitre. 
+Mais là ça ne fonctionnait plus. 
 Ils ont donc choisi de se rapprocher de leurs opposants grâce à une attitude ouverte. 
 Et ont obtenu beaucoup plus de résultats. 
 
@@ -123,7 +124,7 @@ Par exemple avec l'"outsider test".
 Si vous avez une décision importante à prendre, imaginez une personne qui arrive à votre poste. 
 Que ferait-elle ? 
 C'est grâce à ce test que les PDG d'Intel ont sauvé leur entreprise à une époque où elle était menacée de disparaître, car devenue moins performante sur son cœur de métier, la mémoire. 
-En ce mettant dans la peau d'un nouvel arrivant à leur poste, ils ont pu voir ce qui leur était si difficile en tant que fondateur : 
+En se mettant dans la peau d'un nouvel arrivant à leur poste, ils ont pu voir ce qui leur était si difficile en tant que fondateur : 
 il fallait lâcher leur coeur de métier, leur identité, pour aller vers d'autres horizons, les micro processeurs. 
 Avec le succès que l'on connaît. 
 
@@ -142,4 +143,4 @@ Vous l'aurez compris, un gros coup de cœur que je vous recommande.
 * une [conférence](https://www.youtube.com/watch?v=yfRC8ZgBXZw) passionnante où elle expose de nombreuses idées du livre
 * la [chaine youtube](https://www.youtube.com/@measureofdoubt) de Julia Galef
 * un [résumé](https://scienceetonnante.com/2021/07/23/scout-mindset-flus/) par David Louapre (*youtuber* de la chaîne sciences étonnantes)
-* Une [résumé](https://www.youtube.com/watch?v=EZfNX4U63hc) par Lê Nguyên Hoang (*youtuber* de la chaîne sciences4all)
+* un [résumé](https://www.youtube.com/watch?v=EZfNX4U63hc) par Lê Nguyên Hoang (*youtuber* de la chaîne sciences4all)
