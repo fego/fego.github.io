@@ -72,7 +72,7 @@ Quel est ma réaction ?
 Ou aussi le test de "scepticisme sélectif". 
 Si je suis en contact avec des arguments de mon camp, comment je les percevrais si c'était des arguments issus du camp opposé ? 
 
-Ces tests, qui nous invitent à changer de point de vue, nous permettent d'éviter des rationalisations.  
+Ces tests, qui nous invitent à changer de point de vue, nous permettent d'éviter des rationalisations. 
 Et de commencer notre métamorphose en éclaireur. 
 
 ## L'éclaireur
@@ -140,6 +140,11 @@ C'est grâce à ce test que les PDG d'Intel ont sauvé leur entreprise à une é
 En se mettant dans la peau d'un nouvel arrivant à leur poste, ils ont pu voir ce qui leur était si difficile en tant que fondateur : 
 il fallait lâcher leur coeur de métier, leur identité, pour aller vers d'autres horizons, les micro processeurs. 
 Avec le succès que l'on connaît. 
+
+L'éclaireur ne part pas au combat, il ne va pas chercher à évangéliser ses collègues en leur imposant la pratique X ou Y (Scrum, TDD etc). 
+Il sait écouter les signaux faibles, un peu comme un développeur cherche à écouter les *code smells*. 
+Il va écouter les besoins, le contexte. 
+Et en sera d'autant plus pertinent. 
 
 ## Un monde meilleur
 C'est donc un livre intéressant et très utile que nous propose Julia Galef. 
