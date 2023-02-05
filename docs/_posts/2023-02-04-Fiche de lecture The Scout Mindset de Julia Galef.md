@@ -18,17 +18,9 @@ C'est ce que Julia Galef appelle le "soldier mindset".
 Cet état d'esprit qui envahit les réseaux sociaux, mais aussi notre vie au quotidien. 
 Son livre est une invitation à épouser le "scout mindset". 
 
-*The Scout Mindset* de Julia Galef était dans ma pile de livres à lire depuis un certain temps. 
-Et je n'ai pas été déçu de m'être lancé dans sa lecture. 
-L'écriture est claire, efficace, et parsemée d'anecdotes qui permettent d'illustrer de façon clair les idées développées. 
-Les aspects plus théoriques sont très accessibles et accompagnés de notes bibliographiques pour creuser si on le souhaite. 
-
-J'ai peut-être juste eu un peu de mal à prendre de la hauteur sur la structure du livre pendant ma lecture. 
-Je vais donc tâcher de faire cela maintenant en vous partageant quelques éléments de ce livre que je recommande à tout le monde. 
-
 ## Le soldat
-Avant de vous parler du *scout mindset* (j'utiliserai aussi le terme d'éclaireur dans l'article), revenons à son envers, présenté brièvement en  introduction. 
-Le *soldier mindset*.  
+Avant de vous parler du *scout mindset* (j'utiliserai aussi le terme d'éclaireur dans l'article), revenons à son envers. 
+Le *soldier mindset*. 
 
 ![soldat]({{ site.url }}images/soldat_poilu.jpg)
 
