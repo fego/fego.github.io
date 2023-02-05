@@ -109,7 +109,7 @@ Le scout voit donc la réalité telle qu'elle est.
 Ce n'est pas un sacrifice. 
 On a plus à gagner qu'à perdre. 
 Ce sont plus des opportunités de s'améliorer, d'être mieux avec les autres. 
-Et bien souvent les bénéfices de cet état d'esprit sont sous évalués ce qui nous fait choisir à tort le *soldier mindset*. 
+Et bien souvent les bénéfices de cet état d'esprit sont sous évalués, ce qui nous fait choisir à tort le *soldier mindset*. 
 L'éclaireur a des bénéfices surtout à long terme, car en apprenant de ses erreurs il nous donne de bons réflexes. 
 Les bonnes habitudes sont renforcées.  
 Et c'est efficace.  
