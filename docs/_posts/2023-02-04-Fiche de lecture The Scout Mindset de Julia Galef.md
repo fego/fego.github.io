@@ -117,10 +117,10 @@ Non.
 Mais si cela nous parait la stratégie la plus efficace. 
 Et pour savoir cela, c'est plus simple si on a un certain détachement avec notre identité. 
 
-L'éclaireur' n'a-t-il que des gains à long terme ? 
+L'éclaireur n'a-t-il que des gains à long terme ? 
 Doit-il à court terme courber l'échine pour accepter la dure réalité ?
 Non, il peut être fier de son honnêteté intellectuelle. 
-Heureux d'avoir faire évolué sa vision des choses, même d'avoir changé d'avis. 
+Heureux d'avoir fait évoluer sa vision des choses, même d'avoir changé d'avis. 
 Et ce n'est pas un réalisme triste, mais positif, une amélioration continue. 
 Par exemple face à l'échec, on peut se dire "J'ai fait de mon mieux", "J'ai déjà parcouru tout ce chemin". 
 Et cela va nous aider partout, dans notre vie personnelle et au travail. 
