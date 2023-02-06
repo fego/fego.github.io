@@ -84,7 +84,7 @@ Le scout :
 * sait reconnaître ses torts
 * accueille la critique
 * se met des gardes fous pour éviter son manque d'objectivité
-* continue sans relâche à creuser sa pensée, à chercher des arguments et uniquement ceux qui l'arrangeraient
+* continue sans relâche à creuser sa pensée, à chercher des arguments et pas uniquement ceux qui l'arrangeraient
 
 Un exemple que cite l'autrice est celui de Darwin. 
 Si sa théorie a été si béton, c'est parce qu'il n'a jamais reculé devant les arguments de ses adversaires. 
