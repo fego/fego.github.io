@@ -165,7 +165,7 @@ En anglais :
 * une [conférence](https://www.youtube.com/watch?v=yfRC8ZgBXZw) passionnante où elle expose de nombreuses idées du livre
 * la [chaine youtube](https://www.youtube.com/@measureofdoubt) de Julia Galef
 
-En Français :
+En français :
 * un [résumé](https://scienceetonnante.com/2021/07/23/scout-mindset-flus/) par David Louapre (*youtuber* de la chaîne sciences étonnantes)
 * un [résumé](https://www.youtube.com/watch?v=EZfNX4U63hc) par Lê Nguyên Hoang (*youtuber* de la chaîne sciences4all)
 
