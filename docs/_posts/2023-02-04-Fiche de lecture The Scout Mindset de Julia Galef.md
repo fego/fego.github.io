@@ -149,7 +149,7 @@ Et en sera d'autant plus pertinent.
 
 ## Un monde meilleur
 C'est donc un livre intéressant et très utile que nous propose Julia Galef. 
-En nous montrant qu'épouser la voie de l'éclaireur ce n'est pas renoncer ni être le gentil de service, mais faire face positivement autant que possible, favoriser la curiosité et l'écoute. 
+En nous montrant qu'épouser la voie de l'éclaireur ce n'est ni renoncer, ni être le gentil de service, mais faire face, favoriser la curiosité et l'écoute (de soi et des autres). 
 L'autrice m'a donné un grand coup de fouet. 
 J'espère vous avoir retranscrit sans trop d'erreur son intention. 
 
