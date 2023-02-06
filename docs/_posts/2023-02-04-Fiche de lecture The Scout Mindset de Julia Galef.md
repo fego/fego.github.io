@@ -1,18 +1,16 @@
 # Fiche de lecture - The scout mindset de Julia Galef
 *Temps de lecture estimé : 8 minutes* 
 
-Tranquillement installé avec votre ordi sur le genoux, vous parcourez votre fil twitter quand soudainement vous voyez un tweet qui vous met en rage. 
-"Bobard de khmer vert!" (remplacez "Khmer vert" par "gauchiste" ou "droitard" selon vos envies).  
-Ni une ni deux, vous foncez sur le bouton pour répondre. 
-Vous commencez sur un ton incendiaire. 
-Vous pestez contre la limite de 280 caractères de twitter. 
-Vous n'aurez pas assez de place pour expliquer la vie à ce "@#¨%$". 
+Tranquillement installé avec son ordi sur les genoux, Harry parcourt son fil twitter quand soudainement il tombe sur un tweet commençant par "C'est la candidate la plus corrompue de l'histoire !" 
+Ni une ni deux, il fonce sur le bouton "répondre". 
+Il commence sur un ton incendiaire. 
+Il peste contre la limite de 280 caractères de twitter. 
+Il n'aura pas assez de place pour expliquer la vie à ce "@#¨%$". 
 Puis, le téléphone sonne. 
-Vous répondez, 15 minutes passent. 
-Quand vous revenez à votre ordinateur, vous regardez ce que vous avez écrit. 
-Et vous réalisez que vous avez été exactement comme vous le reprochiez à cette personne. 
-Buté, sans ouverture. 
-A défendre votre identité brutalement. 
+Il décroche, 15 minutes passent. 
+Quand il revient à son ordinateur, il regarde ce qu'il a écrit. 
+Et il réalise qu'il a été exactement comme il le reprochait à cette personne.  
+A défendre son identité brutalement. 
 
 C'est ce que Julia Galef appelle le "soldier mindset". 
 Cet état d'esprit qui envahit les réseaux sociaux, mais aussi notre vie au quotidien. 
@@ -24,7 +22,7 @@ Le *soldier mindset*.
 
 ![soldat]({{ site.url }}images/soldat_poilu.jpg)
 
-[Source](https://commons.wikimedia.org/wiki/File:1915_groupe_de_soldat_du_66e_RI.JPG)
+*Mon arrière grandp-père, Pierre Escoffier, debout, 3ème à gauche* 
 
 Souvent, nous nous retrouvons dans une position où l'on combat pour des idées, des opinions, où l'on va défendre des décisions. 
 Nous sommes prêts à mentir de façon subtile pour ne pas voir la réalité. 
@@ -80,7 +78,7 @@ Pas celle qui l'arrange.
 Son honnêteté intellectuelle est primordiale. 
 Mais il n'en n'est pas pour autant indifférent. 
 Quand il se trompe il se réjouit d'avoir améliorer sa carte, d'avoir appris. 
-Le scout : 
+L'éclaireur : 
 * sait reconnaître ses torts
 * accueille la critique
 * se met des gardes fous pour éviter son manque d'objectivité
@@ -97,27 +95,38 @@ Et autant on est très bon pour voir les attitudes de soldat chez les autres, au
 Et souvent, ceux qui sont persuadés d'être de bons éclaireurs, sont en fait des soldats qui s'ignorent. 
 
 ## Un choix heureux
-Le scout voit donc la réalité telle qu'elle est. 
+L'éclaireur cherche donc à voir la réalité telle qu'elle est. 
+En essayant de prendre conscience de ses biais, de ses croyances. 
+En étant prêt à changer d'avis. 
 Ce n'est pas un sacrifice. 
 On a plus à gagner qu'à perdre. 
 Ce sont plus des opportunités de s'améliorer, d'être mieux avec les autres. 
 Et bien souvent les bénéfices de cet état d'esprit sont sous évalués, ce qui nous fait choisir à tort le *soldier mindset*. 
 L'éclaireur a des bénéfices surtout à long terme, car en apprenant de ses erreurs il nous donne de bons réflexes. 
-Les bonnes habitudes sont renforcées.  
+Les bonnes habitudes sont renforcées. 
 Et c'est efficace.  
 L'autrice donne l'exemple d'activistes de défense des animaux. 
 Au départ ils étaient en opposition frontale. 
 Ce peut être parfois la bonne posture pour faire bouger des lignes, se faire connaitre. 
 Mais là ça ne fonctionnait plus. 
 Ils ont donc choisi de se rapprocher de leurs opposants grâce à une attitude ouverte. 
-Et ont obtenu beaucoup plus de résultats. 
+Et ont obtenu [beaucoup plus de résultats ainsi](https://www.vox.com/2016/6/9/11896096/eggs-chick-culling-ended). 
 
-Mais même à court terme on peut être fier de notre honnêteté intellectuelle. 
+Faut-il pour autant renoncer à une certaine radicalité ?
+Non. 
+Mais si cela nous parait la stratégie la plus efficace. 
+Et pour savoir cela, c'est plus simple si on a un certain détachement avec notre identité. 
+
+L'éclaireur' n'a-t-il que des gains à long terme ? 
+Doit-il à court terme courber l'échine pour accepter la dure réalité ?
+Non, il peut être fier de son honnêteté intellectuelle. 
+Heureux d'avoir faire évolué sa vision des choses, même d'avoir changé d'avis. 
 Et ce n'est pas un réalisme triste, mais positif, une amélioration continue. 
+Par exemple face à l'échec, on peut se dire "J'ai fait de mon mieux", "J'ai déjà parcouru tout ce chemin". 
 Et cela va nous aider partout, dans notre vie personnelle et au travail. 
 
-## Le scout au boulot
-Par exemple, dans la vie d'une équipe de développement, agir en éclaireur va permettre de mieux écouter les besoins clients. 
+## L'éclaireur au boulot
+Dans la vie d'une équipe de développement, agir en éclaireur va permettre de mieux écouter les besoins clients. 
 Grâce à une meilleure écoute et une capacité à proposer des alternatives de façon constructive, le produit aura plus de chance de remplir son but.  
 Au sein même de l'équipe aussi cela peut améliorer les rapports et l'efficacité. 
 Et ouvrir des opportunités de *pair* ou *mob programming*.  
@@ -140,8 +149,10 @@ Et en sera d'autant plus pertinent.
 
 ## Un monde meilleur
 C'est donc un livre intéressant et très utile que nous propose Julia Galef. 
-En nous montrant qu'épouser la voie de l'éclaireur ce n'est pas renoncer, mais faire face positivement, être dans le juste et non l'illusion. 
-L'autrice m'a donné un grand coup de fouet.  
+En nous montrant qu'épouser la voie de l'éclaireur ce n'est pas renoncer ni être le gentil de service, mais faire face positivement autant que possible, favoriser la curiosité et l'écoute. 
+L'autrice m'a donné un grand coup de fouet. 
+J'espère vous avoir retranscrit sans trop d'erreur son intention. 
+
 Ce livre rejoint la pile des livres qui m'auront nettement influencé (à confirmer sur le long terme bien sûr). 
 Je pense par exemple aux ouvrages de Thomas d'Ansembourg, dont le thème de la communication non violente rejoint en partie celui du livre de Julia Galef. 
 
@@ -154,3 +165,8 @@ Vous l'aurez compris, un gros coup de cœur que je vous recommande.
 * la [chaine youtube](https://www.youtube.com/@measureofdoubt) de Julia Galef
 * un [résumé](https://scienceetonnante.com/2021/07/23/scout-mindset-flus/) par David Louapre (*youtuber* de la chaîne sciences étonnantes)
 * un [résumé](https://www.youtube.com/watch?v=EZfNX4U63hc) par Lê Nguyên Hoang (*youtuber* de la chaîne sciences4all)
+
+Edition le 6 janvier à 22h30. 
+*Je prends en compte des retours très intéressants (vive la critique constructive !). 
+J'aimerais éviter de mal retranscrire les propos de Julia Galef et notamment l'idée que l'éclaireur est finalement une sorte de premier de la classe mou et bien pensant autoproclamé. 
+Le choix des mots est important, donc j'ai essayé de faire quelques corrections.*
