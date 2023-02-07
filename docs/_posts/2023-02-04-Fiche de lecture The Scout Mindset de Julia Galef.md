@@ -155,8 +155,11 @@ J'espère vous avoir retranscrit sans trop d'erreur son intention.
 
 Ce livre rejoint la pile des livres qui m'auront nettement influencé (à confirmer sur le long terme bien sûr). 
 Je pense par exemple aux ouvrages de Thomas d'Ansembourg, dont le thème de la communication non violente rejoint en partie celui du livre de Julia Galef. 
+La CNV est un très bon complément pratique pour apprendre à exprimer nos désaccords sans violence, tout en acceptant nos émotions, comme la colère. 
 
-Vous l'aurez compris, un gros coup de cœur que je vous recommande. 
+Il y aurait encore beaucoup à dire, car l'ouvrage est riche. 
+Je vous laisse le découvrir si cela vous dit. 
+De mon côté, vous l'aurez compris, c'est un gros coup de cœur que je vous recommande. 
 
 ## Quelques ressources
 En anglais : 
