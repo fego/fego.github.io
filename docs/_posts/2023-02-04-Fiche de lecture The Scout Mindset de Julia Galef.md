@@ -51,7 +51,7 @@ Il est fort peu probable que le médecin se moque de nous, et quand bien même c
 Mais ne nous jetons pas la pierre. 
 Nous rationalisons tous. 
 Cela fut bien utile pour nos ancêtres, pour les aider à survivre et affronter les conditions difficiles qui furent les leur. 
-Et aujourd'hui il nous faut donc déployer des efforts pour lutter contre. [^1]
+Et aujourd'hui il nous faut donc déployer des efforts pour lutter contre. 
 Mais ces efforts valent le coût. 
 
 Comment lutter contre cet état d'esprit ? 
@@ -176,6 +176,3 @@ Edition le 6 janvier à 22h30.
 *Je prends en compte des retours très intéressants (vive la critique constructive !). 
 J'aimerais éviter de mal retranscrire les propos de Julia Galef et notamment l'idée que l'éclaireur est finalement une sorte de premier de la classe mou et bien pensant autoproclamé. 
 Le choix des mots est important, donc j'ai essayé de faire quelques corrections.*
-
-[^1]: If you were born fifty years ago, you were more or less stuck with the tribe and family you were born into. There wasn't much in the way of career choice, either. You could hunt, forage, or have children, depending on your role in the tribe. If you didn't like it, well, that was too bad. 
-We have far more options now. [...] Living in the modern world alsmo means whe have many more opportunities to fix thingd we don't like about our lives. [...] This abundance of opportunity makes scout mindset far more useful than it would have been for our ancestors. After all, what's the point of admitting your problems exist if you can't fix them ? What the point of noticing your disagreements with your community if you can't leave ? Having an accurate map doesn't help you very much when you're allowed to travel only one path. So, if our instincts undervalue truth, that's not suprising - our instincts evolved in a different world, one better suited to the soldier. [...]
