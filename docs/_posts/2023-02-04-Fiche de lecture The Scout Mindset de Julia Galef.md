@@ -1,4 +1,3 @@
-# Fiche de lecture - The scout mindset de Julia Galef
 *Temps de lecture estimé : 8 minutes* 
 
 Tranquillement installé avec son ordi sur les genoux, Harry parcourt son fil twitter quand soudainement il tombe sur un tweet commençant par "C'est la candidate la plus corrompue de l'histoire !" 
