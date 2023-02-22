@@ -9,7 +9,7 @@ Par exemple, comment remettre facilement un jeu de données en état quand on ap
 *[Photo](https://unsplash.com/fr/photos/YTKh06aL7to) de Michal Matlon*
 
 Dans ma mission actuelle cette situation m'est arrivée. 
-Je me suis retrouvé à développer un script qui appelait 3 procédures stockées, dont 2 qui avaient des effets très difficiles à annuler (une clôture de compte et une opposition de carte). 
+Je me suis retrouvé à développer un script avec un curseur qui appelait 3 procédures stockées, dont 2 qui avaient des effets très difficiles à annuler (une clôture de compte et une opposition de carte). 
 Cette difficulté m'a poussé à limiter mes tests (consciemment et inconsciemment). 
 J'ai testé chaque cas séparément mais l'ensemble du script a bénéficié de beaucoup moins de tests. 
 Et j'ai laissé passer une erreur. 
