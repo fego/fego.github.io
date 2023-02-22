@@ -45,3 +45,4 @@ Rien de bien compliqué, mais ce setup permet de gagner du temps pour la mise en
 J'ai déjà pu tester ce projet sur un nouveau script et le confort qu'il procure me convainc que je ne développerais plus de scripts sans lui. 
 
 C'est par là : [test_sql_starter](https://gitlab.com/davfranck/test_sql_starter). 
+Le projet est bien entendu ouvert à toute amélioration (PR), comme par exemple l'ajout d'un nouveau wrapper pour une autre base de données. 
