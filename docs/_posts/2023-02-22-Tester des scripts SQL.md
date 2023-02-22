@@ -5,7 +5,8 @@ On doit pouvoir ré-exécuter les tests de nombreuses fois.
 Réaliser cela directement sur un environnement de développement n'est pas toujours compatible avec ces conditions. 
 Par exemple, comment remettre facilement un jeu de données en état quand on appelle une procédure qui clôture le compte d'un client, sans que l'on ait un moyen simple de rouvrir le compte ? 
 
-![Complexité]({{ site.url }}images/complexity.jpg)
+![Complexité]({{ site.url }}images/complexity.jpg)  
+*[Photo](https://unsplash.com/fr/photos/YTKh06aL7to) de Michal Matlon*
 
 Dans ma mission actuelle cette situation m'est arrivée. 
 Je me suis retrouvé à développer un script qui appelait 3 procédures stockées, dont 2 qui avaient des effets très difficiles à annuler (une clôture de compte et une opposition de carte). 
