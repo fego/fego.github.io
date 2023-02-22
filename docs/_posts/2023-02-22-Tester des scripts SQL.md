@@ -37,8 +37,9 @@ Bref, comme j'utiliserais un [test double](https://en.wikipedia.org/wiki/Test_do
   * mais aussi en vérifiant ma table de logs
 
 Je me retrouve donc avec un environnement rapide, fiable, qui en plus me permet d'avancer en baby steps si je le souhaite et donc de faire du TDD. 
-Toutes les instructions sont compatibles avec l'environnement cible. 
+Toutes les instructions sont compatibles avec l'environnement cible, car exécutée de la même façon. 
 Il suffira de prendre le script et de l'exécuter dans un environnement cible. 
+Rien à retoucher. 
 Bien entendu en passant au préalable par un environnement de développement, puis de recette. 
 
 Rien de bien compliqué, mais ce setup permet de gagner du temps pour la mise en place de ces bonnes conditions. 
