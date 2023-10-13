@@ -107,9 +107,6 @@ Plus de notification de google chat, de slack, d’emails.
 Plus de coup de téléphone (mode “ne pas déranger”). 
 Je décide de prendre un temps choisi pour consulter les messages et de ne pas être coupé dans ma concentration par ces sollicitations qui bien souvent rentre dans la case “non urgente” de la [matrice d’Eisenhower](https://fr.wikipedia.org/wiki/Matrice_d%27Eisenhower). 
 
-![Matrice d'Eisenhower]({{ site.url }}images/matrice_eisenhower.png)   
-**Source : Wikipedia**
-
 ## The end
 En conclusion un livre plutôt simple et rapide à lire, qui a interrogé mes pratiques, m’a apporté pas mal d’idées et de réflexions. Si de nombreux points pourraient mériter plus de développement (je pense notamment à une section sur “savoir dire non” qui mériterait [un livre entier](https://www.babelio.com/livres/dAnsembourg-Cessez-detre-gentil-soyez-vrai-/1383210), et qui n’est accompagnée d’aucune référence), cette première approche est suffisante pour une mise en pratique rapide. 
 Il faut garder en tête tout au long du livre que c’est un partage d’une expérience personnelle de la part d’une personne ayant poussé le sujet assez loin. 
