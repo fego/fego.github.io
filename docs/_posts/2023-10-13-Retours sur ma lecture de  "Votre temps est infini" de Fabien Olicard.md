@@ -32,7 +32,7 @@ Vous y trouverez différentes propositions sur l’organisation de vos tâches :
 ## Prise de décision
 La partie qui m’a peut-être le plus intéressée est sur la prise de décision. 
 Pour pouvoir décider il faut être au clair sur ses critères. 
-On passe la décision à prendre dans une sorte de moulinette, de succession de filtres ou de tamis. L’invitation à se poser pour réfléchir à ses priorités, ses buts, ce qui compte pour nous, m’a permis de mettre tout ça par écrit et de prendre se recul. 
+On passe la décision à prendre dans une sorte de moulinette, de succession de filtres ou de tamis. L’invitation à se poser pour réfléchir à ses priorités, ses buts, ce qui compte pour nous, m’a permis de mettre tout ça par écrit et de prendre ce recul. 
 J’ai donc ma liste de filtres (pro et perso), ainsi que le choix de 3 mots clés qui me paraissent être très importants pour moi. Une fois équipé des ces filtres, il est plus facile de trancher et décider. 
 Voulez-vous vraiment vous lancer dans ce projet auquel vous avez pensé ce matin sous la douche ? 
 Vaut-il le temps qu’il pourrait vous prendre ? 
@@ -104,7 +104,10 @@ On y trouvera : les problèmes, les solutions, les décisions, les pistes écart
 Et pour finir je vous partage un dernier point que je commence tout juste à expérimenter : couper toutes les notifications. 
 Plus de notification de google chat, de slack, d’emails. 
 Plus de coup de téléphone (mode “ne pas déranger”). 
-Je décide de prendre un temps choisi pour consulter les messages et de ne pas être coupé dans ma concentration par ces sollicitations qui bien souvent rentre dans la case “non urgente” de la matrice d’Eisenhower. 
+Je décide de prendre un temps choisi pour consulter les messages et de ne pas être coupé dans ma concentration par ces sollicitations qui bien souvent rentre dans la case “non urgente” de la [matrice d’Eisenhower](https://fr.wikipedia.org/wiki/Matrice_d%27Eisenhower). 
+
+![Matrice d'Eisenhower]({{ site.url }}images/matrice_eisenhower.png)   
+**Source : Wikipedia**
 
 ## The end
 En conclusion un livre plutôt simple et rapide à lire, qui a interrogé mes pratiques, m’a apporté pas mal d’idées et de réflexions. Si de nombreux points pourraient mériter plus de développement (je pense notamment à une section sur “savoir dire non” qui mériterait [un livre entier](https://www.babelio.com/livres/dAnsembourg-Cessez-detre-gentil-soyez-vrai-/1383210), et qui n’est accompagnée d’aucune référence), cette première approche est suffisante pour une mise en pratique rapide. 
