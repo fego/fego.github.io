@@ -7,7 +7,7 @@ Elles sont fortement liées à mes besoins et désirs d’apprentissage, et d’
 
 J’ai donc décidé de commencer par le livre sur la gestion de son temps. Et si vous aussi vous aimeriez avoir plus la main sur votre temps, sa quantité et son usage, alors suivez-moi pour avoir une idée de ce que vous y trouverez. 
 
-![Couverture]({{ site.url }}images/votre_temps_est_infini.png)  
+![Couverture]({{ site.url }}images/votre_temps_est_infini.webp)  
 
 Le livre est écrit d’un style direct, (très) simple. 
 L’auteur partage son expérience personnelle. Vous n’allez pas trouver des références à des études scientifiques, ni même des références à d’autres sources, ou très peu. Les sections sont courtes, avec une phrase de synthèse à chaque fois. 
