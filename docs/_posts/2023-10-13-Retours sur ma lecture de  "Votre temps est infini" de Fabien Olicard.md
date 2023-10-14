@@ -55,14 +55,14 @@ J’ai aussi l’impression que d’avoir cette démarche force à prendre le te
 
 Pour les choix d'apprentissages, de projet de veille technologique par exemple, je garderais une pratique non mentionnée dans le livre et que j'avais découverte grâce à JB Rainsberger. 
 Utiliser la [Théorie des contraintes](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_contraintes) pour choisir le projet le plus important à prioriser. 
-Pour m'aider dans cette démarche, j'aliment régulièrement une liste (dans [Notion](https://www.notion.so). 
+Pour m'aider dans cette démarche, j'alimente régulièrement une liste (dans [Notion](https://www.notion.so)). 
 J'y mets les points d'amélioration que j'observe au quotidien, mais aussi les livres que l'on me conseille ou sur lesquels je tombe au hasard d'un site. 
 Puis le moment venu de choisir, je regarde cette liste et je regarde le point le plus bloquant pour moi. 
 Celui qui me ferait le plus progresser dans mon contexte actuel. 
-J'ai par exemple dans ma liste l'envie de maitriser les regex, progresser en React, apprendre neovim, plein de livres sue des problématiques diverses (conception, travail équipe, etc).  
+J'ai par exemple dans ma liste l'envie de maitriser les regex, progresser en React, apprendre neovim, plein de livres sur des problématiques diverses (conception, travail équipe, etc).  
 Mais j'ai aussi des questions récurrentes sur la conception d'API. 
 Et travailler dessus me permettrait d'avancer dans mon quotidien, de pratiquer tout de suite ce que je pourrais apprendre. 
-Je vais donc prioriser cet apprentissage par rapport à d'autres car j'estime que c'est ce qui me permettrait un plus gros gain de compétence utile.
+Je vais donc prioriser cet apprentissage par rapport à d'autres car j'estime que c'est ce qui me permettrait un plus gros gain de compétences utiles.
 
 ## Visualisation
 Une idée que j’ai aussi appréciée est d’utiliser le temps obligatoire où on a le cerveau disponible pour faire de la visualisation plutôt que de l’utiliser à des choses inutiles. 
