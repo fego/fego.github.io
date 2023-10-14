@@ -41,9 +41,9 @@ Passez le à travers vos filtres et voyez si un filtre l’arrête.
 Mettez le en regard de vos 3 mots clés. 
 Ce projet va-t-il nourrir vos buts ? 
 J’ai par exemple choisi pour l’instant les filtres pro suivants : 
+* plaisir (créativité)
 * respect de mon équilibre pro/perso (est-ce une source de stress potentielle ?)
 * charge temporelle et faisabilité
-* plaisir (créativité)
 * humainement enrichissant
 * me tire vers le haut
 
