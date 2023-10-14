@@ -66,7 +66,7 @@ Je vais donc prioriser cet apprentissage par rapport à d'autres car j'estime qu
 Bien entendu la notion de plaisir doit être très liée au choix, surtout si cela me demande un effort sur mon temps personnel. 
 C'est la première condition pour me motiver (et d'ailleurs mon premier filtre). 
 Et la motivation est importante pour aller au bout d'un projet. 
-Et terminer un projet est très important. 
+Et terminer un projet est aussi très important. 
 Selon [Scott Young](https://www.scotthyoung.com/blog/2007/10/18/the-art-of-the-finish-how-to-go-from-busy-to-accomplished/), le risque à ne pas terminer ses projets est d'être plus occupé qu'accompli. 
 
 ## Visualisation
