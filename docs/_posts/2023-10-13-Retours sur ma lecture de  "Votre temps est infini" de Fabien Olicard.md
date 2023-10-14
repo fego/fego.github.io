@@ -64,7 +64,7 @@ Mais j'ai aussi des questions récurrentes sur la conception d'API.
 Et travailler dessus me permettrait d'avancer dans mon quotidien, de pratiquer tout de suite ce que je pourrais apprendre. 
 Je vais donc prioriser cet apprentissage par rapport à d'autres car j'estime que c'est ce qui me permettrait le plus gros gain de compétences utiles. 
 Bien entendu la notion de plaisir doit être très liée au choix, surtout si cela me demande un effort sur mon temps personnel. 
-C'est la première condition pour me motiver (et d'ailleur mon premier filtre). 
+C'est la première condition pour me motiver (et d'ailleurs mon premier filtre). 
 
 ## Visualisation
 Une idée que j’ai aussi appréciée est d’utiliser le temps obligatoire où on a le cerveau disponible pour faire de la visualisation plutôt que de l’utiliser à des choses inutiles. 
