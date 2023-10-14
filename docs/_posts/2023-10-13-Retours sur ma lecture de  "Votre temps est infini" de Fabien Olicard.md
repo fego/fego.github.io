@@ -53,7 +53,7 @@ Si un collègue ou un ami me propose un projet, une collaboration, je pense que 
 
 J’ai aussi l’impression que d’avoir cette démarche force à prendre le temps de la réflexion, et d’être moins dans la réaction instinctive, ou parfois l’envie de faire plaisir à quelqu’un. On fait un choix mieux réfléchi. 
 
-Pour les choix d'apprentissages, de projet de veille technologique par exemple, je garderais une pratique non mentionnée dans le livre et que j'avais découverte grâce à JB Rainsberger. 
+Pour les choix d'apprentissages, de projet de veille technologique par exemple, je garderais une pratique non mentionnée dans le livre et que j'avais découverte grâce à JB Rainsberger (dans sa conférence [The well balanced developer](https://www.youtube.com/watch?v=XhN6fJYG81A)). 
 Utiliser la [Théorie des contraintes](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_contraintes) pour choisir le projet le plus important à prioriser. 
 Pour m'aider dans cette démarche, j'alimente régulièrement une liste (dans [Notion](https://www.notion.so)). 
 J'y mets les points d'amélioration que j'observe au quotidien, mais aussi les livres que l'on me conseille ou sur lesquels je tombe au hasard d'un site. 
