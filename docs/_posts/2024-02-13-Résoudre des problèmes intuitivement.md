@@ -56,7 +56,7 @@ Au mieux ce sera vu en revue, au pire je laisse de la dette qu’il faudra trait
 
 Aussi, il m’arrive souvent de ressentir de la confusion quand je traite une tâche, de dev ou autre. 
 Mais ces signes se rencontrent dans de nombreuses situations. 
-C’est pourtant facile de les mettre sous le tapis, et si tentant. 
+C’est facile de les mettre sous le tapis, et si tentant. 
 Pourtant ce sont des opportunités, pas des gênes. 
 Vous venez de résoudre un problème mais vous avez un doute sur la validité de votre solution ? 
 Posez le crayon. 
