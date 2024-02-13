@@ -73,4 +73,4 @@ Sinon on prend le risque de créer d’autres problèmes pour le futur.
 Et c’est peut-être là une des sources qui alimente la fameuse dette technique. 
 Cette vigilance que nous avons intérêt à développer pour la résolution de problèmes qui nous paraissent simples nous sera très utile aussi dans la résolution de problèmes clairement identifiés comme complexes, car à tout moment notre cerveau peut être victime de biais.
 
-Je vous donne donc rendez-vous pour un deuxième article sur la résolution de problèmes rationnellement.  
+Je vous donne donc rendez-vous pour un deuxième article sur la résolution rationnelle de problèmes.
