@@ -34,7 +34,7 @@ Car il est paresseux, et ne se mettra probablement pas en marche, ne jugeant pas
 
 Comment faire ?
 
-![mondrian]({{ site.url }}images/mondrian.png)
+![Tableau de Mondrian]({{ site.url }}images/mondrian.png)
 
 *Mondrian, simple ou complexe ?*
 
