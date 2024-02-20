@@ -5,7 +5,7 @@ Est-ce une compétence en soi, ou juste une conséquence de notre niveau, de nos
 Cette question m’interpelle, car dans ma vie de développeur (c’est le cas bien sûr dans de nombreux autres métiers) je ne fais que passer mon temps à résoudre des problèmes. 
 Et parfois je me sens démuni face à eux. 
 J’ai donc décidé de creuser cette question à travers la lecture de deux livres. 
-Le premier, [How to solve almost any problem](https://www.goodreads.com/book/show/15926633-how-to-solve-almost-any-problem?from_search=true&from_srp=true&qid=GQnKR8CKIe&rank=1), qui m’a donné quelques pistes intéressantes mais m’a laissé sur ma faim. 
+Le premier, [How to solve almost any problem](https://www.goodreads.com/book/show/15926633-how-to-solve-almost-any-problem?from_search=true&from_srp=true&qid=GQnKR8CKIe&rank=1), m’a donné quelques pistes intéressantes mais m’a laissé sur ma faim. 
 Le second, [Bulletproof Problem Solving](https://www.goodreads.com/book/show/41091107-bulletproof-problem-solving?ref=nav_sb_ss_1_27), est celui qui m’a le plus aidé pour avancer dans ma compréhension du sujet. 
 Je l’ai trouvé plus concret, applicable. 
 Et si je n’ai fait que gratter la surface de ce sujet, je vous partage ce que j’en ai perçu à ce jour à travers un article en 2 parties.
@@ -25,12 +25,12 @@ Notre cerveau est une machine à se faire piéger.
 Je parle bien sûr des biais cognitifs. 
 Dans notre cerveau, la partie que D. Kahneman a nommé le système 1 va viser la rapidité, la simplicité, et non la qualité. 
 Il tire des conclusions hâtives, à partir d’informations partielles. 
-Et si autant cela peut nous être utile dans certaines situations pour réagir vite, ce nous sera souvent préjudiciable dans la résolution de problème. 
-Au mieux on trouvera la bonne solution. 
-Mais il est possible que l’on passe à côté d’autres solutions, voir que l’on choisisse la mauvaise. 
-C’est grâce à notre système 2, rationnel, que nous pourrons nous approcher d’une meilleure solution. 
-Or si celui-ci se mettra automatiquement en marche pour les problèmes complexes, il faudra forcer la démarche pour un problème dont il a une solution qui paraît correspondre parfaitement. 
-Car il est paresseux, et ne se mettra probablement pas en marche, ne jugeant pas cela nécessaire.
+Et si cela peut nous être utile dans certaines situations pour réagir vite, le même mécanisme nous sera souvent préjudiciable dans la résolution de problème.
+Par définition, il occulte quantité de solutions possibles pour — au mieux — nous en souffler une bonne.
+Mais il peut aussi bien nous aiguiller vers une mauvaise solution, en nous laissant inconscient des pistes écartées.
+C’est grâce à notre système 2, rationnel et beaucoup plus énergivore, que nous pourrons nous approcher d’une meilleure solution. 
+Or, si celui-ci se mettra automatiquement en marche pour les problèmes perçus comme complexes, il faudra forcer la démarche sur un problème pour lequel une solution connue paraît correspondre parfaitement. 
+Car le cerveau minimise toujours la dépense énergétique et ne mettra pas en marche un système qu'il ne juge pas nécessaire.
 
 Comment faire ?
 
@@ -42,13 +42,12 @@ Une solution est de travailler à plusieurs.
 Par exemple en pair ou en mob/ensemble programming. 
 L’échange, la discussion va naturellement nous faire raisonner. 
 
-Sinon, si on est seul, on essaie de ralentir la prise de décision. 
-On va chercher les alternatives, les lister, les écrire. 
-On cherche dans sa mémoire, mais aussi on va à la découverte d’autres possibilités, en cherchant sur internet, ou en échangeant dessus avec ses collègues. 
+Si on est seul, il faut essayer de ralentir la prise de décision : chercher des alternatives, les lister, les écrire.
+On cherche dans sa mémoire, mais aussi on va à la découverte d’autres possibilités, en cherchant sur Internet, ou en échangeant dessus avec ses collègues. 
 Je m’aide aussi parfois maintenant d’une IA générative pour cela. 
-Non pas pour avoir sa solution, mais pour générer des alternatives dont je me garde le jugement de la pertinence. 
+Non pas pour avoir sa solution, mais pour générer des alternatives dont je me réserve le jugement de la pertinence. 
 On ralentit ainsi le temps de la décision. 
-On peut s’aider de la technique du [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) aussi pour ralentir et ne pas foncer droit vers une unique solution. 
+Par ailleurs, la technique du [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) peut aider à ralentir et ne pas foncer droit vers une unique solution. 
 La technique en bref : on alterne des phases de concentration (25min par exemple) avec des phases de pause (5min par exemple). 
 Les temps de pauses nous seront utiles pour nous détendre, mais pour aussi prendre du recul sur notre travail en cours. 
 Si je ne ralentis pas, je me prends plein de panneaux. 
@@ -56,7 +55,7 @@ Au mieux ce sera vu en revue, au pire je laisse de la dette qu’il faudra trait
 
 Aussi, il m’arrive souvent de ressentir de la confusion quand je traite une tâche, de dev ou autre. 
 Mais ces signes se rencontrent dans de nombreuses situations. 
-C’est facile de les mettre sous le tapis, et si tentant. 
+C’est facile — et si tentant — de les mettre sous le tapis.
 Pourtant ce sont des opportunités, pas des gênes. 
 Vous venez de résoudre un problème mais vous avez un doute sur la validité de votre solution ? 
 Posez le crayon. 
