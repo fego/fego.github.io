@@ -94,7 +94,8 @@ Souvent les habitudes positives ont un coût qui est dans le présent et une ré
 C’est souvent l’inverse pour les habitudes négatives.
 C’est le cas pour l’héroïne, mais pour beaucoup d’autres mauvaises habitudes aussi.
 
-![Johan Sfar]({{ site.url }}images/johan_sfar.jpg)
+![Johan Sfar]({{ site.url }}images/johan_sfar.jpg)  
+*Johan Sfar*
 
 L’anticipation de la récompense nous pousse à agir.
 Le désir dirige notre comportement.
