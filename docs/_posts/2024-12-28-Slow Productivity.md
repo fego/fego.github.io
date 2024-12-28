@@ -1,4 +1,4 @@
-Je viens de terminer le livre *Slow Productivity* de Cal Newport. 
+Je viens de terminer le livre [*Slow Productivity*](https://www.goodreads.com/book/show/197773418-slow-productivity) de Cal Newport. 
 Un livre que qui me laisse perplexe. 
 Je vous partage quelques notes, et un avis plus général. 
 
