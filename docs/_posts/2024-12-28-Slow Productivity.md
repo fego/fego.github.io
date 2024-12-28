@@ -47,4 +47,6 @@ Comme dans son livre *Deep Work*, j’ai trouvé qu’il y avait beaucoup d’an
 Le livre étant plutôt court, et les histoires racontées avec un certain talent, la lecture reste fluide. 
 Mais il y a une impression de remplissage. 
 Car au final, en dehors de quelques conseils qui ont pu faire mouche, ce que m’a apporté le livre principalement, c’est une opportunité d’introspection. 
-Et rien que pour ce temps, cet arrêt et ces graines plantées, je garde une impression positive de ma lecture. 
+Un temps pour questionner mes priorités. 
+Est-ce suffisant pour le recommander ? 
+Pas sûr. 
