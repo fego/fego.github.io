@@ -66,7 +66,7 @@ Tout est censé être sous contrôle, calculable, prédictible.
 On récompense ceux qui rentrent dans ce modèle de pensée, ce qui tue l'expérimentation, à cause de la peur de l'échec. 
 Cela nous pousse à ne pas élargir notre pensée. 
 Or une chose dont on peut être certain dans un système informatique de nos jours, c'est que rien n'est certain. 
-Limiter notre pensée à la pensée linéaire, c'est aller droit dans la mise en place d'un système bancal. 
+Limiter notre pensée à la pensée linéaire, c'est aller droit dans la mise en place d'un système bancal (sans intégrité conceptuelle). 
 
 La solution ? 
 Développer une pensée non linéaire, raisonner "système". 
