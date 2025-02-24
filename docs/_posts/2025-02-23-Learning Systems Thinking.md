@@ -5,7 +5,7 @@ Une organisation très hiérarchique qui freine les initiatives, des bugs dans t
 Bienvenue dans le monde de la pensée linéaire. 
 
 Vous avez envie de trouver des solutions, faire bouger des lignes ? 
-Alors le livre *Leanring Systems Thinking* est fait pour vous. 
+Alors le livre *[Learning Systems Thinking](https://learningsystemsthinking.com/)*, de [Diana Montalion](https://montalion.com/), est fait pour vous. 
 Le livre propose une introduction à la pensée systémique, dans le cadre des systèmes informatiques principalement. 
 Il m'a permis de relier entre elles des idées que j'ai exploré auparavant, et de découvrir de nombreux concepts. 
 Ce livre transforme déjà ma façon d'aborder la complexité dans mon quotidien au travail. 
@@ -16,7 +16,6 @@ Pour cet article je me dois de mettre un *disclaimer* : je découvre ce domaine,
 
 ![Couverture]({{ site.url }}images/Learning Systems Thinking.jpg)
 
-# Les problèmes complexes et la pensée linéaire
 Dans de nombreuses situations au travail, mais aussi dans la vie de tous les jours, nous nous confrontons à la complexité. 
 Elle peut nous déstabiliser si nous sommes démunis face à elle. 
 Nous pouvons avoir peur, blâmer les autres quand nous ne comprenons pas. 
@@ -24,31 +23,8 @@ Sans savoir comment l'affronter, nous trouverons probablement des mauvaises rép
 Nous pourrons même créer ou aggraver les problèmes. 
 Et si nous pensons parfois comprendre la situation, cela peut aussi être une illusion. 
 
-Prenons un exemple qui peut paraître simple. 
-Un bug dans un système informatique. 
-On va essayer de comprendre la ligne de code qui pose problème, et appliquer un correctif. 
-Nous allons certes régler le problème, mais sans prendre plus de recul, il est fort probable que d'autres problèmes similaires apparaissent tôt ou tard. 
-On a appliqué un pansement. 
-La pensée systémique nous permet de prendre de la hauteur pour comprendre le système qui a permis l'apparition du bug. 
-Et donc nous permettre de corriger le système plus en profondeur, et pas uniquement en surface. 
-Par exemple, est-ce que nous avons interrogé les pratiques de test de l'équipe ? 
-Une absence de tests unitaires ? 
-Le bug était-il plutôt une mécompréhension du besoin, qui était mal formulé car écrit trop vite et non discuté par l'équipe ?
-C'est une situation qui parait triviale, mais qui mérite pourtant un temps d'analyse. 
-Chaque bug peut être une opportunité de comprendre un dysfonctionnement. 
-
-Ce type de pensée dit "linéaire" est favorisée par notre société. 
-On est limité (souvent) par une vision axée principalement sur le profit, la rapidité (productivité). 
-Tout est censé être sous contrôle, calculable, prédictible. 
-On récompense ceux qui rentrent dans ce modèle de pensée, ce qui tue l'expérimentation, à cause de la peur de l'échec. 
-Cela nous pousse à ne pas élargir notre pensée, et à penser le système. 
-Or une chose dont on peut être certain dans un système informatique de nos jours, c'est que rien n'est certain. 
-Limiter notre pensée à la pensée linéaire, c'est aller droit dans la mise en place d'un système bancal. 
-
-La solution ? 
-Développer une pensée non linéaire, raisonner "système". 
-
 # Système
+Les situations sont complexes car nous évoluons dans des systèmes complexes. 
 Mais qu'est-ce qu'un système ? 
 La définition de Donella Meadows, une papesse de la pensée systémique : 
 
@@ -59,10 +35,8 @@ Dans le cadre du développement logiciel, Diana Montalion propose la définition
 > A system is a group of interrelated hardware, software, people, organization(s), and other elements that interact and/or interdepend to serve a shared purpose. 
 
 Les relations sont très importantes et sont souvent les oubliées dans les analyses. 
-La pensée linéaire ignore les relations. 
 
 Un système qui fonctionne bien est un système avec une intégrité conceptuelle. 
-Ce concept est fondamental. 
 Il signifie que les éléments du système fonctionnent comme un tout de façon naturelle, fluide. 
 En harmonie. 
 
@@ -72,12 +46,33 @@ Moi, jamais.
 En 20 ans de vie de développeur. 
 Plus ou moins certes. 
 Ce n'est pas tout blanc ou noir, mais une histoire de nuance de gris. 
-Mais, vu de mon expérience, je n'ai que trop peu vu la pensée non linéaire s'épanouir en entreprise. 
-Souvent les organisations bloquent la pensée systémique en ne favorisant que la pensée linéaire et génèrent donc des systèmes sans intégrité conceptuelle. 
-Si l'autrice indique que de telles organisations seront certainement bloquées dans leur chemin de transformation vers une pensée systémique, j'ai constaté qu'il est possible de mettre en place une bulle dans son équipe où la pensée systémique est favorisée. 
-Cela est déjà un point qui simplifie le quotidien. 
-On ne résoudra pas les problèmes du système, mais on peut tenter d'infuser ce mode de pensée. 
-Et quand on sera fatigué de tenter de faire sauter les verrous, on ira voir ailleurs. 
+Nous avons pris l'habitude d'aller vite, de réagir plutôt que de prendre le temps de construire une réponse. 
+
+# La pensée linéaire
+Prenons un exemple qui peut paraître simple. 
+Un bug dans un système informatique. 
+On va essayer de comprendre la ligne de code qui pose problème, et appliquer un correctif. 
+Nous allons certes régler le problème, mais sans prendre plus de recul, il est fort probable que d'autres problèmes similaires apparaissent tôt ou tard. 
+On a appliqué un pansement. 
+La pensée systémique nous permet de prendre de la hauteur pour comprendre le système qui a permis l'apparition du bug. 
+Et donc nous permettre de corriger le système plus en profondeur, et pas uniquement en surface. 
+Par exemple, est-ce que nous avons interrogé les pratiques de test de l'équipe ? 
+Une absence d'écriture de tests unitaires ? 
+Le bug était-il plutôt une mécompréhension du besoin, qui était mal formulé car écrit trop vite et non discuté par l'équipe ? 
+Il y a-t-il des rituels d'échanges sur les *user stories* (par exemple un atelier d'*[example mapping](https://cucumber.io/blog/bdd/example-mapping-introduction/)*) ? 
+C'est une situation qui parait au départ triviale, mais qui mérite pourtant un temps d'analyse. 
+Chaque bug peut être une opportunité de comprendre un dysfonctionnement. 
+
+Ce type de pensée dit "linéaire" est favorisée par notre société. 
+On est limité (souvent) par une vision axée principalement sur le profit, la rapidité (productivité). 
+Tout est censé être sous contrôle, calculable, prédictible. 
+On récompense ceux qui rentrent dans ce modèle de pensée, ce qui tue l'expérimentation, à cause de la peur de l'échec. 
+Cela nous pousse à ne pas élargir notre pensée. 
+Or une chose dont on peut être certain dans un système informatique de nos jours, c'est que rien n'est certain. 
+Limiter notre pensée à la pensée linéaire, c'est aller droit dans la mise en place d'un système bancal. 
+
+La solution ? 
+Développer une pensée non linéaire, raisonner "système". 
 
 Mais quelles sont les pratiques de la pensée systémique ?
 
@@ -92,7 +87,7 @@ Il faut être capable de structurer sa pensée pour résoudre des problèmes com
 On raisonne de façon systémique. 
 Pour cela on doit structurer nos propositions. 
 On doit soutenir cette proposition avec 3 à 5 raisons. 
-Ces raisons doivent être bien compréhensibles, fiables (on justifie pourquoi), pertinentes, convaincantes. 
+Ces raisons doivent être bien compréhensibles, fiables (on justifie pourquoi), pertinentes (dans le contexte), convaincantes (claires, considérer les différents points de vue). 
 On recherche aussi ce qui pourrait mettre à mal le raisonnement. 
 On est transparent sur les points faibles identifiés. 
 Il faut aussi préciser pourquoi cela est important maintenant. 
@@ -109,7 +104,7 @@ On peut démarrer seul, mais il faut toujours à un moment ou un autre travaille
 On expose notre pensée, on échange sur les idées. 
 Travailler collectivement permet de partager ses perspectives. 
 De ne pas être limité par ses angles morts. 
-C'est XP qui met la communication comme valeur la plus importante. 
+C'est [XP](https://en.wikipedia.org/wiki/Extreme_programming) qui met la communication comme valeur la plus importante. 
 On retrouve cette importance aussi dans la pensée systémique. 
 Pas d'intégrité conceptuelle sans collectif. 
 Pour être sûr de se comprendre, il est utile de s'aider d'outils visuels, physiques ou virtuels. 
@@ -137,7 +132,7 @@ Ainsi, on ne se contente pas de la pointe de l'iceberg, constituée des événem
 [Source](https://www.flickr.com/photos/rosenfeldmedia/52597293290)  
 On cherche à découvrir ce qui échappe à ceux qui ne prennent pas de la hauteur.  
 
-Et pour pouvoir faire ce travail de modélisation, il faut pouvoir avoir des temps de travail continus, sans distraction. 
+Et pour pouvoir faire ce travail de modélisation, il faut avoir des temps de travail continus, sans distraction. 
 Diana Montalion fait référence au livre *Deep Work* de Cal Newport. 
 Un livre qui nous invite à retrouver du temps de concentration et à éviter les multiples distractions. 
 J'y reviendrai plus en détail dans un autre article, car la lecture de Deep Work mérite d'être partagée. 
