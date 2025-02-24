@@ -44,8 +44,6 @@ Combien de fois avez-vous vu un tel système ?
 
 Moi, jamais. 
 En 20 ans de vie de développeur. 
-Plus ou moins certes. 
-Ce n'est pas tout blanc ou noir, mais une histoire de nuance de gris. 
 
 # La pensée linéaire
 Prenons un exemple qui peut paraître simple. 
