@@ -46,7 +46,6 @@ Moi, jamais.
 En 20 ans de vie de développeur. 
 Plus ou moins certes. 
 Ce n'est pas tout blanc ou noir, mais une histoire de nuance de gris. 
-Nous avons pris l'habitude d'aller vite, de réagir plutôt que de prendre le temps de construire une réponse. 
 
 # La pensée linéaire
 Prenons un exemple qui peut paraître simple. 
