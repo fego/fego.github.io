@@ -37,7 +37,7 @@ Dans le cadre du développement logiciel, Diana Montalion propose la définition
 Les relations sont très importantes et sont souvent les oubliées dans les analyses. 
 
 Un système qui fonctionne bien est un système avec une intégrité conceptuelle. 
-Il signifie que les éléments du système fonctionnent comme un tout de façon naturelle, fluide. 
+Ce concept signifie que les éléments du système fonctionnent comme un tout de façon naturelle, fluide. 
 En harmonie. 
 
 Combien de fois avez-vous vu un tel système ? 
