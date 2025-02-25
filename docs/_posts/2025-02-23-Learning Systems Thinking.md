@@ -51,15 +51,14 @@ Prenons un exemple qui peut paraître simple.
 Un bug dans un système informatique. 
 On va essayer de comprendre la ligne de code qui pose problème, et appliquer un correctif. 
 Nous allons certes régler le problème, mais sans prendre plus de recul, il est fort probable que d'autres problèmes similaires apparaissent tôt ou tard. 
-On a appliqué un pansement. 
+On a appliqué un pansement.  
 La pensée systémique nous permet de prendre de la hauteur pour comprendre le système qui a permis l'apparition du bug. 
 Et donc nous permettre de corriger le système plus en profondeur, et pas uniquement en surface. 
 Par exemple, est-ce que nous avons interrogé les pratiques de test de l'équipe ? 
 Une absence d'écriture de tests unitaires ? 
 Le bug était-il plutôt une mécompréhension du besoin, qui était mal formulé car écrit trop vite et non discuté par l'équipe ? 
-Il y a-t-il des rituels d'échanges sur les *user stories* (par exemple un atelier d'*[example mapping](https://cucumber.io/blog/bdd/example-mapping-introduction/)*) ? 
-C'est une situation qui parait au départ triviale, mais qui mérite pourtant un temps d'analyse. 
-Chaque bug peut être une opportunité de comprendre un dysfonctionnement. 
+Il y a-t-il des rituels d'échanges sur les *user stories* (par exemple un atelier d'*[example mapping](https://cucumber.io/blog/bdd/example-mapping-introduction/)*) ?  
+Chaque bug peut être une opportunité de comprendre un dysfonctionnement plus profond. 
 
 Ce type de pensée dit "linéaire" est favorisée par notre société. 
 On est limité (souvent) par une vision axée principalement sur le profit, la rapidité (productivité). 
