@@ -143,7 +143,7 @@ Ainsi, on ne se contente pas de la pointe de l'iceberg, constituée des événem
 On cherche à découvrir ce qui échappe à ceux qui ne prennent pas de la hauteur.  
 
 Et pour pouvoir faire ce travail de modélisation, il faut avoir des temps de travail continus, sans distraction. 
-Diana Montalion fait référence au livre *Deep Work* de Cal Newport. 
+Diana Montalion fait référence au livre *[Deep Work](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/)* de Cal Newport. 
 Un livre qui nous invite à retrouver du temps de concentration et à éviter les multiples distractions. 
 J'y reviendrai plus en détail dans un autre article, car la lecture de Deep Work mérite d'être partagée. 
 
