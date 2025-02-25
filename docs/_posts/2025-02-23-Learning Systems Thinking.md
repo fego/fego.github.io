@@ -60,7 +60,8 @@ Le bug était-il plutôt une mécompréhension du besoin, qui était mal formul�
 Il y a-t-il des rituels d'échanges sur les *user stories* (par exemple un atelier d'*[example mapping](https://cucumber.io/blog/bdd/example-mapping-introduction/)*) ?  
 Chaque bug peut être une opportunité de comprendre un dysfonctionnement plus profond. 
 
-Ce type de pensée dit "linéaire" est favorisée par notre société. 
+Ce type de pensée qui reste en surface est dit "linéaire". 
+Elle est favorisée par notre société. 
 On est limité (souvent) par une vision axée principalement sur le profit, la rapidité (productivité). 
 Tout est censé être sous contrôle, calculable, prédictible. 
 On récompense ceux qui rentrent dans ce modèle de pensée, ce qui tue l'expérimentation, à cause de la peur de l'échec. 
