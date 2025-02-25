@@ -61,6 +61,7 @@ Il y a-t-il des rituels d'échanges sur les *user stories* (par exemple un ateli
 Chaque bug peut être une opportunité de comprendre un dysfonctionnement plus profond. 
 
 Ce type de pensée qui reste en surface est dit "linéaire". 
+
 Elle est favorisée par notre société. 
 On est limité (souvent) par une vision axée principalement sur le profit, la rapidité (productivité). 
 Tout est censé être sous contrôle, calculable, prédictible. 
@@ -70,7 +71,10 @@ Or une chose dont on peut être certain dans un système informatique de nos jou
 Limiter notre pensée à la pensée linéaire, c'est aller droit dans la mise en place d'un système bancal (sans intégrité conceptuelle). 
 
 La solution ? 
-Développer une pensée non linéaire, raisonner "système". 
+Développer une pensée non linéaire. 
+
+![pensée linéaire]({{ site.url }}images/linear_non_linear.png)  
+Source : [Ted de Anna Justice](https://www.youtube.com/watch?v=bNASybOzruM)
 
 Mais quelles sont les pratiques de la pensée systémique ?
 
