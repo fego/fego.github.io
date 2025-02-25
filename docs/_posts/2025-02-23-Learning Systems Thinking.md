@@ -76,6 +76,14 @@ Développer une pensée non linéaire.
 ![pensée linéaire]({{ site.url }}images/linear_non_linear.png)  
 Source : [Ted de Anna Justice](https://www.youtube.com/watch?v=bNASybOzruM)
 
+On pourrait penser qu'en se libérant du cycle en V, typiquement linéaire, les organisations pratiquent la pensée systémique. 
+Mais nous faisons de l'agilité comme nous faisions du cycle en V. 
+En essayant de toujours tout contrôler, simplifier. 
+
+> Agile was invented because reality refuses to bow down to power -- Joe Eaton  
+> L'agilité a été inventée parce que la réalité refuse de s'incliner devant le pouvoir -- Joe Eaton cité dans Learning Systemes Thinking
+
+Il faut changer la culture plus en profondeur. 
 Mais quelles sont les pratiques de la pensée systémique ?
 
 # Les pratiques de la pensée systémique
