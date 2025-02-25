@@ -107,7 +107,7 @@ J'avais abordé le sujet de la résolution de problèmes complexes en deux parti
 Une autre pratique fondamentale : la modélisation. 
 Modéliser est une action qui nous permet de se faire une opinion. 
 On génère un *artefact* (document visuel, écrit, code, etc) qui permet de partager la compréhension à un instant T du problème. 
-On peut modéliser au cours d'un atelier comme un Event Storming. 
+On peut modéliser au cours d'un atelier comme un [Event Storming](https://www.eventstorming.com/). 
 Mais ce n'est qu'un exemple. 
 Tout type d'atelier, toute pratique collective peut nous aider si elle nous permet de créer un espace d'échange, de débats.  
 On peut démarrer seul, mais il faut toujours à un moment ou un autre travailler en équipe. 
