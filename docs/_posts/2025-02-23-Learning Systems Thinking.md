@@ -162,7 +162,7 @@ La méditation, la marche par exemple.
 A chacun de trouver son moyen. 
 Ainsi, il nous sera plus facile de garder notre calme dans des situations tendues. 
 De prendre le temps plutôt que d'être dans la réaction. 
-De prendre conscience des raisonnements fallacieux et des bais cognitifs à l’œuvre. 
+De prendre conscience des [raisonnements fallacieux](https://yourlogicalfallacyis.com/fr) et des [bais cognitifs](https://fr.wikipedia.org/wiki/Biais_cognitif) à l’œuvre. 
 
 Toutes ces pratiques nous permettront de nous rapprocher de l'intégrité conceptuelle. 
 Elles sont toutes des chemins, sans fin. 
