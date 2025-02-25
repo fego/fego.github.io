@@ -28,11 +28,13 @@ Les situations sont complexes car nous évoluons dans des systèmes complexes.
 Mais qu'est-ce qu'un système ? 
 La définition de Donella Meadows, une papesse de la pensée systémique : 
 
-> An interconnected set of elements that is coherently organized in a way that achieves something (a goal). 
+> An interconnected set of elements that is coherently organized in a way that achieves something (a goal).  
+> Un ensemble d'éléments interconnectés qui est organisé de manière cohérente afin d'atteindre quelque chose (un objectif).
 
 Dans le cadre du développement logiciel, Diana Montalion propose la définition suivante : 
 
-> A system is a group of interrelated hardware, software, people, organization(s), and other elements that interact and/or interdepend to serve a shared purpose. 
+> A system is a group of interrelated hardware, software, people, organization(s), and other elements that interact and/or interdepend to serve a shared purpose.  
+> Un système est un ensemble de matériels, logiciels, personnes, organisations et d'autres éléments interdépendants qui interagissent et/ou se complètent pour servir un objectif commun.
 
 Les relations sont très importantes et sont souvent les oubliées dans les analyses. 
 
