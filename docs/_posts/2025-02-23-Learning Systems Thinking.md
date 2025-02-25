@@ -59,6 +59,7 @@ Une absence d'écriture de tests unitaires ?
 Le bug était-il plutôt une mécompréhension du besoin, qui était mal formulé car écrit trop vite et non discuté par l'équipe ? 
 Il y a-t-il des rituels d'échanges sur les *user stories* (par exemple un atelier d'*[example mapping](https://cucumber.io/blog/bdd/example-mapping-introduction/)*) ?  
 Chaque bug peut être une opportunité de comprendre un dysfonctionnement plus profond. 
+De trouver un point de bascule nous permettant d'agir plus en prodondeur, sur une cause racine. 
 
 Ce type de pensée qui reste en surface est dit "linéaire". 
 
