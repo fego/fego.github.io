@@ -118,7 +118,7 @@ De ne pas être limité par ses angles morts.
 C'est [XP](https://en.wikipedia.org/wiki/Extreme_programming) qui met la communication comme valeur la plus importante. 
 On retrouve cette importance aussi dans la pensée systémique. 
 Pas d'intégrité conceptuelle sans collectif. 
-Pour être sûr de se comprendre, il est utile de s'aider d'outils visuels, physiques ou virtuels. 
+Pour être sûr de se comprendre, il est utile de s'aider d'outils visuels, physiques ou virtuels.  
 Et non, modéliser, ce n'est pas faire du *big design up-front* comme cela est parfois objecté. 
 C'est prendre le recul nécessaire, réfléchir, à plusieurs. 
 Ce n'est pas faire une spécification qui trace la route pour les prochains mois. 
