@@ -84,7 +84,7 @@ En essayant de toujours tout contrôler, simplifier.
 > L'agilité a été inventée parce que la réalité refuse de s'incliner devant le pouvoir -- Joe Eaton cité dans Learning Systemes Thinking
 
 Il faut changer la culture plus en profondeur. 
-Mais quelles sont les pratiques de la pensée systémique ?
+Mais quelles sont les pratiques qui vont nous aider à embrasser de la pensée systémique ?
 
 # Les pratiques de la pensée systémique
 Apprendre. 
