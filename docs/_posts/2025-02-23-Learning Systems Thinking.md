@@ -51,7 +51,9 @@ En 20 ans de vie de développeur.
 Prenons un exemple qui peut paraître simple. 
 Un bug dans un système informatique. 
 On va essayer de comprendre la ligne de code qui pose problème, et appliquer un correctif. 
-Nous allons certes régler le problème, mais sans prendre plus de recul, il est fort probable que d'autres problèmes similaires apparaissent tôt ou tard. 
+Le problème sera réglé. 
+Pour aujourd'hui. 
+Et sans prendre plus de recul, il est fort probable que d'autres problèmes similaires apparaissent tôt ou tard. 
 On a appliqué un pansement.  
 La pensée systémique nous permet de prendre de la hauteur pour comprendre le système qui a permis l'apparition du bug. 
 Et donc nous permettre de corriger le système plus en profondeur, et pas uniquement en surface. 
