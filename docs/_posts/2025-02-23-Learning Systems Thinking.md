@@ -61,12 +61,21 @@ Il y a-t-il des rituels d'échanges sur les *user stories* (par exemple un ateli
 Chaque bug peut être une opportunité de comprendre un dysfonctionnement plus profond. 
 De trouver un point de bascule nous permettant d'agir plus en prodondeur, sur une cause racine. 
 
-Ce type de pensée qui reste en surface est dit "linéaire". 
+Ce type de pensée purement logique, rationnelle est dit "linéaire". 
 
 Elle est favorisée par notre société. 
-On est limité (souvent) par une vision axée principalement sur le profit, la rapidité (productivité). 
+En soit ce n'est pas une mauvais façon de pensée. 
+La pensée linéaire est très utile dans de nombreux contextes. 
+
+> We are taught to think linearly. Linear thinking is so ubiquitous, many of us don’t recognize it as one type of thinking. We call it, simply, thinking: predictable, rational, repeatable, procedural, dualistic, top-down, and concerned with control 
+> [...]
+> Linear thinking is reductionistic, understanding a whole by breaking it into parts.
+> -- Diana Montalion, Learning Systems Thinking
+
+Mais on est limité (souvent) par une vision axée principalement sur le profit, la rapidité (productivité). 
 Tout est censé être sous contrôle, calculable, prédictible. 
-On récompense ceux qui rentrent dans ce modèle de pensée, ce qui tue l'expérimentation, à cause de la peur de l'échec. 
+On récompense ceux qui restent dans ce modèle de pensée, et on regarde de travers ceux qui font des pas de côté. 
+L'échec est mal vue. 
 Cela nous pousse à ne pas élargir notre pensée. 
 Or une chose dont on peut être certain dans un système informatique de nos jours, c'est que rien n'est certain. 
 Limiter notre pensée à la pensée linéaire, c'est aller droit dans la mise en place d'un système bancal (sans intégrité conceptuelle). 
