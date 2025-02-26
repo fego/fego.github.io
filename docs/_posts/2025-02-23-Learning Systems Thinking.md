@@ -71,12 +71,8 @@ En soit ce n'est pas une mauvais façon de pensée.
 La pensée linéaire est très utile dans de nombreux contextes. 
 
 > We are taught to think linearly. Linear thinking is so ubiquitous, many of us don’t recognize it as one type of thinking. We call it, simply, thinking: predictable, rational, repeatable, procedural, dualistic, top-down, and concerned with control 
-> [...]
-> Linear thinking is reductionistic, understanding a whole by breaking it into parts.
 > -- Diana Montalion, Learning Systems Thinking  
 > On nous apprend à penser de manière linéaire. La pensée linéaire est tellement omniprésente que beaucoup d'entre nous ne la reconnaissent pas comme un type de pensée. Nous l'appelons simplement la pensée : prévisible, rationnelle, reproductible, procédurale, dualiste, descendante et axée sur le contrôle 
-> [...]
-> La pensée linéaire est réductionniste, elle permet de comprendre un tout en le divisant en parties.
 > -- Diana Montalion, Apprendre la pensée systémique
 
 Mais on est limité (souvent) par une vision axée principalement sur le profit, la rapidité (productivité). 
