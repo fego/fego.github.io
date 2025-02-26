@@ -70,7 +70,13 @@ La pensée linéaire est très utile dans de nombreux contextes.
 > We are taught to think linearly. Linear thinking is so ubiquitous, many of us don’t recognize it as one type of thinking. We call it, simply, thinking: predictable, rational, repeatable, procedural, dualistic, top-down, and concerned with control 
 > [...]
 > Linear thinking is reductionistic, understanding a whole by breaking it into parts.
-> -- Diana Montalion, Learning Systems Thinking
+> -- Diana Montalion, Learning Systems Thinking  
+> On nous apprend à penser de manière linéaire. La pensée linéaire est tellement omniprésente que beaucoup d'entre nous ne la reconnaissent pas comme un type de pensée. Nous l'appelons simplement la pensée : prévisible, rationnelle, reproductible, procédurale, dualiste, descendante et axée sur le contrôle 
+> [...]
+> La pensée linéaire est réductionniste, elle permet de comprendre un tout en le divisant en parties.
+> -- Diana Montalion, Apprendre la pensée systémique
+
+Traduit avec DeepL.com (version gratuite)
 
 Mais on est limité (souvent) par une vision axée principalement sur le profit, la rapidité (productivité). 
 Tout est censé être sous contrôle, calculable, prédictible. 
@@ -78,6 +84,14 @@ On récompense ceux qui restent dans ce modèle de pensée, et on regarde de tra
 L'échec est mal vue. 
 Cela nous pousse à ne pas élargir notre pensée. 
 Or une chose dont on peut être certain dans un système informatique de nos jours, c'est que rien n'est certain. 
+
+Le chapitre sur la pensée linéaire commence par cette citation qui expliquera mieux que ce que je n'ai pu le faire les limites de la pensée linéaire : 
+> [B]lack-and-white logic can sometimes work even for complex systems. But it ignores the ways in which parts interact with one another. Reductionism may serve to explain how a bird flies, but not how a flock of birds move in unison. It may describe internal combustion, but not traffic patterns. It may describe electric patterns in the brain, but not consciousness, and it’s unlikely that anyone or anything—not even the world’s most powerful computers— will ever fully analyze the interactions that make for healthy soil.
+—Mark Bittman, Animal, Vegetable, Junk (Mariner)  
+> La logique "tout blanc ou tout noir" peut parfois fonctionner, même pour des systèmes complexes. Mais elle ne tient pas compte de la manière dont les éléments interagissent les uns avec les autres. Le réductionnisme peut servir à expliquer comment un oiseau vole, mais pas comment une volée d'oiseaux se déplace à l'unisson. Il peut décrire la combustion interne, mais pas les schémas de circulation. Il peut décrire les schémas électriques du cerveau, mais pas la conscience, et il est peu probable que qui que ce soit ou quoi que ce soit - pas même les ordinateurs les plus puissants du monde - puisse un jour analyser complètement les interactions qui sont à l'origine d'un sol sain. --Mark Bittman, Animal, Vegetable, Junk (Mariner)
+
+Traduit avec DeepL.com (version gratuite)
+
 Limiter notre pensée à la pensée linéaire, c'est aller droit dans la mise en place d'un système bancal (sans intégrité conceptuelle). 
 
 La solution ? 
