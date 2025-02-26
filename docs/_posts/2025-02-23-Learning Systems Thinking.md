@@ -217,3 +217,5 @@ Il propose des exemples concrets qui permettent de bien comprendre le propos.
 On peut mettre en pratique très vite ce que nous lisons. 
 C'est un livre qui demande un certain investissement en temps et en énergie. 
 Mais tant vous sera rendu en retour que je ne peux que vous le recommander. 
+
+Merci à Caroline et Florine pour leurs retours précieux. 
