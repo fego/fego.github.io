@@ -12,6 +12,7 @@ Ce livre transforme déjà ma façon d'aborder la complexité dans mon quotidien
 Dans cet article je vous partage quelques idées qui m'ont particulièrement frappées. 
 Comme à chaque fois, faire cet exercice de partage est pour moi aussi une façon de tester mes connaissances, ma compréhension. 
 C'est d'ailleurs une pratique recommandée dans le livre. 
+
 Pour cet article je me dois de mettre un *disclaimer* : je découvre ce domaine, donc la probabilité que j'écrive une bêtise est plus forte que d'habitude :)
 
 ![Couverture]({{ site.url }}images/Learning Systems Thinking.jpg)
