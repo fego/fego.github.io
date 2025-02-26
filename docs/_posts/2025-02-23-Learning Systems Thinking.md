@@ -101,7 +101,7 @@ Mais nous faisons de l'agilité comme nous faisions du cycle en V.
 En essayant de toujours tout contrôler, simplifier. 
 
 > Agile was invented because reality refuses to bow down to power -- Joe Eaton  
-> L'agilité a été inventée parce que la réalité refuse de s'incliner devant le pouvoir -- Joe Eaton cité dans Learning Systemes Thinking
+> L'agilité a été inventée parce que la réalité refuse de s'incliner devant le pouvoir -- Joe Eaton 
 
 Il faut changer la culture plus en profondeur. 
 Mais quelles sont les pratiques qui vont nous aider à embrasser de la pensée systémique ?
