@@ -78,7 +78,7 @@ La pensée linéaire est très utile dans de nombreux contextes.
 Mais on est limité (souvent) par une vision axée principalement sur le profit, la rapidité (productivité). 
 Tout est censé être sous contrôle, calculable, prédictible. 
 On récompense ceux qui restent dans ce modèle de pensée, et on regarde de travers ceux qui font des pas de côté. 
-L'échec est mal vue. 
+L'échec est mal vu. 
 Cela nous pousse à ne pas élargir notre pensée. 
 Or une chose dont on peut être certain dans un système informatique de nos jours, c'est que rien n'est certain. 
 
