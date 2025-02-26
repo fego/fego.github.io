@@ -64,7 +64,7 @@ Il y a-t-il des rituels d'échanges sur les *user stories* (par exemple un ateli
 Chaque bug peut être une opportunité de comprendre un dysfonctionnement plus profond. 
 De trouver un point de bascule nous permettant d'agir plus en prodondeur, sur une cause racine. 
 
-Ce type de pensée purement logique, rationnelle est dit "linéaire". 
+L'approche du raisonnement sous l'angle purement logique, rationnel, en décomposant le tout en sous parties est dit aussi pensée "linéaire". 
 
 Elle est favorisée par notre société. 
 En soit ce n'est pas une mauvais façon de pensée. 
