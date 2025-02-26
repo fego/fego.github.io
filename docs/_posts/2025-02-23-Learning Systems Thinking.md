@@ -90,7 +90,7 @@ Le chapitre sur la pensée linéaire commence par cette citation qui expliquera 
 Limiter notre pensée à la pensée linéaire, c'est aller droit dans la mise en place d'un système bancal (sans intégrité conceptuelle). 
 
 La solution ? 
-Développer une pensée non linéaire. 
+Développer une pensée non linéaire, prenant en compte les relations entre les éléments d'un système. 
 
 ![pensée linéaire]({{ site.url }}images/linear_non_linear.png)  
 Source : [Ted de Anna Justice](https://www.youtube.com/watch?v=bNASybOzruM)
