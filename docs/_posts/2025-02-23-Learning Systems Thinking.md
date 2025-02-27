@@ -121,7 +121,7 @@ J'ai abordé le sujet il y a quelque temps dans un [article]({{ site.url }}2020/
 Il faut être capable de structurer sa pensée pour résoudre des problèmes complexes. 
 On raisonne de façon systémique. 
 On ne se contente pas de lancer une idée, une théorie. 
-On se doit de la structurer sous forme de proposition. 
+On se doit de la structurer sous forme de proposition (par exemple, une proposition de mise en place de tests unitaires sur les traitements métiers). 
 Cette proposition s'appuie sur 3 à 5 raisons. 
 Ces raisons doivent être bien compréhensibles, fiables (on justifie pourquoi), pertinentes (dans le contexte), convaincantes (claires, considérer les différents points de vue). 
 On recherche aussi ce qui pourrait mettre à mal la proposition. 
