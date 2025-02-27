@@ -55,16 +55,7 @@ Le problème sera réglé.
 Pour aujourd'hui. 
 Et sans prendre plus de recul, il est fort probable que d'autres problèmes similaires apparaissent tôt ou tard. 
 On a appliqué un pansement.  
-La pensée systémique nous permet de prendre de la hauteur pour comprendre le système qui a permis l'apparition du bug. 
-Et donc nous permettre de corriger le système plus en profondeur, et pas uniquement en surface. 
-Par exemple, est-ce que nous avons interrogé les pratiques de test de l'équipe ? 
-Une absence d'écriture de tests unitaires ? 
-Le bug était-il plutôt une mécompréhension du besoin, qui était mal formulé car écrit trop vite et non discuté par l'équipe ? 
-Il y a-t-il des rituels d'échanges sur les *user stories* (par exemple un atelier d'*[example mapping](https://cucumber.io/blog/bdd/example-mapping-introduction/)*) ?  
-Chaque bug peut être une opportunité de comprendre un dysfonctionnement plus profond. 
-De trouver un point de bascule nous permettant d'agir plus en prodondeur, sur une cause racine. 
-
-L'approche du raisonnement sous l'angle purement logique, rationnel, en décomposant le tout en sous parties est dit aussi pensée "linéaire". 
+L'approche du raisonnement sous l'angle purement logique, rationnel, en décomposant le tout en sous parties est dit "pensée linéaire". 
 
 Elle est favorisée par notre société. 
 En soit ce n'est pas une mauvais façon de pensée. 
@@ -73,7 +64,7 @@ La pensée linéaire est très utile dans de nombreux contextes.
 > We are taught to think linearly. Linear thinking is so ubiquitous, many of us don’t recognize it as one type of thinking. We call it, simply, thinking: predictable, rational, repeatable, procedural, dualistic, top-down, and concerned with control 
 > -- Diana Montalion, Learning Systems Thinking  
 > On nous apprend à penser de manière linéaire. La pensée linéaire est tellement omniprésente que beaucoup d'entre nous ne la reconnaissent pas comme un type de pensée. Nous l'appelons simplement la pensée : prévisible, rationnelle, reproductible, procédurale, dualiste, descendante et axée sur le contrôle 
-> -- Diana Montalion, Apprendre la pensée systémique
+> -- Diana Montalion, Learning Systems Thinking
 
 Mais on est limité (souvent) par une vision axée principalement sur le profit, la rapidité (productivité). 
 Tout est censé être sous contrôle, calculable, prédictible. 
@@ -82,10 +73,22 @@ L'échec est mal vu.
 Cela nous pousse à ne pas élargir notre pensée. 
 Or une chose dont on peut être certain dans un système informatique de nos jours, c'est que rien n'est certain. 
 
-Le chapitre sur la pensée linéaire commence par cette citation qui expliquera mieux que ce que je n'ai pu le faire les limites de la pensée linéaire : 
+Le chapitre sur la pensée linéaire commence par cette citation. 
+Elle explique mieux que ce que je n'ai pu le faire les limites de la pensée linéaire : 
 > [B]lack-and-white logic can sometimes work even for complex systems. But it ignores the ways in which parts interact with one another. Reductionism may serve to explain how a bird flies, but not how a flock of birds move in unison. It may describe internal combustion, but not traffic patterns. It may describe electric patterns in the brain, but not consciousness, and it’s unlikely that anyone or anything—not even the world’s most powerful computers— will ever fully analyze the interactions that make for healthy soil.
 —Mark Bittman, Animal, Vegetable, Junk (Mariner)  
 > La logique "tout blanc ou tout noir" peut parfois fonctionner, même pour des systèmes complexes. Mais elle ne tient pas compte de la manière dont les éléments interagissent les uns avec les autres. Le réductionnisme peut servir à expliquer comment un oiseau vole, mais pas comment une volée d'oiseaux se déplace à l'unisson. Il peut décrire la combustion interne, mais pas les schémas de circulation. Il peut décrire les schémas électriques du cerveau, mais pas la conscience, et il est peu probable que qui que ce soit ou quoi que ce soit - pas même les ordinateurs les plus puissants du monde - puisse un jour analyser complètement les interactions qui sont à l'origine d'un sol sain. --Mark Bittman, Animal, Vegetable, Junk (Mariner)
+
+Si je reprends l'exemple du bug, voyons ce que nous ne voyons pas à cause d'une pensée purement linéaire. 
+Nous ne prenons pas la hauteur nécessaire pour comprendre les mécanismes, les relations entre les éléments du système, qui ont permis l'apparition du bug. 
+Quelques questions que nous pourrions nous poser : 
+* Est-ce que nous avons interrogé les pratiques de test de l'équipe ? 
+Une absence d'écriture de tests unitaires ? 
+* Le bug était-il plutôt une mécompréhension du besoin, qui était mal formulé car écrit trop vite et non discuté par l'équipe ? 
+Il y a-t-il des rituels d'échanges sur les *user stories* (par exemple un atelier d'*[example mapping](https://cucumber.io/blog/bdd/example-mapping-introduction/)*) ?  
+
+Un bug peut être une opportunité de comprendre un dysfonctionnement plus profond. 
+De trouver un point de bascule nous permettant d'agir plus en prodondeur, sur une cause racine. 
 
 Limiter notre pensée à la pensée linéaire, c'est aller droit dans la mise en place d'un système bancal (sans intégrité conceptuelle). 
 
@@ -106,23 +109,26 @@ Il faut changer la culture plus en profondeur.
 Mais quelles sont les pratiques qui vont nous aider à embrasser la pensée systémique ?
 
 # Les pratiques de la pensée systémique
-Apprendre. 
-Toujours. 
+## Apprendre
+Apprendre, toujours. 
 Ne jamais s'arrêter. 
 Prendre un sujet qui  nous intéresse, nous motive, et que l'on peut pratiquer, et le creuser. 
 J'ai abordé le sujet il y a quelque temps dans un [article]({{ site.url }}2020/09/27/Apprendre-à-apprendre.html). 
 
+## Structurer sa penser
 Il faut être capable de structurer sa pensée pour résoudre des problèmes complexes. 
 On raisonne de façon systémique. 
-Pour cela on doit structurer nos propositions. 
-On doit soutenir cette proposition avec 3 à 5 raisons. 
+On ne se contente pas de lancer une idée, une théorie. 
+On se doit de la structurer sous forme de proposition. 
+Cette proposition s'appuie sur 3 à 5 raisons. 
 Ces raisons doivent être bien compréhensibles, fiables (on justifie pourquoi), pertinentes (dans le contexte), convaincantes (claires, considérer les différents points de vue). 
-On recherche aussi ce qui pourrait mettre à mal le raisonnement. 
+On recherche aussi ce qui pourrait mettre à mal la proposition. 
 On est transparent sur les points faibles identifiés. 
-Il faut aussi préciser pourquoi cela est important maintenant. 
+Il faut aussi préciser pourquoi cela est important, maintenant. 
 J'avais abordé le sujet de la résolution de problèmes complexes en deux parties ([première]({{ site.url }}2024/02/13/Résoudre-des-problèmes-intuitivement.html) et [deuxième]({{ site.url }}2024/02/14/Résoudre-des-problèmes-rationnellement.html)). 
 *Learning Systems Thinking* vient merveilleusement compléter ces lectures, et pousser la réflexion encore plus loin. 
 
+## Modéliser
 Une autre pratique fondamentale : la modélisation. 
 Modéliser est une action qui nous permet de se faire une opinion. 
 On génère un *artefact* (document visuel, écrit, code, etc) qui permet de partager la compréhension à un instant T du problème. 
@@ -145,6 +151,7 @@ Modéliser permet au système d'être en harmonie, plutôt que de se contenter d
 On regarde plus loin que ce qui est visible d'un coup d’œil, en prenant en compte les spécificités du contexte. 
 La modélisation est une pratique indispensable pour nous guider vers des décisions avec plus d'impact, et plus justes. 
 
+## Observer
 Pour modéliser correctement il faut savoir observer. 
 Regarder ce qui a mené aux événements à l'origine de la situation. 
 Les motifs qui se répètent (ne serait-ce pas la troisième fois que nous avons ce type de bug ?). 
@@ -156,21 +163,33 @@ La valorisation de ceux qui produisent beaucoup, sans prendre en compte la quali
 Est-ce que ceux qui prennent le temps d'aider les autres et qui donc produisent moins sont réprimandés ? 
 L'échec est-il puni ?
 
-Ainsi, on ne se contente pas de la pointe de l'iceberg, constituée des événements. 
+Une image employée dans la pensée systémique est celle de l'iceberg. 
+Elle nous permet de comprendre l'importance de l'observation. 
+Le visible est constitué des événements. 
+C'est ce que nous voyons tout de suite. 
+Si on reste au niveau des événements, on reste dans la pensée linéaire. 
+On ignore les relations. 
+On sera dans la réaction et non dans la réponse. 
+En observant nous pouvons alors accéder à ce qui est moins ou pas visible au premier abord. 
+Il y a-t-il des tendances, des répétitions de schéma (n'est-ce pas la 3ème fois que ce type de bug survient) ? 
+Qu'est-ce qui favorise l'apparition de ces schémas, les structures, les relations ? 
+Quelles sont nos croyances, nos valeurs qui peuvent en être à l'origine ?
 ![Iceberg model]({{ site.url }}images/Iceberg Model.jpg)  
-[Source](https://www.flickr.com/photos/rosenfeldmedia/52597293290)  
-On cherche à découvrir ce qui échappe à ceux qui ne prennent pas de la hauteur.  
+[Iceberg Model](https://www.flickr.com/photos/rosenfeldmedia/52597293290)  
 
-Et pour pouvoir faire ce travail de modélisation, il faut avoir des temps de travail continus, sans distraction. 
+## Deep Work
+Et pour pouvoir faire ce travail de modélisation, d'observation, il faut avoir des temps de travail continus, sans distraction. 
 Diana Montalion fait référence au livre *[Deep Work](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/)* de Cal Newport. 
 Un livre qui nous invite à retrouver du temps de concentration et à éviter les multiples distractions. 
 J'y reviendrai plus en détail dans un autre article, car la lecture de Deep Work mérite d'être partagée. 
 
+## Respecter le travail des autres
 Pour modéliser il faut aussi respecter le travail des autres. 
 Cela me fait penser au Scout Mindset ([un article sur le livre de Julia Galef]( {{site.url }}2023/02/04/Fiche-de-lecture-The-Scout-Mindset-de-Julia-Galef.html)). 
 On développe son esprit critique, on discute, on exprime ses accords et désaccords. 
-C'est un travail personnel qui permet cela, et l'entreprise peut favoriser cet état d'esprit. 
+C'est un travail personnel qui permet cela, et l'organisation peut aussi favoriser cet état d'esprit. 
 
+## Améliorer la connaissance de soi
 Pour développer ces compétences, il faut améliorer la connaissance de soi (*mindfulness*). 
 C'est une pratique quotidienne qui est indispensable pour progresser en pensée systémique. 
 Elle propose pour cela de s'appuyer sur des rituels d'écriture. 
@@ -218,4 +237,4 @@ On peut mettre en pratique très vite ce que nous lisons.
 C'est un livre qui demande un certain investissement en temps et en énergie. 
 Mais tant vous sera rendu en retour que je ne peux que vous le recommander. 
 
-Merci à Caroline et Florine pour leurs retours précieux. 
+Merci à Caroline, Florine et Fabien pour leurs retours précieux. 
