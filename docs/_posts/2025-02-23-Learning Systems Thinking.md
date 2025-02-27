@@ -95,12 +95,6 @@ De trouver un point de bascule nous permettant d'agir plus en prodondeur, sur un
 
 Limiter notre pensée à la pensée linéaire, c'est aller droit dans la mise en place d'un système bancal (sans intégrité conceptuelle). 
 
-La solution ? 
-Développer une pensée non linéaire, prenant en compte les relations entre les éléments d'un système. 
-
-![pensée linéaire]({{ site.url }}images/linear_non_linear.png)  
-Source : [Ted de Anna Justice](https://www.youtube.com/watch?v=bNASybOzruM)
-
 On pourrait penser qu'en se libérant du cycle en V, typiquement linéaire (processus séquentiel, divisé en étapes prédictibles), les organisations pratiquent la pensée systémique. 
 Mais nous faisons de l'agilité comme nous faisions du cycle en V. 
 En essayant de toujours tout contrôler, simplifier. 
@@ -109,6 +103,11 @@ En essayant de toujours tout contrôler, simplifier.
 > L'agilité a été inventée parce que la réalité refuse de s'incliner devant le pouvoir -- Joe Eaton 
 
 Il faut changer la culture plus en profondeur. 
+Développer une pensée non linéaire, prenant en compte les relations entre les éléments d'un système. 
+
+![pensée linéaire]({{ site.url }}images/linear_non_linear.png)  
+Source : [Ted de Anna Justice](https://www.youtube.com/watch?v=bNASybOzruM)
+
 Mais quelles sont les pratiques qui vont nous aider à embrasser la pensée systémique ?
 
 # Les pratiques de la pensée systémique
