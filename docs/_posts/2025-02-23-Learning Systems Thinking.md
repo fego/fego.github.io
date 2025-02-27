@@ -58,7 +58,6 @@ Pour aujourd'hui.
 Et sans prendre plus de recul, il est fort probable que d'autres problèmes similaires apparaissent tôt ou tard. 
 On a appliqué un pansement.  
 L'approche du raisonnement sous l'angle purement logique, rationnel, en décomposant le tout en sous parties est dit "pensée linéaire". 
-Ce mode de pensée est favorisé par notre société. 
 En soit ce n'est pas une mauvais façon de penser. 
 La pensée linéaire est très utile dans de nombreux contextes. 
 
@@ -68,7 +67,8 @@ La pensée linéaire est très utile dans de nombreux contextes.
 > On nous apprend à penser de manière linéaire. La pensée linéaire est tellement omniprésente que beaucoup d'entre nous ne la reconnaissent pas comme un type de pensée. Nous l'appelons simplement la pensée : prévisible, rationnelle, reproductible, procédurale, dualiste, descendante et axée sur le contrôle 
 > -- Diana Montalion, Learning Systems Thinking
 
-Mais on est limité (souvent) par une vision axée principalement sur le profit, la rapidité (productivité). 
+Ce mode de pensée poussé par défaut par notre société nous limite. 
+Il favorise (souvent) une vision axée principalement sur le profit, la rapidité (productivité). 
 Tout est censé être sous contrôle, calculable, prédictible. 
 On récompense ceux qui restent dans ce modèle de pensée, et on regarde de travers ceux qui font des pas de côté. 
 L'échec est mal vu. 
