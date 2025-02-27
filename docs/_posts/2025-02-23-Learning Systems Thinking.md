@@ -84,7 +84,7 @@ Elle explique mieux que ce que je n'ai pu le faire les limites de la pensée lin
 
 Si je reprends l'exemple du bug, voyons ce que nous ne voyons pas à cause d'une pensée purement linéaire. 
 Nous ne prenons pas la hauteur nécessaire pour comprendre les mécanismes, les relations entre les éléments du système, qui ont permis l'apparition du bug. 
-Quelques questions que nous pourrions nous poser : 
+Voici quelques questions que nous aurions pu nous poser : 
 * Est-ce que nous avons interrogé les pratiques de test de l'équipe ? 
 Une absence d'écriture de tests unitaires ? 
 * Le bug était-il plutôt une mécompréhension du besoin, qui était mal formulé car écrit trop vite et non discuté par l'équipe ? 
