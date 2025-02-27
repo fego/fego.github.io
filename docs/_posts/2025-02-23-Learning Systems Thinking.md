@@ -27,7 +27,7 @@ Et si nous pensons parfois comprendre la situation, cela peut aussi être une il
 # Système
 Les situations sont complexes car nous évoluons dans des systèmes complexes. 
 Mais qu'est-ce qu'un système ? 
-La définition de Donella Meadows, une papesse de la pensée systémique : 
+La définition de [Donella Meadows](https://fr.wikipedia.org/wiki/Donella_Meadows), une papesse de la pensée systémique : 
 
 > An interconnected set of elements that is coherently organized in a way that achieves something (a goal).  
 > Un ensemble d'éléments interconnectés qui est organisé de manière cohérente afin d'atteindre quelque chose (un objectif).
