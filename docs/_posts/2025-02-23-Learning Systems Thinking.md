@@ -1,4 +1,4 @@
-# Intro
+## Intro
 Vous est-il arrivé de commencer une mission plein d'enthousiasme, heureux de rejoindre un projet que l'on vous a présenté comme si exaltant ?
 Et que, hélas, au bout d'un mois vous vous retrouviez déjà découragé car confronté à un système dysfonctionnant de toutes parts ? 
 Une organisation très hiérarchique qui freine les initiatives, des bugs dans tous les sens, un code spaghetti ? 
@@ -24,7 +24,7 @@ Sans savoir comment l'affronter, nous trouverons probablement des mauvaises rép
 Nous pourrons même créer ou aggraver les problèmes. 
 Et si nous pensons parfois comprendre la situation, cela peut aussi être une illusion. 
 
-# Système
+## Système
 Les situations sont complexes car nous évoluons dans des systèmes complexes. 
 Mais qu'est-ce qu'un système ? 
 La définition de [Donella Meadows](https://fr.wikipedia.org/wiki/Donella_Meadows), une papesse de la pensée systémique : 
@@ -49,7 +49,7 @@ Combien de fois avez-vous vu un tel système ?
 Moi, jamais. 
 En 20 ans de vie de développeur. 
 
-# La pensée linéaire
+## La pensée linéaire
 Prenons un exemple qui peut paraître simple. 
 Un bug dans un système informatique. 
 On va essayer de comprendre la ligne de code qui pose problème, et appliquer un correctif. 
@@ -110,14 +110,14 @@ Source : [Ted de Anna Justice](https://www.youtube.com/watch?v=bNASybOzruM)
 
 Mais quelles sont les pratiques qui vont nous aider à embrasser la pensée systémique ?
 
-# Les pratiques de la pensée systémique
-## Apprendre
+## Les pratiques de la pensée systémique
+#### Apprendre
 Apprendre, toujours. 
 Ne jamais s'arrêter. 
 Prendre un sujet qui  nous intéresse, nous motive, et que l'on peut pratiquer, et le creuser. 
 J'ai abordé le sujet il y a quelque temps dans un [article]({{ site.url }}2020/09/27/Apprendre-à-apprendre.html). 
 
-## Structurer sa penser
+#### Structurer sa penser
 Il faut être capable de structurer sa pensée pour résoudre des problèmes complexes. 
 On raisonne de façon systémique. 
 On ne se contente pas de lancer une idée, une théorie. 
@@ -130,7 +130,7 @@ Il faut aussi préciser pourquoi cela est important, maintenant.
 J'avais abordé le sujet de la résolution de problèmes complexes en deux parties ([première]({{ site.url }}2024/02/13/Résoudre-des-problèmes-intuitivement.html) et [deuxième]({{ site.url }}2024/02/14/Résoudre-des-problèmes-rationnellement.html)). 
 *Learning Systems Thinking* vient merveilleusement compléter ces lectures, et pousser la réflexion encore plus loin. 
 
-## Modéliser
+#### Modéliser
 Une autre pratique fondamentale : la modélisation. 
 Modéliser est une action qui nous permet de se faire une opinion. 
 On génère un *artefact* (document visuel, écrit, code, etc) qui permet de partager la compréhension à un instant T du problème. 
@@ -153,7 +153,7 @@ Modéliser permet au système d'être en harmonie, plutôt que de se contenter d
 On regarde plus loin que ce qui est visible d'un coup d’œil, en prenant en compte les spécificités du contexte. 
 La modélisation est une pratique indispensable pour nous guider vers des décisions avec plus d'impact, et plus justes. 
 
-## Observer
+#### Observer
 Pour modéliser correctement il faut savoir observer. 
 Regarder ce qui a mené aux événements à l'origine de la situation. 
 Les motifs qui se répètent (ne serait-ce pas la troisième fois que nous avons ce type de bug ?). 
@@ -179,19 +179,19 @@ Quelles sont nos croyances, nos valeurs qui peuvent en être à l'origine ?
 ![Iceberg model]({{ site.url }}images/Iceberg Model.jpg)  
 [Iceberg Model](https://www.flickr.com/photos/rosenfeldmedia/52597293290)  
 
-## Deep Work
+#### Deep Work
 Et pour pouvoir faire ce travail de modélisation, d'observation, il faut avoir des temps de travail continus, sans distraction. 
 Diana Montalion fait référence au livre *[Deep Work](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/)* de Cal Newport. 
 Un livre qui nous invite à retrouver du temps de concentration et à éviter les multiples distractions. 
 J'y reviendrai plus en détail dans un autre article, car la lecture de Deep Work mérite d'être partagée. 
 
-## Respecter le travail des autres
+#### Respecter le travail des autres
 Pour modéliser il faut aussi respecter le travail des autres. 
 Cela me fait penser au Scout Mindset ([un article sur le livre de Julia Galef]( {{site.url }}2023/02/04/Fiche-de-lecture-The-Scout-Mindset-de-Julia-Galef.html)). 
 On développe son esprit critique, on discute, on exprime ses accords et désaccords. 
 C'est un travail personnel qui permet cela, et l'organisation peut aussi favoriser cet état d'esprit. 
 
-## Améliorer la connaissance de soi
+#### Améliorer la connaissance de soi
 Pour développer ces compétences, il faut améliorer la connaissance de soi (*mindfulness*). 
 C'est une pratique quotidienne qui est indispensable pour progresser en pensée systémique. 
 Elle propose pour cela de s'appuyer sur des rituels d'écriture. 
@@ -207,7 +207,7 @@ De prendre conscience des [raisonnements fallacieux](https://yourlogicalfallacyi
 Toutes ces pratiques nous permettront de nous rapprocher de l'intégrité conceptuelle. 
 Elles sont toutes des chemins, sans fin. 
 
-# Pratiquez-vous la pensée systémique ?
+## Pratiquez-vous la pensée systémique ?
 Pour savoir si vous êtes sur ce chemin, je vous partage ici une check-list que donne l'autrice pour savoir si on "pense système" :
 * on pense système, seul et en équipe, quotidiennement. 
   C’est une compétence comme une autre.
@@ -231,7 +231,7 @@ On regarde sous les événements, les patterns, les structures, les modèles men
 * on utilise divers techniques de modélisation
 * on encourage le flux de la connaissance
 
-# Conclusion
+## Conclusion
 Si certains points de ce que je viens de lister vous paraissent flous, ou si vous pensez devoir approfondir certains éléments, alors le livre vous apportera une partie de la lumière nécessaire. 
 Et le livre est bien plus riche que ce petit tour d'horizon sélectif que je viens de vous faire. 
 Il propose des exemples concrets qui permettent de bien comprendre le propos. 
