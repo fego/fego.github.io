@@ -40,7 +40,7 @@ Dans le cadre du développement logiciel, Diana Montalion propose la définition
 > Un système est un ensemble de matériels, logiciels, personnes, organisations et d'autres éléments interdépendants qui interagissent et/ou se complètent pour servir un objectif commun.
 
 Les relations sont très importantes et sont souvent les oubliées dans les analyses. 
-Et un système qui fonctionne bien est un système dont les relations entre les éléments sont harmonieuses.  
+Et un système qui fonctionne bien est un système dont les relations entre les éléments sont harmonieuses. 
 Les éléments du système fonctionnent comme un tout de façon naturelle, fluide. 
 Cette harmonie du système est appelée "intégrité conceptuelle". 
 
