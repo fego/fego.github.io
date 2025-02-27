@@ -58,7 +58,7 @@ Pour aujourd'hui.
 Et sans prendre plus de recul, il est fort probable que d'autres problèmes similaires apparaissent tôt ou tard. 
 On a appliqué un pansement.  
 L'approche du raisonnement sous l'angle purement logique, rationnel, en décomposant le tout en sous parties est dit "pensée linéaire". 
-En soit ce n'est pas une mauvais façon de penser. 
+En soit ce n'est pas une mauvaise façon de penser. 
 La pensée linéaire est très utile dans de nombreux contextes. 
 
 > We are taught to think linearly. Linear thinking is so ubiquitous, many of us don’t recognize it as one type of thinking. We call it, simply, thinking: predictable, rational, repeatable, procedural, dualistic, top-down, and concerned with control 
