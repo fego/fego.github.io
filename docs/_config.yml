@@ -58,5 +58,5 @@ collections:
     output: true
     permalink: /categories/:name/
 header_pages:
-  - about.md
+  - about.markdown
   - categories.md
