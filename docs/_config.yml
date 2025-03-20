@@ -53,3 +53,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+collections:
+  categories:
+    output: true
+    permalink: /categories/:name/
+header_pages:
+  - about.md
+  - categories.md
