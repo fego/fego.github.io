@@ -1,3 +1,9 @@
+---
+layout: post
+title: Retour sur la lecture du Accelerate
+date: 2020-09-15 12:00:00 +0100
+categories: fiche_de_lecture
+---
 # Accelerate
 
 Je vous partage ici quelques notes suite à la lecture du livre [_Accelerate_](https://itrevolution.com/book/accelerate/) de Nicole Forsgren, Jez Humble et Gene Kim. 
@@ -41,7 +47,7 @@ Cela a abouti à 4 mesures. \
 
 En 2019, une nouvelle catégorie, dite « élite », figure dans le rapport : voici ce que font ces meilleurs performeurs par rapport aux moins bons[^3] : 
 
-![performance]({{ site.url }}images/accelerate_1.png)
+![performance]({{ site.url }}/assets/images/accelerate_1.png)
 
 ## Développer la culture d'une organisation
 

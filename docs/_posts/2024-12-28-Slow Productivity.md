@@ -1,3 +1,9 @@
+---
+layout: post
+title: Retour sur la lecture du livre Slow Productivity
+date: 2024-12-28 12:00:00 +0100
+categories: fiche_de_lecture
+---
 Je viens de terminer le livre [*Slow Productivity*](https://www.goodreads.com/book/show/197773418-slow-productivity) de Cal Newport. 
 Un livre que qui me laisse perplexe. 
 Je vous partage quelques notes, et un avis plus général. 

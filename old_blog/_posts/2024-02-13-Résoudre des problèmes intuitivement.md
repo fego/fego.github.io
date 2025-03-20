@@ -1,9 +1,3 @@
----
-layout: post
-title: Résoudre des problèmes intuitivement
-date: 2024-02-13 12:00:00 +0100
-categories: fiche_de_lecture
----
 Résoudre des problèmes, nous le faisons tous tout le temps. 
 Mais dès que le problème devient compliqué ou complexe il nous arrive d’être démuni. 
 Peut-on s’améliorer en résolution de problème ? 
@@ -40,7 +34,7 @@ Car le cerveau minimise toujours la dépense énergétique et ne mettra pas en m
 
 Comment faire ?
 
-![Tableau de Mondrian]({{ site.url }}/assets/images/mondrian.png)
+![Tableau de Mondrian]({{ site.url }}images/mondrian.png)
 
 *Mondrian, simple ou complexe ?*
 

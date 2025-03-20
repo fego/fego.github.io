@@ -1,9 +1,3 @@
----
-layout: post
-title: Retour sur la lecture du livre Learning Systems Thinking
-date: 2025-02-23 12:00:00 +0100
-categories: fiche_de_lecture
----
 ## Intro
 Vous est-il arrivé de commencer une mission plein d'enthousiasme, heureux de rejoindre un projet que l'on vous a présenté comme si exaltant ?
 Et que, hélas, au bout d'un mois vous vous retrouviez déjà découragé car confronté à un système dysfonctionnant de toutes parts ? 
@@ -21,7 +15,7 @@ C'est d'ailleurs une pratique recommandée dans le livre.
 
 Pour cet article je me dois de mettre un *disclaimer* : je découvre ce domaine, donc la probabilité que j'écrive une bêtise est plus forte que d'habitude :)
 
-![Couverture]({{ site.url }}/assets/images/Learning Systems Thinking.jpg)
+![Couverture]({{ site.url }}images/Learning Systems Thinking.jpg)
 
 Dans de nombreuses situations au travail, mais aussi dans la vie de tous les jours, nous nous confrontons à la complexité. 
 Elle peut nous déstabiliser si nous sommes démunis face à elle. 
@@ -179,7 +173,7 @@ En observant nous pouvons alors accéder à ce qui est moins ou pas visible au p
 Il y a-t-il des tendances, des répétitions de schéma (n'est-ce pas la 3ème fois que ce type de bug survient) ? 
 Qu'est-ce qui favorise l'apparition de ces schémas, les structures, les relations ? 
 Quelles sont nos croyances, nos valeurs qui peuvent en être à l'origine ?
-![Iceberg model]({{ site.url }}/assets/images/Iceberg Model.jpg)  
+![Iceberg model]({{ site.url }}images/Iceberg Model.jpg)  
 [Iceberg Model](https://www.flickr.com/photos/rosenfeldmedia/52597293290)  
 
 ### Deep Work

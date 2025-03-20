@@ -1,9 +1,3 @@
----
-layout: post
-title: Retour sur la lecture du livre The Scout Mindset
-date: 2023-02-04 12:00:00 +0100
-categories: fiche_de_lecture
----
 *Temps de lecture estimé : 8 minutes* 
 
 Tranquillement installé avec son ordi sur les genoux, Harry parcourt son fil twitter quand soudainement il tombe sur un tweet commençant par "C'est la candidate la plus corrompue de l'histoire !" 
@@ -25,7 +19,7 @@ Son livre est une invitation à épouser le "scout mindset".
 Avant de vous parler du *scout mindset* (j'utiliserai aussi le terme d'éclaireur dans l'article), revenons à son envers. 
 Le *soldier mindset*. 
 
-![soldat]({{ site.url }}/assets/images/soldat_poilu.jpg)
+![soldat]({{ site.url }}images/soldat_poilu.jpg)
 
 *Mon arrière grandp-père, Pierre Escoffier, debout, 3ème à gauche* 
 
@@ -73,7 +67,7 @@ Et de commencer notre métamorphose en éclaireur.
 ## L'éclaireur
 Mais qu'est-ce qu'un éclaireur ? 
 
-![éclaireur]({{ site.url }}/assets/images/eclaireur_jumelles.jpg)
+![éclaireur]({{ site.url }}images/eclaireur_jumelles.jpg)
 
 [Source](https://www.flickr.com/photos/67611651@N03/13610540345)
 

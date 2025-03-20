@@ -1,3 +1,9 @@
+---
+layout: post
+title: Tester des scripts SQL
+date: 2023-02-22 12:00:00 +0100
+categories: article
+---
 Tester des scripts SQL n'est pas simple dès que le script comment à avoir une certaine complexité. 
 Il faut avoir un environnement disponible qui représente les conditions de production. 
 On ne doit pas abîmer les données des collègues. 
@@ -5,7 +11,7 @@ On doit pouvoir ré-exécuter les tests de nombreuses fois.
 Réaliser cela directement sur un environnement de développement n'est pas toujours compatible avec ces conditions. 
 Par exemple, comment remettre facilement un jeu de données en état quand on appelle une procédure qui clôture le compte d'un client, sans que l'on ait un moyen simple de rouvrir le compte ? 
 
-![Complexité]({{ site.url }}images/complexity.jpg)  
+![Complexité]({{ site.url }}/assets/images/complexity.jpg)  
 *[Photo](https://unsplash.com/fr/photos/YTKh06aL7to) de Michal Matlon*
 
 Dans ma mission actuelle cette situation m'est arrivée. 

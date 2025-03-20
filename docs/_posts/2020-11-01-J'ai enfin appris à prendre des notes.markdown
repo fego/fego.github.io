@@ -1,3 +1,9 @@
+---
+layout: post
+title: J'ai enfin appris à prendre des notes
+date: 2020-11-01 12:00:00 +0100
+categories: article
+---
 # J'ai enfin appris à prendre des notes
 
 45 ans. Voilà le temps qu'il m'aura fallu pour savoir prendre des notes. 
@@ -12,7 +18,7 @@ Quel est l'intérêt de notes que l'on peut difficilement réutiliser, exploiter
 
 ## Qu'est-ce qu'une bonne prise de notes ?
 
-![Bonne prise de notes]({{ site.url }}images/bonne_prise_notes.png)
+![Bonne prise de notes]({{ site.url }}/assets/images/bonne_prise_notes.png)
 
 Simon Stalenhag - [https://www.simonstalenhag.se/tftl.html](https://www.simonstalenhag.se/tftl.html)
 
@@ -36,7 +42,7 @@ Le secret ? Quelques étapes, faciles à appliquer, et un outil. Voici ce que j'
 On commence par la CAPTURE. En lisant, regardant, écoutant, on prend des notes sur le support de son choix. Il faudrait dans l'idéal toujours avoir un carnet à portée de main, mais n'importe quel bout de papier peut faire l'affaire. On notera dessus ce qui nous intéresse mais aussi nos idées, nos réflexions. Ces notes sont éphémères, on les jettera. Cependant cela ne veut pas dire que l'on va bâcler ce que l'on écrit. Non, on soigne tout de même le contenu un minimum. Ici, on est clair et concis. Et on tâche de ne pas copier tel quel, on fait l'effort de **paraphraser**. C'est très important car cela nous permet une première appropriation du propos, de valider une première fois notre compréhension. 
 Certains pourront ici se servir des *mind maps* ou du *sketchnoting*. Pourquoi pas, c'est déjà faire une première reformulation et mise en contexte. Mais il ne faudra pas trop s'y attacher : ces notes finiront à la poubelle. 
 
-![Capturer des notes]({{ site.url }}images/capture_notes.png)
+![Capturer des notes]({{ site.url }}/assets/images/capture_notes.png)
 
 Ensuite vient la phase d'ÉLABORATION. C'est l'étape la plus importante. Il faut s'y atteler rapidement, le soir même si possible, car plus on tarde, plus on oublie le contexte de nos notes. Ce que l'on fait ? On va réécrire les notes (capturées précédemment) sous forme atomique. Une idée devient une note. C'est un point qui n'est pas toujours évident, et j'ai tendance à parfois y déroger, à remanier mes notes itérativement. Tant que la note est claire et lisible par le "moi du futur" ça me va. La note une fois terminée intègre donc notre ensemble de notes dites permanentes. Elle rejoint le réseau de notes, notre *Zettelkasten* qui s'est alors agrandi.  
 Mon *Zettelkasten* est numérique. Imaginez alors que chaque nouvelle note est une nouvelle entrée dans un wiki, mon wiki. Par exemple j'ai une note "limites des systèmes de prise de notes classiques", une autre "comment faire un zettelkasten".  Certain préférerons peut-être faire leur système sur papier comme le faisait [Niklas Luhman](https://fr.wikipedia.org/wiki/Niklas_Luhmann) l'inventeur du Zettelkasten, il y aura alors [quelques ajustements nécessaires](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1).
@@ -45,7 +51,7 @@ Une fois la note satisfaisante et intégrée dans notre système, on va la conne
 
 Voici à quoi ressemble mon réseau de notes après deux mois : 
 
-![Graph Obsidian]({{ site.url }}images/graph_obsidian_dav.png)
+![Graph Obsidian]({{ site.url }}/assets/images/graph_obsidian_dav.png)
 
 Ces connexions reliant des notes assez simples sont très utiles. Elle servent à chaque fois que vous allez saisir une nouvelle note. Je recherche avant (ou parfois pendant) la phase d'élaboration les notes relatives au sujet de la nouvelle note. Et c'est rapide. Je re-parcours ces notes qui rajoutent un contexte. Ma nouvelle note en devient plus pertinente (et parfois ça m'évite de noter une deuxième fois quelque chose que j'avais déjà noté il y a quelques semaines...). Je la connecte aux autres. Puis, plus tard, quand je reviens consulter ces notes, comme par exemple pour écrire un article, alors il suffira de tirer un fil et toutes les idées seront déjà prêtes, sur un plateau. Réellement. 
 

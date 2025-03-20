@@ -1,9 +1,3 @@
----
-layout: post
-title: Apprendre ensemble grâce au Good Morning Learning
-date: 2022-01-09 12:00:00 +0100
-categories: article
----
 # Apprendre ensemble grâce au *good morning learning*
 *Temps de lecture : environ 7 minutes*
 
@@ -22,7 +16,7 @@ Est-ce la faute à cet individualisme que j’ai toujours trouvé difficile de c
 Combien de sociétés ont une culture de partage, combien évoquent la problématique en entretien d'embauche ? 
 Souvent cette absence finit en découragement, déception, et pèse dans la balance quand l’heure de la démission approche. 
 
-![egoiste]({{ site.url }}/assets/images/egoiste.jpg)
+![egoiste]({{ site.url }}images/egoiste.jpg)
 
 *"Egoiste"par Kazuhiro Keino est sous licence CC BY 2.0*
 

@@ -1,3 +1,9 @@
+---
+layout: post
+title: Immutabilité et mutabilité en Java, choisir en connaissance de cause
+date: 2022-02-11 12:00:00 +0100
+categories: article
+---
 # Immutabilité et mutabilité en Java, choisir en connaissance de cause
 
 *Temp de lecture : environ 7 mintues*. 

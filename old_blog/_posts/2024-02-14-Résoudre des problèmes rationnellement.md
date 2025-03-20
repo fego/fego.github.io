@@ -1,9 +1,3 @@
----
-layout: post
-title: Résoudre des problèmes rationnellement
-date: 2024-02-14 12:00:00 +0100
-categories: fiche_de_lecture
----
 Résoudre des problèmes intuitivement n’est pas toujours une bonne idée. Mais pour certains problèmes ce n’est même pas envisageable. 
 La complexité nous invite automatiquement à raisonner. Mais sommes nous équipés, outillés, formés à la résolution de tels problèmes ?
 
@@ -19,7 +13,7 @@ Ce livre étant avant tout destiné à des consultants traitant des problèmes t
 Je pense par exemple que les techniques d’analyses basées sur du machine learning, ou basées sur de la théorie des jeux, etc. ne me seront jamais utiles. 
 Je vous présente donc une partie allégée de ces étapes, qui, il me semble, sont intéressantes à appliquer dans les différents types de problèmes que l’on rencontre régulièrement dans la vie d’un développeur. 
 
-![7 étapes]({{ site.url }}/assets/images/bulletproof.png)
+![7 étapes]({{ site.url }}images/bulletproof.png)
 
 *Les 7 étapes, image issue du livre Bulletproof Problem Solving*
 
@@ -75,7 +69,7 @@ Cette seconde étape a été un changement très positif dans mon organisation, 
 *Note : La [méthode mikado](https://mikadomethod.info/) propose aussi de faire des arbres. C’est une méthode qui permet d’adresser la complexité d’un refactoring complexe. On complète un graphe au fur et à mesure de nos avancées, avec la particularité de faire un rollback dès que l’on tombe sur un os. Je ne rentre pas dans les détails de cette méthode, mais je vous recommande vivement de l’ajouter à votre trousse à outils si vous ne la connaissez pas (par exemple en lisant [cet article](https://improveandrepeat.com/2020/12/the-mikado-method-a-great-help-to-work-with-legacy-code/) ou [celui-ci](https://arnolanglade.github.io/mikado-method.html)). Ce point commun qui fait de l’usage d’arbres pour résoudre une problématique complexe souligne il me semble l’importance de ce support, à systématiser dans ces situations.*  
 
 
-![Karen Arnold]({{ site.url }}/assets/images/arbre.png)
+![Karen Arnold]({{ site.url }}images/arbre.png)
 
 *[Karen Arnold](https://www.publicdomainpictures.net/fr/view-image.php?image=248573&picture=peinture-d39arbre-vintage)*
 

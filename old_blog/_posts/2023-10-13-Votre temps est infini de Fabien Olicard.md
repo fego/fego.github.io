@@ -1,9 +1,3 @@
----
-layout: post
-title: Retour sur la lecture du livre Votre temps est infini
-date: 2023-10-13 12:00:00 +0100
-categories: fiche_de_lecture
----
 Je vous propose un retour sur ma lecture du livre “[Votre temps est infini](https://www.babelio.com/livres/Olicard-Votre-temps-est-infini/1326288)” de Fabien Olicard. 
 Je suis tombé il y a peu sur sa chaîne [Youtube](https://www.youtube.com/@FabienOlicard) que j’ai trouvée divertissante. 
 Cela m’a amené à prendre connaissance de ses livres. 
@@ -13,7 +7,7 @@ Elles sont fortement liées à mes besoins et désirs d’apprentissage, et d’
 
 J’ai donc décidé de commencer par le livre sur la gestion de son temps. Et si vous aussi vous aimeriez avoir plus la main sur votre temps, sa quantité et son usage, alors suivez-moi pour avoir une idée de ce que vous y trouverez. 
 
-![Tea Time]({{ site.url }}/assets/images/tea_time.png)  
+![Tea Time]({{ site.url }}images/tea_time.png)  
 **[Source](https://www.deviantart.com/aliciane/art/Tea-Time-536081060) - Aliciane, DeviantArt**
 
 Le livre est écrit d’un style direct, (très) simple. 

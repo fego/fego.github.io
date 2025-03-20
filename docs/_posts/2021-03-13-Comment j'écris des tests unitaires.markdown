@@ -1,3 +1,9 @@
+---
+layout: post
+title: Comment j'écris des tests unitaires
+date: 2021-03-13 12:00:00 +0100
+categories: article
+---
 # Comment j'écris des tests unitaires
 
 *Temps de lecture : environ 8 min.*

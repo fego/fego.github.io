@@ -1,10 +1,16 @@
+---
+layout: post
+title: Retour sur la lecture du livre Atomic Habits
+date: 2024-06-28 12:00:00 +0100
+categories: fiche_de_lecture
+---
 Je viens de terminer le livre “Atomic Habits” ou en français “Un rien peut tout changer”. 
 C’est un livre de James Clear qui est un best seller. 
 J’ai beaucoup apprécié sa lecture et les réflexions et actions que j’ai pu déjà en tirer sont positives. 
 Si vous aimeriez changer des choses dans votre comportement et que vous n’y arrivez pas ou si cela vous est compliqué, ce livre pourrait vous aider. 
 Je vais donc vous partager ce que j’ai compris du livre, en zoomant sur ce qui m’a personnellement marqué. 
 
-![Atomic Habits]({{ site.url }}images/atomic_habits.jpg)
+![Atomic Habits]({{ site.url }}/assets/images/atomic_habits.jpg)
 
 Le livre parle donc des habitudes. 
 La définition d’une habitude que j’ai retenu serait : un comportement que l’on répète régulièrement, finissant par être automatique, dont le but est de résoudre un problème. 
@@ -94,7 +100,7 @@ Souvent les habitudes positives ont un coût qui est dans le présent et une ré
 C’est souvent l’inverse pour les habitudes négatives.
 C’est le cas pour l’héroïne, mais pour beaucoup d’autres mauvaises habitudes aussi.
 
-![Johan Sfar]({{ site.url }}images/johan_sfar.jpg)  
+![Johan Sfar]({{ site.url }}/assets/images/johan_sfar.jpg)  
 *Johan Sfar*
 
 L’anticipation de la récompense nous pousse à agir.
