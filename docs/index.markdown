@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+<div>
+<p>Retrouvez ci-dessous tout ce qui est publié sur mon site. Il y a un accès par <a href="/categories">catégorie</a> aussi. </p>
+</div>
