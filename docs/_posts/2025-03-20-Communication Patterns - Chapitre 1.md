@@ -4,7 +4,6 @@ title: Communication Patterns - Notes de lecture - Chapitre 1
 date: 2025-03-20 12:00:00 +0100
 categories: notes_de_lecture
 ---
-# Communication Patterns - Chapitre 1
 Je vous partage mes notes sur ma lecture du livre [Commmunication Patterns](https://communicationpatternsbook.com/) de Jacqui Read. 
 
 La première partie du livre parle de communication visuelle. 
