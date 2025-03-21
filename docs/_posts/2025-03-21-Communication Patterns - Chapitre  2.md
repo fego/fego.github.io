@@ -6,7 +6,7 @@ categories: notes_de_lecture
 ---
 Voici la suite de mes notes sur le livre Communication Patterns de Jacqui Read. 
 Aujourd'hui le chapitre 2. 
-L'autrice continue les conseils sur la création de diagramme. 
+L'autrice continue les conseils sur la création de diagrammes. 
 
 Précisions de vocabulaire : 
 * Étiquette : label en anglais, texte qui permet de définir un élément
