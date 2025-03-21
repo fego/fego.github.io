@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Retour sur la lecture du Accelerate
+title: Retour sur la lecture du livre Accelerate
 date: 2020-09-15 12:00:00 +0100
 categories: fiche_de_lecture
 ---
