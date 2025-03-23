@@ -58,7 +58,6 @@ Ainsi, en mettant le plus important dès le début, certains publics peuvent ne 
 
 Il peut être important aussi de définir : le périmètre du document, et aussi ce qu’il n’inclut pas, l’audience, les prérequis.
 
-
 ## Mon feedback
 Un chapitre très clair, qui donne des conseils applicables rapidement pour améliorer la qualité de ses écrits techniques. 
 Et sûrement avoir une base suffisante pour faire passer son message.  
