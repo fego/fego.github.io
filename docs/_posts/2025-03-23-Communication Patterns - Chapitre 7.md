@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Communication Patterns - Notes de lecture - Chapitres 7
+title: Communication Patterns - Notes de lecture - Chapitre 7
 date: 2025-03-23 07:00:00 +0100
 categories: notes_de_lecture
 ---
