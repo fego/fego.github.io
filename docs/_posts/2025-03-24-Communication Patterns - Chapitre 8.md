@@ -56,7 +56,15 @@ Elles peuvent enrichir une équipe, mais ne pas les prendre en compte peut la fr
 > Taras et al. found that teams with members who had been exposed to a diversity of institutions, politics, and economics (termed *contextual diversity*) had advantages in problem solving, decision making, and creativity. 
 > In contrast, the same research showed that “personal diversity”—differing characteristics like age, culture, and language—“can negatively affect team climate.”
 
-Il faut chercher à comprendre les besoins des autres pour avoir leur attention et compréhension en retour.
+Parfois on veut donner le plus de chance à notre message d'être reçu. 
+On cherche à êtr persuasif, à convaincre. 
+Pour cela il faut commencer par bien comprendre les besoins des autres. 
+Cela nous assure leur attention et compréhension en retour.
+
+> People will generally resist your proposals and suggestions if they think you haven’t understood their problems and needs
+
+Dans ces moments où l'on cherche à être convaincant, bannir les mots comme "peut-être", "esayer", "espérons". 
+
 
 ## Mon retour
 Une proposition claire sur l'attitude à avoir pour faire passer et pour recevoir un message. 
@@ -67,8 +75,5 @@ Cela me fait penser à cette citation trouvée dans le livre Learning Systems Th
 
 > The aim of argument, or of discussion, should not be victory, but progress.
 > — Joseph Joubert
-
-J'ai écarté de mes notes toute une partie sur la persuasion. 
-Je ne suis pas à l'aise avec ce que je ressens comme une certaine forme de manipulation. 
 
 J'aurais aimé plus d'informations sur les impacts de la diversité, je ne pense pas pouvoir tirer grand choses de ce qui est partagé en l'état, même si ça donne envie d'en savoir plus. 
