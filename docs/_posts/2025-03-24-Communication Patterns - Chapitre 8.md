@@ -69,5 +69,6 @@ Cela me fait penser à cette citation trouvée dans le livre Learning Systems Th
 > — Joseph Joubert
 
 J'ai écarté de mes notes toute une partie sur la persuasion. 
+Je ne suis pas à l'aise avec ce que je ressens comme une certaine forme de manipulation. 
 
 J'aurais aimé plus d'informations sur les impacts de la diversité, je ne pense pas pouvoir tirer grand choses de ce qui est partagé en l'état, même si ça donne envie d'en savoir plus. 
