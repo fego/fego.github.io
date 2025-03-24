@@ -56,8 +56,8 @@ Elles peuvent enrichir une équipe, mais ne pas les prendre en compte peut la fr
 > Taras et al. found that teams with members who had been exposed to a diversity of institutions, politics, and economics (termed *contextual diversity*) had advantages in problem solving, decision making, and creativity. 
 > In contrast, the same research showed that “personal diversity”—differing characteristics like age, culture, and language—“can negatively affect team climate.”
 
-Parfois on veut donner le plus de chance à notre message d'être reçu. 
-On cherche à êtr persuasif, à convaincre. 
+Parfois on veut donner toutes les chances à notre message d'être reçu. 
+On cherche à être persuasif, à convaincre. 
 Pour cela il faut commencer par bien comprendre les besoins des autres. 
 Cela nous assure leur attention et compréhension en retour.
 
