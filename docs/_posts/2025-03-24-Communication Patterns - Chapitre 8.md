@@ -65,7 +65,6 @@ Cela nous assure leur attention et compréhension en retour.
 
 Dans ces moments où l'on cherche à être convaincant, bannir les mots comme "peut-être", "esayer", "espérons". 
 
-
 ## Mon retour
 Une proposition claire sur l'attitude à avoir pour faire passer et pour recevoir un message. 
 Des rappels basiques mais pourtant très peu appliqués (si seulement on arrêtait de se couper tous la paroles). 
