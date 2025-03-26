@@ -25,7 +25,7 @@ Répondre aux questions par groupes de rôles identifiés :
 ## Antipattern : mélanger plusieurs niveaux d’abstraction
 Comme pour le code, on évite d’avoir plusieurs niveau d’abstraction. 
 Mélanger différents niveaux crée de la confusion. 
-Donc **1 diagrame = 1 niveau d'abstraction**. 
+Donc **1 diagramme = 1 niveau d'abstraction**. 
 
 Certains types de diagrammes nous obligent à avoir cette réflexion comme les [diagrammes C4](https://c4model.com/) qui proposent 4 niveaux d’abstraction. 
 On va faire plusieurs diagrammes à différents niveaux d’abstraction si nécessaire. 
