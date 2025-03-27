@@ -23,8 +23,6 @@ Citer aussi des sources qui sont en contradiction avec nos thèses.
 
 Être transparent. 
 
-> Being transparent about your motivations, biases, and conflicts of interest […]
-
 Liste de biais ou conflits d’intérêts potentiels à citer : 
 - son emploi
 - des intérêts financiers
