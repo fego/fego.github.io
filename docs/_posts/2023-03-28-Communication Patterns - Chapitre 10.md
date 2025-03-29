@@ -91,3 +91,17 @@ Il est intéressant d’extraire des modèles quand on répète un formalisme, a
 TIPs sur les diagrammes : utiliser des calques pour pouvoir réutiliser des parties dans différentes situation (visiblement [draw.io](http://draw.io) le permet). 
 
 Note : le terme “vue” aurait pu être utilisé à la place de perspective, mais l’autrice trouve que ce terme est trop connoté dans le dev et l’archi. 
+
+Quelques documentations qui sont organisés avec des perspectives, ou une approche s'en approchant (il y en a d'autres dans le livre) : 
+* [4+1 Model](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model)
+* [Diatixis](https://diataxis.fr/) 
+* [TOGAF](https://www.opengroup.org/togaf/series-guides)
+
+## Mon retour
+Un chapitre qui ouvre des perspectives intéressantes pour améliorer une documentation. 
+L'absence ou la réduction de la taille de la hiérarchie de dossiers ressemble beaucoup à ce que j'utilise pour mon _personnal knowledge maganement_. 
+Mais dans mon cas je n'ai que ma perspective. 
+Je suis très curieux d'essayer ça dans mon travail. 
+
+Connexions : 
+* La méthode [zettelkasten](https://fr.wikipedia.org/wiki/Zettelkasten) pour la gestion de la connaissance personnelle
