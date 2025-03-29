@@ -103,5 +103,11 @@ L'absence ou la réduction de la taille de la hiérarchie de dossiers ressemble 
 Mais dans mon cas je n'ai que ma perspective. 
 Je suis très curieux d'essayer ça dans mon travail. 
 
+Et suite à un échange avec un collègue, je trouve que le terme "produit" n'est pas (assez) défini. 
+Est-ce un livrable ? 
+Un ensemble de livrables partageant le même but / (sous) domaine métier ? 
+
+Sur la notion de structure, et même de perspective, quelques exemples plus concrets auraient permis une compréhension plus fine je pense. 
+
 Connexions : 
 * La méthode [zettelkasten](https://fr.wikipedia.org/wiki/Zettelkasten) pour la gestion de la connaissance personnelle
