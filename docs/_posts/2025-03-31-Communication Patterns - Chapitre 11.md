@@ -47,6 +47,9 @@ Penser aussi à utiliser des notations accessibles aux personnes qui devront lir
 Un diagramme UML ou ArchiMate réduit le nombre de personnes capables de le consulter. 
 D’autres standard sont plus simples : [C4](https://c4model.com/), diagrammes de flux, des diagrammes des séquence simplifiés par exemple. 
 
+> A standard such as UML or ArchiMate may end up reducing access. 
+> The number of people with a full understanding or qualification in these standards is small
+
 Privilégier les outils collaboratifs, en temps réel ou asynchrone (Google docs, Miro, etc) pour favoriser l’échange de connaissance. 
 
 ### Just-in-Time Architecture
