@@ -4,7 +4,7 @@ title: Faire un mini outil sur mesure avec un LLM
 date: 2025-04-04 00:00:00 +0100
 categories: article
 ---
-Je vous partage un usage qui me parait intéressant des LLMs. 
+Je vous partage un usage qui me paraît intéressant des LLMs. 
 Cet usage fait écho au terme _vibe coding_ tel qu'utilisé à l'origine par [Andrej Karpathy](https://x.com/karpathy/status/1886192184808149383) et repris par [Simon Willison](https://simonwillison.net/2025/Mar/19/vibe-coding/). 
 Ma compréhension : faire générer du code sans le vérifier, pour des projets "jouets" ou des POCs à jeter. 
 
@@ -12,11 +12,11 @@ Dans mon cas j'avais le besoin suivant.
 Je veux pouvoir avoir un timer qui alterne deux durées, une pour une phase de travail et une pour une phase de pause. 
 Un [pomodoro](https://fr.wikipedia.org/wiki/Technique_Pomodoro). 
 Il existe déjà des outils qui permettent cela. 
-Mais je voulais une fonctionnalité qui n'existe pas sur les outils que j'ai trouvé. 
+Mais je voulais une fonctionnalité qui n'existe pas sur les outils que j'ai trouvés. 
 Je souhaite que le timer se mette en route au chargement de la page et ne s'arrête jamais. 
 Qu'il soit toujours en train d'alterner. 
 En effet, avec un pomodoro classique, j'ai tendance à ne pas le démarrer dès le matin, et parfois il m'arrive de passer une journée sans le mettre en route. 
-Donc je voulais voir si le fait de déclencher automatiquement les phases pouvait m'inciter à plus les respecter. 
+Donc je voulais voir si le fait de déclencher automatiquement les phases pouvait m'inciter à mieux les respecter. 
 
 J'ai donc voulu voir si je pouvais générer un tel outil avec un LLM, sachant que je n'avais pas le courage de le faire moi-même. 
 Je suis parti d'un [prompt de Harper Reed](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/) pour générer ma specification. 
@@ -94,7 +94,7 @@ L'application sera une page HTML unique. JavaScript gérera la logique du timer,
     Fichiers HTML, CSS et JavaScript de l'application.
 ```
 
-En continuant sur les étapes proposées par Harper Reed, je lui ai demandé de générer les prompts qui correspondent aux itétations d'implémentation. 
+En continuant sur les étapes proposées par Harper Reed, je lui ai demandé de générer les prompts qui correspondent aux itérations d'implémentation. 
 Le résultat : 
 
 ```
@@ -237,12 +237,12 @@ Fix any bugs identified during testing and polish the application's appearance a
 ```
 
 J'ai ensuite entré ces prompts tous d'un coup dans Gemini et demandé de les implémenter. 
-Le résultat a été fonctionnel directement. 
-Après quelques demandes d'ajustement, je me suis retrouvé avec un timer fonctionnel qui répond à mes besoins spécifiques. 
+Le résultat a été fonctionnel immédiatement. 
+Après quelques ajustements, je me suis retrouvé avec un timer fonctionnel qui répond à mes besoins spécifiques. 
 Si vous voulez le voir [c'est ici sur mon site](https://davidfranck.eu/timer/). 
 Tout ça en une trentaine de minutes. 
 
 Je l'utilise depuis quelques jours, et ça marche bien. 
 L'objectif initial est rempli. 
 J'applique plus mes phases, je prends bien mes pauses. 
-A voir dans la durée bien entendu. 
+A voir dans la durée, bien entendu. 
