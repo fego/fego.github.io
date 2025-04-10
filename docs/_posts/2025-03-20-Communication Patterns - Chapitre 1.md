@@ -38,3 +38,5 @@ Si on zoom sur l'intérieur d'un composant dans un autre diagramme, on doit pouv
 Soit le type de diagramme propose ces connexions de façon formelle, soit il faut trouver un moyen de faire ces connexions soi-même. 
 
 Il est important de mettre un libellé à ses diagrammes, et les référencer explicitement.
+
+[Notes du prochain chapitre]({% link _posts/2025-03-21-Communication Patterns - Chapitre  2.md %})

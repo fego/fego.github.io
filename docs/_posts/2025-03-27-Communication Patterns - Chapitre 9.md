@@ -70,3 +70,5 @@ Sur le storytelling j'ai trouvé le chapitre trop léger et sans référence.
 
 Connexions : 
 * la [technique d'apprentissage de Feynman](https://web.archive.org/web/20250118145805/https://nesslabs.com/feynman-technique), pour s'assurer que l'on maîtrise un sujet
+
+[Notes du prochain chapitre]({% link _posts/2025-03-28-Communication Patterns - Chapitre 10.md %})

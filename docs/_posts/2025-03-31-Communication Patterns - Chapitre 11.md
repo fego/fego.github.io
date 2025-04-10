@@ -80,3 +80,5 @@ De la documentation obsolète ou fausse est très dommageable :
 Donc il faut la supprimer ou l'archiver. 
 
 > You can combine *just-in-time architecture* with *just-long-enough* architecture: retire documentation and artifacts that have served their purpose and make it obvious that they’re no longer up-to-date. Just-long-enough architecture saves time you would have spent maintaining content that is no longer useful and prevents readers from consuming out-of-date information.
+
+[Notes du prochain chapitre]({% link _posts/2025-04-09-Communication Patterns - Chapitre 12.md %})

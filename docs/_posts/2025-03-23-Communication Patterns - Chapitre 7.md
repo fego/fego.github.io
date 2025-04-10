@@ -66,3 +66,5 @@ Personnellement je produis pas mal de documents, encore plus depuis ma lecture d
 Partager des propositions, des décisions, c'est donner le contexte pour le futur qui permettra à d'autres personnes de comprendre ce qui a amené à prendre une décision. 
 C'est aussi exposer à tous ses raisons, et donc monter son niveau d'exigence car nos raisons doivent être irréprochables. 
 Et c'est aussi s'ouvrir à d'autres perspectives en partageant un document que d'autres pourront lire et critiquer. 
+
+[Notes du prochain chapitre]({% link _posts/2025-03-24-Communication Patterns - Chapitre 8.md %})

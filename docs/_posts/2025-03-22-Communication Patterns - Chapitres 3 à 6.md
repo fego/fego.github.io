@@ -55,3 +55,5 @@ Si ce n'est pas le cas, alors on doit avoir la même taille.
 
 Voici pour les notes sur la première partie concernant la communication visuelle, et donc principalement les diagrammes. 
 Le livre enchaîne sur la communication multimodale, avec un premier chapitre sur la communication écrite. 
+
+[Notes du prochain chapitre]({% link _posts/2025-03-23-Communication Patterns - Chapitre 7.md %})

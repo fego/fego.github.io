@@ -42,3 +42,5 @@ Si c’est inévitable, alors bien marquer l’intersection par un arc.
 Dans un premier temps, alléger autant que possible le diagramme, retirer le texte superflu qui peut être deviné par le contexte. 
 Une information indispensable mais qui alourdit un diagramme doit probablement être déplacée sur le côté (une annotation, ou des notes). 
 Considérer aussi la possibilité de faire un autre diagramme.
+
+[Notes du prochain chapitre]({% link _posts/2025-03-21-Communication Patterns - Chapitre  2.md %})

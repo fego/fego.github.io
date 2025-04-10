@@ -76,3 +76,5 @@ Cela me fait penser à cette citation trouvée dans le livre Learning Systems Th
 > — Joseph Joubert
 
 J'aurais aimé plus d'informations sur les impacts de la diversité, je ne pense pas pouvoir tirer grand choses de ce qui est partagé en l'état, même si ça donne envie d'en savoir plus. 
+
+[Notes du prochain chapitre]({% link _posts/2025-03-27-Communication Patterns - Chapitre 9.md %})

@@ -111,3 +111,5 @@ Sur la notion de structure, et même de perspective, quelques exemples plus conc
 
 Connexions : 
 * La méthode [zettelkasten](https://fr.wikipedia.org/wiki/Zettelkasten) pour la gestion de la connaissance personnelle
+
+[Notes du prochain chapitre]({% link _posts/2025-03-31-Communication Patterns - Chapitre 11.md %})
