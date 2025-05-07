@@ -151,3 +151,4 @@ En français: 
 > Tu dois poser des questions jusqu'à ce que tu aies suffisamment d'informations sur mes messages actuels, mon public et mes objectifs. 
 > Pose-moi la première question.
 
+[Notes du prochain module]({% link _posts/2025-05-07-Coursera-Prompt Engineering For ChatGPT.md %})
