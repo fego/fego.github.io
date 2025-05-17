@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: notes
 title: Communication Patterns - Notes de lecture - Chapitre 9
 date: 2025-03-27 00:00:00 +0100
 categories: notes_de_lecture

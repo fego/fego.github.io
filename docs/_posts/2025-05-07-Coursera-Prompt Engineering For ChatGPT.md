@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: notes
 title: Coursera - Prompt Engineering for ChatGPT - Module 4
 date: 2025-05-07 00:00:00 +0100
 categories: notes_de_lecture
@@ -93,3 +93,6 @@ Structure type :
 > Task : \<tâche dont on souhaite avoir un résultat avec le raisonnement et les actions>
 
 En savoir plus : [lien vers une étude](https://arxiv.org/abs/2210.03629)
+
+_Update du 17/05/2025 : j'ai pris peu de notes sur le reste de la formation. 
+Je vais donc arrêter là mon partage de notes à ce sujet._

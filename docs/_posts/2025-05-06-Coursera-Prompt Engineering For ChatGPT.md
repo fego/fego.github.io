@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: notes
 title: Coursera - Prompt Engineering for ChatGPT - Module 1 à 3
 date: 2025-05-06 00:00:00 +0100
 categories: notes_de_lecture
