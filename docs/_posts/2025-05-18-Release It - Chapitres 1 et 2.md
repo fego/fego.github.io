@@ -14,7 +14,7 @@ C'est l'introduction du livre.
 Souvent on fait des choix de développement de court terme pour juste répondre à une feature plus rapidement, mais en mettant en risque la stabilité et la maintenabilité du système. 
 Cela n’a de sens que si on regarde cela du point de vue limité à une équipe, pour répondre à un besoin à un instant T, limité par un budget. 
 Dans le contexte d’une organisation cela n’a pas de sens, c’est un choix catastrophique. 
-Un système passe beaucoup plus de temps de sa vie en condition opérationnelle et en maintenance, qu’en développement. 
+Un système passe beaucoup plus de temps de sa vie en condition opérationnelle, qu’en développement. 
 C’est un non sens d’éviter un coût unique lors d’un développement. 
 On le paiera avec un coût opérationnel récurrent qui au final sera beaucoup plus élevé. 
 
