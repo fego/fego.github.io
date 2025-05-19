@@ -89,3 +89,5 @@ Des bugs sont inévitables, malgré toutes les revues de code que l’on peut fa
 
 A noter aussi que la priorité numéro 1 quand on est sur un incident c'est remettre en marche le système. 
 On verra ensuite le pourquoi. 
+
+[Notes de le suite du livre]({% link _posts/2025-05-19-Release It - Chapitre 3.md %})
