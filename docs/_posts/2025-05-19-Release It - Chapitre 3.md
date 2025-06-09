@@ -62,3 +62,5 @@ Voici une liste de question qu’il suggère de se poser :
 Il y a deux camps sur la façon de traiter les défauts. 
 Un camp qui pense qu’il faut avoir un système tolérant à la panne, un autre qui pense qu’il y aura toujours des erreurs et qu’il faut laisser le système se vautrer de façon à repartir d’un état stable. 
 Mais les deux camps sont en accord sur le fait que des défauts surviendront toujours, et qu’il faut éviter qu’ils deviennent des erreurs. 
+
+[Notes de le suite du livre]({% link _posts/2025-05-20-Release It - Chapitre 4.md %})

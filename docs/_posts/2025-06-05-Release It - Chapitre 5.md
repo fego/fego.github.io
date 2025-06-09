@@ -5,7 +5,7 @@ date: 2025-06-05 00:00:00 +0100
 categories: notes_de_lecture
 ---
 Je continue la lecture du livre [Release It!](https://pragprog.com/titles/mnee2/release-it-second-edition/) de Michael Nygard. 
-Voici mes notes sur le chapitre 4, _Stability Patterns_. 
+Voici mes notes sur le chapitre 5, _Stability Patterns_. 
 
 ## Timeouts  
 Placer des timeouts aux points d'intégration avec les autres systèmes est indispensable. 
