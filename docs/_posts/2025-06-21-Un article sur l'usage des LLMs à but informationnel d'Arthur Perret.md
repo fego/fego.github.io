@@ -53,7 +53,7 @@ Donc se servir des LLMs dans un cadre informationnel devrait à minima se faire 
 > L’ensemble des réflexions présentées dans cet article peuvent justifier le choix du non-usage des programmes basés sur des LLM pour répondre à des besoins d’information. Idéalement, ce choix devrait intervenir de manière libre et éclairé au terme d’actions relevant de l’éducation aux médias et à l’information (EMI), dans une perspective d’autonomisation des individus
 
 Le caractère d'un média (son impact sur notre vie, comme par exemple la télé qui nous rend passifs, nous influence sur notre rythme de vie, etc.) nous influence plus que son contenu (McLuhan). 
-Un LLM n'est âs un média d'information, mais de communication discurive. 
+Un LLM n'est pas un média d'information, mais de communication discurive. 
 Il y a une illusion de contenu fiable (notamment à cause de la crédibilité du ton). 
 Il pousse à des usages informationnels inadaptés. 
 
