@@ -39,9 +39,10 @@ Il cite Benedict Evans (avec sa traduction) :
 > Dire que les modèles s’améliorent sans cesse […] est hors sujet. Si le modèle d’aujourd’hui génère un tableau correct à 85% et que la prochaine version atteindra 85,5 ou 91%, cela ne m’aide pas. Peu importe combien d’erreurs il y a dans le tableau – s’il y en a, je ne peux pas m’y fier
 
 Les LLMs utilisent le même procédé pour dire quelque chose de vrai ou de faux. 
-J'ai bien aimé sur ce point aussi ce que dit Benoît Raphaël dans sa formation : "ils hallucinent en permanence". 
 Arthur Perret reprend le terme de _bullshit_, proposé par Hicks, Humphries et Sater. 
-Je me souviens de [cette vidéo](https://www.youtube.com/watch?v=R2fjRbc9Sa0&pp=ygUVbW9uc2lldXIgcGhpIGJ1bGxzaGl0) de Monsieur Phi qui utilisait déjà ce terme. 
+Ce terme parait plus juste car l'idée d'hallucination est trompeuse, faisant croire à une erreur accidentelle. 
+Benoît Raphaël dit à ce sujet dans sa formation qu'ils hallucinent en permanence. 
+Je me souviens aussi de [cette vidéo](https://www.youtube.com/watch?v=R2fjRbc9Sa0&pp=ygUVbW9uc2lldXIgcGhpIGJ1bGxzaGl0) de Monsieur Phi qui utilisait déjà ce terme. 
 
 > Les « bullshitters » ne se préoccupent pas de savoir si ce qu’ils disent est vrai ou faux ; ce qui compte, ce sont les effets que leurs énoncés produisent
 
@@ -51,6 +52,9 @@ Donc se servir des LLMs dans un cadre informationnel devrait à minima se faire 
 
 > L’ensemble des réflexions présentées dans cet article peuvent justifier le choix du non-usage des programmes basés sur des LLM pour répondre à des besoins d’information. Idéalement, ce choix devrait intervenir de manière libre et éclairé au terme d’actions relevant de l’éducation aux médias et à l’information (EMI), dans une perspective d’autonomisation des individus
 
-Autres points que j'ai trouvés intéressants : 
-* Les LLMs raccourcissent plus qu'ils ne résument. 
-* Le caractère d'un média (son impact sur notre vie, comme par exemple la télé qui nous rend passifs, nous influence sur notre rythme de vie, etc.) nous influence plus que son contenu (McLuhan).
+Le caractère d'un média (son impact sur notre vie, comme par exemple la télé qui nous rend passifs, nous influence sur notre rythme de vie, etc.) nous influence plus que son contenu (McLuhan). 
+Un LLM n'est âs un média d'information, mais de communication discurive. 
+Il y a une illusion de contenu fiable (notamment à cause de la crédibilité du ton). 
+Il pousse à des usages informationnels inadaptés. 
+
+> Ce faisant, on n’examine pas la nature de ChatGPT en tant que média, son caractère ; or c’est bien ce dernier (nous dit McLuhan) qui influence le plus nos activités, et qui peut affecter durablement l’évolution de nos sociétés. Ce qui caractérise ChatGPT, nous l’avons vu, c’est que la relation entre les discours et les faits échappent à sa définition du sens. Peu importe qu’on réduise son taux d’erreurs : le problème est qu’il s’exprime sous un régime de vérité bien particulier, qui traite les faits sous l’angle communicationnel plutôt qu’informationnel.
