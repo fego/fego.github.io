@@ -48,13 +48,13 @@ Je me souviens aussi de [cette vidéo](https://www.youtube.com/watch?v=R2fjRbc9S
 
 Ce qui est généré est vraisemblable, mais pas forcément vrai. 
 
-Donc se servir des LLMs dans un cadre informationnel devrait à minima se faire en étant informé de tous ces risques. 
-
-> L’ensemble des réflexions présentées dans cet article peuvent justifier le choix du non-usage des programmes basés sur des LLM pour répondre à des besoins d’information. Idéalement, ce choix devrait intervenir de manière libre et éclairé au terme d’actions relevant de l’éducation aux médias et à l’information (EMI), dans une perspective d’autonomisation des individus
-
 Le caractère d'un média (son impact sur notre vie, comme par exemple la télé qui nous rend passifs, nous influence sur notre rythme de vie, etc.) nous influence plus que son contenu (McLuhan). 
 Un LLM n'est pas un média d'information, mais de communication discurive. 
 Il y a une illusion de contenu fiable (notamment à cause de la crédibilité du ton). 
 Il pousse à des usages informationnels inadaptés. 
 
 > Ce faisant, on n’examine pas la nature de ChatGPT en tant que média, son caractère ; or c’est bien ce dernier (nous dit McLuhan) qui influence le plus nos activités, et qui peut affecter durablement l’évolution de nos sociétés. Ce qui caractérise ChatGPT, nous l’avons vu, c’est que la relation entre les discours et les faits échappent à sa définition du sens. Peu importe qu’on réduise son taux d’erreurs : le problème est qu’il s’exprime sous un régime de vérité bien particulier, qui traite les faits sous l’angle communicationnel plutôt qu’informationnel.
+
+Donc se servir des LLMs dans un cadre informationnel devrait à minima se faire en étant informé de tous ces risques. 
+
+> L’ensemble des réflexions présentées dans cet article peuvent justifier le choix du non-usage des programmes basés sur des LLM pour répondre à des besoins d’information. Idéalement, ce choix devrait intervenir de manière libre et éclairé au terme d’actions relevant de l’éducation aux médias et à l’information (EMI), dans une perspective d’autonomisation des individus
