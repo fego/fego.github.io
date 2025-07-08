@@ -4,7 +4,7 @@ title: Tiny Experiments - Anne Laure Le Cunff - Partie 1
 date: 2025-07-07 00:00:00 +0100
 categories: notes_de_lecture
 ---
-J'ai commencé le livre _Tiny Experiments_ d'Anne-Laure Le Cunff. 
+J'ai commencé le livre _[Tiny Experiments](https://nesslabs.com/book)_ d'Anne-Laure Le Cunff. 
 Une lecture qui m'enthousiasme particuièrement. 
 Je suis ses écrits sur son site [nesslabs](https://nesslabs.com/) depuis quelques années avec grand intérêt.  
 Voici une partie de mes notes sur la première partie. 
