@@ -6,7 +6,6 @@ categories: notes_de_lecture
 ---
 J'ai commencé le livre _[Tiny Experiments](https://nesslabs.com/book)_ d'Anne-Laure Le Cunff. 
 Une lecture qui m'enthousiasme particuièrement. 
-Je suis ses écrits sur son site [nesslabs](https://nesslabs.com/) depuis quelques années avec grand intérêt.  
 Voici une partie de mes notes sur la première partie. 
 
 Les objectifs que nous nous donnons en général sont linéaires, ils nous embarquent (et contraignent) sur un chemin tracé. 
