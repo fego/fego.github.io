@@ -12,13 +12,13 @@ Voici une partie de mes notes sur la première partie.
 Les objectifs que nous nous donnons en général sont linéaires, ils nous embarquent (et contraignent) sur un chemin tracé. 
 Ils peuvent avoir un intérêt dans un environnement contrôlé, mesurable et prédictible (comme au travail).  
 Mais une vie n'a pas ces caractéristiques. 
-On se retrouve donc avec de la peur de ne pas y arriver, trop de choix pour y arriver. 
+On se retrouve donc avec trop de choix pour y arriver, et la peur de l'échec. 
 Cela nous pousse aussi à une productivité toxique. 
 On se fait violence pour arriver à l'objectif. 
 On s'occupe et on s'écoute moins. 
 On est en compétition, on s'isole, on est dans la comparaison. 
 
-> We are taught to perform, in both meanings of the word: to achieve specific targets whether in school or at work, but also to present ourselves in a way that conforms with societal expectations."
+> We are taught to perform, in both meanings of the word: to achieve specific targets whether in school or at work, but also to present ourselves in a way that conforms with societal expectations.
 
 Et nos objectifs sont-ils vraiment les nôtres, où ceux des autres ? 
 
@@ -38,12 +38,12 @@ Cela nous pousse à différentes réactions, selon les personnalités :
 Ces réactions tentent de nous protéger du stress. 
 Mais la bonne réaction est d'avoir un esprit d'expérimentation. 
 
-Mais ce n'est pas naturel d'avoir d'être dans un tel état d'esprit. 
-Dans beaucoup de situation nous agissons en suivant des scripts référence, selon la _Cognitive Script Theory_. 
-Un script nous rassure, on sait à peu près ce que l'on va faire, et le résultat que l'on va obtenir. 
+Mais ce n'est pas naturel d'être dans un tel état d'esprit. 
+Dans beaucoup de situation nous agissons en suivant des scripts référence, selon la _[Cognitive Script Theory](https://nesslabs.com/cognitive-scripts)_. 
 C'est un peu comme suivre des instructions programmées. 
+Un script nous rassure, on sait à peu près ce que l'on va faire, et le résultat que l'on va obtenir. 
 Mais d'un autre côté cela nous enferme. 
-Et peut-être nous éloigne de ce qui nous parle vraiment. 
+Et peut nous éloigner de ce qui nous parle vraiment. 
 
 3 catégories de script : 
 * _sequel script_ : on suit notre passé, on fait ce que l'on a toujours fait
