@@ -108,3 +108,5 @@ C'est à chacun de trouver son rituel.
 
 > Physically, they guide you to pause and recalibrate your energy levels.
 > Cognitively, they interrupt your autopilot mode, allowing you to recenter your focus and approach tasks with renewed clarity.
+
+[Notes de le suite du livre]({% link _posts/2025-07-29-Tiny Experiments - Anne Laure Le Cunff - Suite et fin.md %})
