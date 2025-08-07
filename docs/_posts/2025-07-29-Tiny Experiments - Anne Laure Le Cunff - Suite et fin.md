@@ -70,5 +70,6 @@ On évite de dévier vers les besoins des autres.
 ## Conclusion
 Un livre riche, dont je vous ai partagé quelques éléments qui m'ont particulièrement marqué. 
 Un livre que j'ai trouvé agréable à lire, accessible pour mon anglais moyen. 
+Attendez vous à un style et niveau d'anglais proche de livres comme _[Atomic Habits](https://jamesclear.com/atomic-habits)_ ou _Deep Work_ et _[Slow Productivity](https://calnewport.com/slow/)_ de Cal Newport. 
 Une traduction en français devrait arriver tôt ou tard, car l'autrice a partagé dans sa dernière [newsletter](https://nesslabs.com/newsletter) avoir travaillé dessus récemment. 
 Ce livre laissera certainement une trace dans mes pratiques. 
