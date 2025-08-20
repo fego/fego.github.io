@@ -9,7 +9,7 @@ En ces temps troublés et un peu anxiogènes (changement climatique, guerres, et
 Essayer d'être un meilleur citoyen, et moins un consommateur. 
 Pour m'aider dans cette démarche, je creuse différentes sources sur l'esprit critique.  
 On m'a recommandé les conférences de Gérald Bronner à la Sorbonne qu'il a organisé dans le cadre d'une université populaire. 
-Et si sur la page [Wikipedia](https://fr.wikipedia.org/wiki/G%C3%A9rald_Bronner) on trouve des contreverses sur le personnage, globalement je ne vois pas de red flag. 
+Et si sur la page [Wikipedia](https://fr.wikipedia.org/wiki/G%C3%A9rald_Bronner) on trouve des controverses sur le personnage, globalement je ne vois pas de red flag. 
 Le visionnage des deux premiers volets de ce cycle m'a conforté dans mon choix. 
 C'est très intéressant, et en plus très bien expliqué. 
 
@@ -37,7 +37,7 @@ Qui peuvent être très agressifs.
 Il a noté que la vitesse de diffusion d’une fake news avait nettement accélérée ces derniers temps. 
 Pour la mort de Kennedy, il a fallu 27 jours avant de voir la première théorie du complot apparaître. 
 Idem pour le 11 septembre 2001. 
-Pour les attentats de Charlie Hebdo, en 2015, il n’ a fallu que quelques heures.
+Pour les attentats de Charlie Hebdo, en 2015, il n’a fallu que quelques heures.
 
 Il ne faut pas sous estimer la puissance argumentaire des théories complotistes. 
 Si on n’est pas préparé, on peut se faire démonter. 
@@ -46,12 +46,12 @@ C’est une certaine forme d’intimidation intellectuelle.
 Les personnes modérées et/ou moins préparées n’osent pas forcément intervenir. 
 Cela laisse la place à ces personnes, qui sont souvent très motivées (auparavant certaines d'entre elles s'estimaient être censurées, maintenant rien ne les arrête).
 Et il y a la [loi de Brandolini](https://fr.wikipedia.org/wiki/Loi_de_Brandolini) : 
-il faut beaucoup moins de temps pour répendre une information fausse qu’il ne faut pour rétablir la vérité, la défaire. 
-Réfuter, c’est couteux. 
+il faut beaucoup moins de temps pour répandre une information fausse qu’il ne faut pour rétablir la vérité, la défaire. 
+Réfuter, c’est coûteux. 
 Le faux se diffuse mieux.
 
 ## Que pouvons nous faire aujourd’hui ?
-Pour lui, c’est au niveau individuel uniquement qu’il reste une marge de manoeuvre (arf). 
+Pour lui, c’est au niveau individuel uniquement qu’il reste une marge de manœuvre (arf). 
 1. On ne partage pas de la désinformation.
 2. Ce qui prédit le plus la crédulité c’est la paresse intellectuelle (ou avarice cognitive). 
 On ne cherche pas l’optimalité, on se contente du vraisemblable. 
@@ -91,7 +91,7 @@ Nous sommes souvent comme la dinde.
 Incapables d'anticiper des changements brutaux ou exponentiels. 
 * Limites culturelles (cadre interprétatif dû à notre milieu social, notre environnement culturel, etc)
 * Les limites cognitives (nos biais cognitifs). 
-L'exemple du [problème de Monty Hall](https://fr.wikipedia.org/wiki/Probl%C3%A8me_de_Monty_Hall) est assez fou, je vous invite a allez le voir, le cerveau résiste fort à le croire (en tout cas chez moi).
+L'exemple du [problème de Monty Hall](https://fr.wikipedia.org/wiki/Probl%C3%A8me_de_Monty_Hall) est assez fou, je vous invite a aller le voir, le cerveau résiste fort à le croire (en tout cas chez moi).
 
 ## Les conséquences des limites de la rationalité humaine
 Elles expliquent la montée de la défiance envers les institutions et la science.
