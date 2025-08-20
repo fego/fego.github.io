@@ -5,7 +5,7 @@ date: 2025-08-20 00:00:00 +0100
 categories: notes_de_lecture
 ---
 
-En ces temps troublés et un peu anxiogène (changement climatique, guerres, etc), il me semble important de bien savoir s'informer, discuter. 
+En ces temps troublés et un peu anxiogènes (changement climatique, guerres, etc), il me semble important de bien savoir s'informer, discuter. 
 Essayer d'être un meilleur citoyen, et moins un consommateur. 
 Pour m'aider dans cette démarche, je creuse différentes sources sur l'esprit critique.  
 On m'a recommandé les conférences de Gérald Bronner à la Sorbonne qu'il a organisé dans le cadre d'une université populaire. 
