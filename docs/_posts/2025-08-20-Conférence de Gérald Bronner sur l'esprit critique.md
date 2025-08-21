@@ -21,7 +21,10 @@ Voici donc mes notes des deux premières conférences.
 ## Le problème : le risque de désinformation
 Le danger de croyance. 
 A court terme, ce point est remonté par un panel de 1500 experts comme étant le plus grand danger qui pèse sur l’humanité. 
-Plus que le réchauffement climatique. 
+Plus que le réchauffement climatique ([Source : Global Risk Forum](https://www3.weforum.org/docs/WEF_The_Global_Risks_Report_2024.pdf)). 
+
+![Global risks classés par sévérité à court terme et mpyen terme]({{ site.url }}/assets/images/global_risk_forum.png)
+
 A l’origine de ce problème : le volume d’information, l’infobésité. 
 Plus il y a d’informations
 * plus il y a de pression concurrentielle sur le marché des idées, 
