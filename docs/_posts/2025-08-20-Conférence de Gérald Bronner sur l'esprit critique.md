@@ -116,3 +116,6 @@ Si ces notes vous ont intéressé, on se retrouve bientôt pour la suite.
 J'apprécie aussi sur le sujet : 
 * La chaîne [Hygiène Mentale](https://www.youtube.com/@HygieneMentale/videos). Le contenu est de très grande qualité, le ton très pédagogique. 
 * Le livre The Scout Mindset de Julia Galef dont j'ai déjà parlé [ici]({% link _posts/2023-02-04-Fiche de lecture The Scout Mindset de Julia Galef.md %}). 
+
+Editions : 
+* 21/08/25 : ajout de la source du Global Risk Forum
