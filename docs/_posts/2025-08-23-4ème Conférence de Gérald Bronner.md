@@ -1,7 +1,7 @@
 ---
 layout: notes
-title: Conférence de Gérald Bronner - Développer son esprit critique face à la désinformation (3)
-date: 2025-08-20 00:00:00 +0100
+title: Conférence de Gérald Bronner - Développer son esprit critique face à la désinformation (4)
+date: 2025-08-23 00:00:00 +0100
 categories: notes_de_lecture
 ---
 

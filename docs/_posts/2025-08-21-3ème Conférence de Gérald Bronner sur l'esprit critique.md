@@ -1,7 +1,7 @@
 ---
 layout: notes
 title: Conférence de Gérald Bronner - Développer son esprit critique face à la désinformation (3)
-date: 2025-08-20 00:00:00 +0100
+date: 2025-08-21 00:00:00 +0100
 categories: notes_de_lecture
 ---
 Notes de la [troisième conférence de Gérald Bronner à la Sorbonne](https://www.youtube.com/watch?v=Nrs5FCTQRhQ). 
