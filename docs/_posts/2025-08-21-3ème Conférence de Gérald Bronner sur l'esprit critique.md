@@ -6,8 +6,8 @@ categories: notes_de_lecture
 ---
 Notes de la [troisième conférence de Gérald Bronner à la Sorbonne](https://www.youtube.com/watch?v=Nrs5FCTQRhQ). 
 
-Une faille dans notre rationnalité est notre propension à contaminer nos croyances par nos désirs. 
-Ou comment nos désirs, nos motivations, peuvent influencer nos croyances. 
+Une faille dans notre rationalité est notre propension à contaminer nos croyances par nos désirs. 
+Ou comment nos désirs, nos motivations, peuvent influencer nos croyances. V
 
 Il décrit différents biais qui agissent dans ce sens. 
 
