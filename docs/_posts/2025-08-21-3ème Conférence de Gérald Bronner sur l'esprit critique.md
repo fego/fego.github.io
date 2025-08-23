@@ -20,7 +20,7 @@ Au bout d'un certain temps les employés sont interrogés pour connaître leur o
 30% de celles et ceux qui boivent beaucoup de café y croient, contre 90% de ceux qui n'en boivent qu'une tasse ou moins par jour. 
 
 Et même quand on présente une contradiction à notre croyance, nous pouvons résister. 
-Il fait référence aux travaux de Festinger sur la disonnance cognitive et décrit l'expérience racontée dans le livre [l'échec d'une prophétie](https://fr.wikipedia.org/wiki/L%27%C3%89chec_d%27une_proph%C3%A9tie). 
+Il fait référence aux travaux de Festinger sur la dissonnance cognitive et décrit l'expérience racontée dans le livre [l'échec d'une prophétie](https://fr.wikipedia.org/wiki/L%27%C3%89chec_d%27une_proph%C3%A9tie). 
 Une gourou fait croire à ses adeptes que la fin du monde approche. 
 Mais heureusement des extra-terrestres vont les sauver. 
 Le jour J rien ne se passe. 
