@@ -9,11 +9,8 @@ _J'écris cet article en partie sur mon temps de CFI, au sujet d'un livre achet�
 _Temps de lecture : environ 10 min_
 
 La centrale nucléaire de Monju au Japon n'a jamais produit un seul watt d'électricité. 
-Le projet a duré 60 ans, coûté 15 milliards.  
-Nous avons tous entendu parler de ces projets coûteux, en retard, que ce soit par notre entourage ou dans les médias. 
-Dans l'informatique c'est particulièrement fréquent. 
-Scribe / XPN pour la police nationale, Louvois pour la paie des militaires. 
-La liste est longue, dans tous les domaines.  
+Soixante ans de travaux, quinze milliards dépensés, pour rien. 
+Ce fiasco n'est pas isolé : Scribe pour la police nationale, Louvois pour la paie des militaires, et des dizaines d'autres projets informatiques ou industriels racontent la même histoire.
 Le livre _[How Big Things Get Done](https://www.librairies-alip.fr/livre/9781035018932-how-big-things-get-done-the-surprising-factors-behind-every-successful-project-from-home-bent-flyvbjerg-dan-gardner/)_ de Bent Flyvbjerg et Dan Gardner analyse ces échecs, leurs causes et propose des solutions pour éviter ce qui semble inéluctable.  
 Le titre du livre pourrait laisser penser que les auteurs s'adressent uniquement aux responsables de très gros projets (industriels, gouvernementaux). 
 Ce n'est pas le cas, il s'adresse à toute personne confrontée à des problèmes complexes. 
