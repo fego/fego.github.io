@@ -41,17 +41,19 @@ Les problèmes détectés à ce stade ont un impact limité.
 En revanche, plus un projet va durer longtemps dans sa phase de réalisation, plus les risques de complications augmentent. 
 Par exemple une construction d'un bâtiment qui s'étire dans le temps. 
 Ou un logiciel qui est construit dans un long cycle en V. 
-De nombreux événements peuvent survenir : un choc externe comme le Covid, ou un incident direct comme une fuite lors du percement d'un tunnel. Même une accumulation de petits incidents peut faire dérailler un projet. Les auteurs citent un proverbe médiéval pour illustrer cette fragilité :
+De nombreux événements peuvent survenir : un choc externe comme le Covid, ou un incident direct comme une fuite lors du percement d'un tunnel. 
+Même une accumulation de petits incidents peut faire dérailler un projet. 
+Les auteurs citent un proverbe médiéval pour illustrer cette fragilité :
 
 > _For want of a nail, the shoe was lost. For want of a shoe, the horse was lost. For want of a horse, the rider was lost. For want of a rider, the battle was lost. For want of a battle, the kingdom was lost._
 
-Il faut donc réduire au maximum la durée de la phase de livraison — et pour cela éviter de s'y lancer prématurément. 
+Il faut donc réduire au maximum la durée de la phase de livraison, et pour cela éviter de s'y lancer prématurément. 
 Hélas, la précipitation est fréquente, comme un besoin irrépressible de passer au concret. 
 Pourquoi ? 
 Le livre détaille différentes raisons psychologiques ou politiques. 
 Le biais d'optimisme par exemple. 
 Ou alors notre tendance à foncer sur la première solution qui nous semble acceptable.  
-Agir rapidement permet aussi de dissimuler les difficultés prévisibles — une pratique courante pour remporter des contrats.
+Agir rapidement permet aussi de dissimuler les difficultés prévisibles, une pratique courante pour remporter des contrats.
 Et une fois les problèmes apparus, il est trop tard pour faire marche arrière.  
 Au démarrage, tout le monde est satisfait. 
 Mais très vite les désillusions arrivent : on bascule dans le mode "casse / répare" où chacun court dans tous les sens. 
@@ -109,7 +111,7 @@ Pour illustrer l'impact, les auteurs donnent l'exemple du terminal T5 à l'aéro
 La deadline était fixée. 
 Si le projet avait suivi les performances moyennes du secteur, il aurait dépassé les délais — ce qui aurait pu couler l'entreprise mandatée.
 Tout a été bien fait en amont. 
-L'équipe a innové en décidant de préparer tous les éléments hors site avant assemblage — une approche révolutionnaire à l'époque, devenue depuis la norme. Elle a évité les conflits entre prestataires en alignant leurs intérêts : des bonus en cas de réussite.
+L'équipe a innové en décidant de préparer tous les éléments hors site avant assemblage, une approche révolutionnaire à l'époque, devenue depuis la norme. Elle a évité les conflits entre prestataires en alignant leurs intérêts : des bonus en cas de réussite.
 Les prestataires ont moins rivalisé, plus coopéré. 
 L'entreprise a privilégié les partenaires avec lesquels elle avait déjà travaillé et qui délivraient la meilleure qualité, même s'ils n'étaient pas les moins chers.  
 Un esprit d'équipe global a été instauré. 
@@ -119,7 +121,7 @@ Une culture a été créée, rendant fiers les travailleurs, des bureaux au chan
 Mais rien n'est pire qu'un discours contredit par les actes. 
 Tout a donc été fait en cohérence : conditions de travail excellentes, équipements de qualité, sécurité physique au plus haut niveau, écoute du personnel. 
 Une sécurité psychologique permettait à chacun de s'exprimer. 
-Les gens étaient fiers d'y travailler — certains gardaient même leurs vêtements de chantier pour sortir le soir.
+Les gens étaient fiers d'y travailler, certains gardaient même leurs vêtements de chantier pour sortir le soir.
 Et cela a porté ses fruits : quand des milliers de personnes donnent leur meilleur car ils sont bien, l'impact sur la performance est massif. 
 Cela a coûté beaucoup d'argent. 
 Mais c'était un investissement indispensable pour l'entreprise pour espérer finir dans les délais et les coûts.  
@@ -148,7 +150,7 @@ Face à l'urgence, les échecs massifs ne sont plus tolérables.
 La modularisation devient une nécessité.
 J'ajoute à ce sujet qu'en développement logiciel, la modularisation est un sujet complexe. 
 Vouloir modulariser ne suffist pas : il faut savoir quand et comment. 
-Sans cette maîtrise, on se retrouve avec des « monolithes distribués » — des modules fortement interdépendants, peu autonomes.
+Sans cette maîtrise, on se retrouve avec des « monolithes distribués », des modules fortement interdépendants, peu autonomes.
 
 # Conclusion
 Voilà pour ce tour d'horizon. 
