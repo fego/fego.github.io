@@ -18,7 +18,7 @@ Le livre _[How Big Things Get Done](https://www.librairies-alip.fr/livre/9781035
 Le titre du livre pourrait laisser penser que les auteurs s'adressent uniquement aux responsables de très gros projets (industriels, gouvernementaux). 
 Ce n'est pas le cas, il s'adresse à toute personne confrontée à des problèmes complexes. 
 Et donc cela englobe aussi les particuliers qui mènent des projets comme une rénovation intérieure (il prend l'exemple d'une rénovation de cuisine). 
-Cette approche large laisse de côté certaines spécificités sectorielles, mais elle rend l'ouvrage accessible à un public étendu, tout en abordant des sujets substantiels.
+Cette approche large laisse de côté certaines spécificités des grands projets, mais elle rend l'ouvrage accessible à un public plus large, tout en abordant des sujets importants.
 Je vous partage quelques idées qui m'ont marqué. 
 
 ![Centrale de Monju]({{ site.url }}/assets/images/monju.jpg)  
