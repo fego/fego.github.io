@@ -150,7 +150,7 @@ Vouloir modulariser ne suffist pas : il faut savoir quand et comment.
 Sans cette maîtrise, on se retrouve avec des « monolithes distribués », des modules fortement interdépendants, peu autonomes. 
 
 # Conclusion
-Pourquoi le projet de Monju, la centrale nucléaire qui n'a jamais produit d'électricité a échoué ? 
+Pourquoi le projet de Monju, la centrale nucléaire qui n'a jamais produit d'électricité, a échoué ? 
 C'était un projet pharaonique. 
 Un énorme tout, non modulaire. 
 Il était donc très compliquer d'expérimenter. 
