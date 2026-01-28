@@ -146,7 +146,7 @@ Pour les auteurs, transformer nos méthodes pourrait avoir un impact considérab
 Face à l'urgence, les échecs massifs ne sont plus tolérables. 
 La modularisation devient une nécessité.
 J'ajoute à ce sujet qu'en développement logiciel, la modularisation est un sujet complexe. 
-Vouloir modulariser ne suffist pas : il faut savoir quand et comment. 
+Vouloir modulariser ne suffit pas : il faut savoir quand et comment. 
 Sans cette maîtrise, on se retrouve avec des « monolithes distribués », des modules fortement interdépendants, peu autonomes. 
 
 # Conclusion
