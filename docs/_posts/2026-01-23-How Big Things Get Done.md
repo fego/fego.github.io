@@ -153,7 +153,7 @@ Sans cette maîtrise, on se retrouve avec des « monolithes distribués », des 
 Pourquoi le projet de Monju, la centrale nucléaire qui n'a jamais produit d'électricité, a échoué ? 
 C'était un projet pharaonique. 
 Un énorme tout, non modulaire. 
-Il était donc très compliquer d'expérimenter. 
+Il était donc très compliqué d'expérimenter. 
 Tout était fait pendant la phase de livraison. 
 La phase la plus risquée. 
 Et une multitude de problèmes se sont enchaînés. 
