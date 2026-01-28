@@ -161,8 +161,8 @@ Monju s'est retrouvé exposé à des événements imprévisibles majeurs.
 Le coup de grâce fut la catastrophe de Fukushima en 2011. 
 Cet événement a retourné l'opinion publique japonaise contre le nucléaire au moment même où le gouvernement envisageait de dépenser 6 milliards de dollars supplémentaires pour redémarrer Monju. 
 
-Voilà pour ce tour d'horizon. 
-Le livre est bien sûr plus riche que ces quelques éléments. 
+Vous voulez des clés pour éviter votre moment Monju ? 
+Lisez ce livre. 
 Il est facile à lire, et les concepts sont illustrés par de nombreux exemples de réussites et d'échecs. 
 De nombreux domaines peuvent bénéficier des conseils. 
 Je vous recommande sa lecture (j'ai découvert ce livre grâce à la [recommandation d'Alistair Cockbburn](https://www.linkedin.com/posts/alistaircockburn_this-is-a-great-book-if-you-think-you-know-activity-7406051055580672000-TMnZ/)). 
