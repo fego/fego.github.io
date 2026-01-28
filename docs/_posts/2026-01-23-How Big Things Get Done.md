@@ -147,9 +147,20 @@ Face à l'urgence, les échecs massifs ne sont plus tolérables.
 La modularisation devient une nécessité.
 J'ajoute à ce sujet qu'en développement logiciel, la modularisation est un sujet complexe. 
 Vouloir modulariser ne suffist pas : il faut savoir quand et comment. 
-Sans cette maîtrise, on se retrouve avec des « monolithes distribués », des modules fortement interdépendants, peu autonomes.
+Sans cette maîtrise, on se retrouve avec des « monolithes distribués », des modules fortement interdépendants, peu autonomes. 
 
 # Conclusion
+Pourquoi le projet de Monju, la centrale nucléaire qui n'a jamais produit d'électricité a échoué ? 
+C'était un projet pharaonique. 
+Un énorme tout, non modulaire. 
+Il était donc très compliquer d'expérimenter. 
+Tout était fait pendant la phase de livraison. 
+La phase la plus risquée. 
+Et une multitude de problèmes se sont enchaînés. 
+Monju s'est retrouvé exposé à des événements imprévisibles majeurs. 
+Le coup de grâce fut la catastrophe de Fukushima en 2011. 
+Cet événement a retourné l'opinion publique japonaise contre le nucléaire au moment même où le gouvernement envisageait de dépenser 6 milliards de dollars supplémentaires pour redémarrer Monju. 
+
 Voilà pour ce tour d'horizon. 
 Le livre est bien sûr plus riche que ces quelques éléments. 
 Il est facile à lire, et les concepts sont illustrés par de nombreux exemples de réussites et d'échecs. 
