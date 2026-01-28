@@ -154,8 +154,7 @@ Pourquoi le projet de Monju, la centrale nucléaire qui n'a jamais produit d'él
 C'était un projet pharaonique. 
 Un énorme tout, non modulaire. 
 Il était donc très compliqué d'expérimenter. 
-Tout était fait pendant la phase de livraison. 
-La phase la plus risquée. 
+La phase de livraison s'est éternisée. 
 Et une multitude de problèmes se sont enchaînés. 
 Monju s'est retrouvé exposé à des événements imprévisibles majeurs. 
 Le coup de grâce fut la catastrophe de Fukushima en 2011. 
