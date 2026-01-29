@@ -56,7 +56,7 @@ Au démarrage, tout le monde est satisfait.
 Mais très vite les désillusions arrivent : on bascule dans le mode "casse / répare" où chacun court dans tous les sens. 
 
 # Penser lentement, agir vite
-Ce que nous faisons habituellement se résumé à _Think Fast, Act Slow_. 
+Ce que nous faisons habituellement se résume à _Think Fast, Act Slow_. 
 L'exacte l'inverse de ce qu'il faut faire. 
 Un projet complexe ne se résout pas dans la précipitation. 
 Il faut prendre le temps de la planification, pour réduire les risques et la fenêtre d'exécution. 
@@ -66,7 +66,7 @@ Une bonne phase de réflexion implique exploration, imagination, analyses, tests
 # Commencer par la finalité
 Pour commencer, il faut définir le "pourquoi". 
 Cadrer le besoin. 
-Trop souvent, le but paraît évident, donnée d'avance. 
+Trop souvent, le but paraît évident, donné d'avance. 
 Il n'est pas remis en question. 
 Or il devrait l'être, par curiosité, ouverture d'esprit, volonté d'approfondir. 
 Il y a toujours des choses que l'on ne sait pas. 
@@ -85,7 +85,7 @@ Résultat : elles ne servent pas.
 Et plus la fonctionnalité est importante, plus les risques sont élevés.
 
 # Itérer
-Une fois le "pourquoi" clarifié, on prend le temps d'élaborer (préparer mûrement, par un lent travail de l'esprit.). 
+Une fois le "pourquoi" clarifié, on prend le temps d'élaborer (préparer mûrement, par un lent travail de l'esprit). 
 Dans le cadre d'une startup, par exemple, on itère à la recherche du produit qui trouvera sa cible. 
 On apprend avant de passer à l'échelle. 
 Chez Pixar le processus passe par plusieurs étapes. 
@@ -97,10 +97,10 @@ Chaque domaine adapte cette phase de réflexion à ses spécificités, mais la f
 
 # Les bonnes personnes, la bonne équipe
 L'équipe constitue un autre facteur déterminant. 
-C'est même le seul critère qui a été mentionné par tous les chefs de projet que les auteurs ont interviewé. 
+C'est même le seul critère qui a été mentionné par tous les chefs de projet que les auteurs ont interviewés. 
 Si cela est possible, on engage une équipe déjà constituée et ayant fait ses preuves. 
 Par exemple un architecte avec tous ses collaborateurs. 
-Anticipez ce besoin au plus tôt. 
+Il faut anticiper ce besoin au plus tôt. 
 Si ce n'est pas possible, alors il faut la créer de toute pièce. 
 C'est le rôle du chef de projet, que l'on aura donc pris le soin de sélectionner en premier. 
 
