@@ -25,7 +25,7 @@ Je mets les exemples de code en Java, qui sont une interprétation des slides.
 En général, on voit les types comme des moyens de restreindre, d'apporter des contraintes. 
 Mais on peut aussi plutôt construire de façon positive l'espace des données possibles. 
 
-Par exemple, si on veut construire un type exprimant une liste non vide, on va avoir tendance naturellement mettre un champ de type `List` et vérifier dans le constructeur si la liste a une taille supérieure à 0. 
+Par exemple, si on veut construire un type exprimant une liste non vide, on va avoir tendance naturellement à créer un type avec un champ de type `List` et vérifier dans le constructeur si la liste a une taille supérieure à 0. 
 
 ```java
 record NonEmptyList<T>(List<T> items) {
@@ -46,7 +46,7 @@ record NonEmptyList<T>(T head, List<T> tail) {}
 Là on est détendu, pas de piège possible. 
 **Il n'y a pas de chemin, aucun, qui permette de construire une valeur fausse.** 
 
-A noter : en implémentant un record `NonEmptyList` plutôt que d'utiliser `List` on gagne sur la vérification de l'invariant, mais on perd l'accès aux méthodes de `List` (size, add, get, etc). Il faudra ajouter des méthodes qui délèguent au besoin. C'est un choix, un compromis, souvent plus intéressant. 
+A noter : en implémentant un record `NonEmptyList` plutôt que d'utiliser `List` on gagne sur la vérification de l'invariant, mais on perd l'accès aux méthodes de `List` (size, add, get, etc). Il faudra ajouter des méthodes qui délèguent au besoin. C'est un choix, un compromis, souvent intéressant. 
 
 Autre exemple : on a un utilisateur, qui a des infos de contact comme un email ou un numéro de téléphone. L'utilisateur peut avoir soit un email, soit un numéro de téléphone, soit les deux mais ne peut pas en avoir aucun des deux. Pour modéliser ça, ce que l'on ferait en général : 
 ```java
@@ -90,7 +90,7 @@ sealed interface UserContact
 }
 ```
 Ici rien n'empêche d'écrire `new User(1, Optional.empty(), false)`. 
-Ça va planter si on écrit une règle avec un if et un throw, mais en tout cas le client peut écrire le code qui amène au plantage. 
+Certes, ça va planter si on écrit une règle avec un if et un throw, mais le client peut écrire le code qui amène au plantage. Il faut un test pour s'en rendre compte, ça plante à l'exécution. 
 Ci-dessous, on ne peut qu'écrire un code valide : 
 ```java
 record User(int id, UserContact contact) {}
@@ -119,8 +119,7 @@ record TimeRange(Instant start, Duration duration) {}
 ```
 Note : dans la première représentation, le `if` n'a de sens que si on accède ensuite à la durée, en faisant `end - start`. Si on n'y accède jamais, le contrôle n'est pas nécessaire et la représentation est ok. 
 
-Et selon elle, pourquoi est surtout fait un système de type ? 
-Elle retient surtout que c'est pour **pouvoir suivre tous les cas qu'elle doit gérer sans peine, suivre les obligations** (_obligation propagation machine_).
+Pour Alexis King, un système de type c'est pour **pouvoir suivre tous les cas qu'elle doit gérer sans peine, suivre les obligations** (_obligation propagation machine_).
 Il permet de relier les endroits où on construit les valeurs avec les endroits où on va les utiliser. Par exemple, avec du pattern matching, on va être bloqué par le compilateur si on ajoute un type qui n'a pas été géré. Et les usages peuvent être très éloignés dans le code de la création. 
 
 Mais attention à ne pas construire un type plus complexe que nécessaire. On prend la représentation la plus simple qui permet d'éviter d'ajouter des ifs ou de lancer des exceptions. 
