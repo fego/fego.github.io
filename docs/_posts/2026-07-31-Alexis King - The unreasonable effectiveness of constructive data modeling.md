@@ -12,12 +12,12 @@ Ce n'est pas complet sur tous les points, mais ça couvre une bonne partie de la
 Vous pouvez consulter les slides [ici](https://github.com/lexi-lambda/talks/blob/master/2026-07%20constructive%20data%20modeling/slides.pdf). 
 
 Tout d'abord, pour savoir si ce talk s'applique au langage que vous utilisez, il faut qu'il ait les caractéristiques suivantes : 
-* une certaine forme de type produit. Donc, en Java des records. 
-* une certaine forme de type sum. Donc en Java, des sealed interfaces. 
+* une certaine forme de type produit. En Java des records. 
+* une certaine forme de type sum. En Java, des sealed interfaces. 
 * et aussi du pattern matching exhaustif (avec validation de la présence de toutes les variantes par le compilateur)
 
-Si on a un langage qui supporte ces concepts, c'est bon, on peut faire ce qu'elle propose. 
-Donc en Java, c'est depuis la version 21. 
+Si on a un langage qui supporte ces concepts, on peut faire ce qu'elle propose. 
+En Java, c'est donc possible depuis la version 21. 
 
 Je mets les exemples de code en Java, qui sont une interprétation des slides. 
 
@@ -25,7 +25,7 @@ Je mets les exemples de code en Java, qui sont une interprétation des slides.
 En général, on voit les types comme des moyens de restreindre, d'apporter des contraintes. 
 Mais on peut aussi plutôt construire de façon positive l'espace des données possibles. 
 
-Par exemple, si on veut construire un type exprimant une liste non vide, on va avoir tendance naturellement à passer une liste en argument et vérifier si la liste a une taille supérieure à 0. 
+Par exemple, si on veut construire un type exprimant une liste non vide, on va avoir tendance naturellement mettre un champ de type `List` et vérifier dans le constructeur si la liste a une taille supérieure à 0. 
 
 ```java
 record NonEmptyList<T>(List<T> items) {
