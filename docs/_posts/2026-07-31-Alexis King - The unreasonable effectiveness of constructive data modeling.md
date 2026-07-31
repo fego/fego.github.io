@@ -13,7 +13,7 @@ Vous pouvez consulter les slides [ici](https://github.com/lexi-lambda/talks/blob
 
 Tout d'abord, pour savoir si ce talk s'applique au langage que vous utilisez, il faut qu'il ait les caractéristiques suivantes : 
 * une certaine forme de type produit. En Java des records. 
-* une certaine forme de type sum. En Java, des sealed interfaces. 
+* une certaine forme de type somme. En Java, des sealed interfaces. 
 * et aussi du pattern matching exhaustif (avec validation de la présence de toutes les variantes par le compilateur)
 
 Si on a un langage qui supporte ces concepts, on peut faire ce qu'elle propose. 
@@ -35,8 +35,9 @@ record NonEmptyList<T>(List<T> items) {
 }
 ```
 **Mais il reste des chemins pour casser l'invariant** ! 
-Une lib comme Jackson pourrait passer par la réflexion et valoriser directement la liste, et donc contourner l'invariant. 
+Une lib pourrait passer par la réflexion et valoriser directement la liste, et donc contourner l'invariant. 
 Aussi, si on passe une liste mutable, et que cette liste est vidée ailleurs dans le code après la construction, l'invariant n'est pas revalidé, et l'état devient invalide. 
+La garantie de l'invariant passe donc par une vigilance/discipline humaine. 
 
 L'alternative qu'elle propose, c'est de créer un type de deux champs : le premier élément de la liste, suivi d'une liste avec le reste. On sait qu'il y a au moins un élément et peut-être d'autres. 
 
@@ -45,10 +46,11 @@ record NonEmptyList<T>(T head, List<T> tail) {}
 ```
 Là on est détendu, pas de piège possible. 
 **Il n'y a pas de chemin, aucun, qui permette de construire une valeur fausse.** 
+La garantie est structurelle. 
 
 A noter : en implémentant un record `NonEmptyList` plutôt que d'utiliser `List` on gagne sur la vérification de l'invariant, mais on perd l'accès aux méthodes de `List` (size, add, get, etc). Il faudra ajouter des méthodes qui délèguent au besoin. C'est un choix, un compromis, souvent intéressant. 
 
-Autre exemple : on a un utilisateur, qui a des infos de contact comme un email ou un numéro de téléphone. L'utilisateur peut avoir soit un email, soit un numéro de téléphone, soit les deux mais ne peut pas en avoir aucun des deux. Pour modéliser ça, ce que l'on ferait en général : 
+Autre exemple : on a un utilisateur, qui a des infos de contact comme un email ou un numéro de téléphone. L'utilisateur peut avoir soit un email, soit un numéro de téléphone, soit les deux, mais ne peut en avoir aucun des deux. Pour modéliser ça, ce que l'on ferait en général : 
 ```java
 record User(
     int id,
@@ -117,9 +119,10 @@ Mais on peut en fait le représenter comme cela :
 ```java
 record TimeRange(Instant start, Duration duration) {}
 ```
-Note : dans la première représentation, le `if` n'a de sens que si on accède ensuite à la durée, en faisant `end - start`. Si on n'y accède jamais, le contrôle n'est pas nécessaire et la représentation est ok. 
+Note : dans la première représentation, le `if` n'a de sens que si on accède ensuite à la durée, en faisant `end - start`. Si on n'y accède jamais, le contrôle n'est pas nécessaire et la représentation est ok.  
+Aussi, en Java `Duration` peut être négatif. Donc il faudrait plutôt un type `PositiveDuration`. 
 
-Pour Alexis King, un système de type c'est pour **pouvoir suivre tous les cas qu'elle doit gérer sans peine, suivre les obligations** (_obligation propagation machine_).
+Pour Alexis King, un système de types c'est pour **pouvoir suivre tous les cas qu'elle doit gérer sans peine, suivre les obligations** (_obligation propagation machine_).
 Il permet de relier les endroits où on construit les valeurs avec les endroits où on va les utiliser. Par exemple, avec du pattern matching, on va être bloqué par le compilateur si on ajoute un type qui n'a pas été géré. Et les usages peuvent être très éloignés dans le code de la création. 
 
 Mais attention à ne pas construire un type plus complexe que nécessaire. On prend la représentation la plus simple qui permet d'éviter d'ajouter des ifs ou de lancer des exceptions. 
@@ -155,7 +158,7 @@ Par exemple si dans une signature on accepte un paramètre nullable, ou un `Opti
 Alors qu'il faut peut-être que ce soit l'appelant qui ait cette responsabilité. 
 
 Typer correctement, ça ne veut pas dire surtyper donc. 
-Par exemple, dans certains cas, elle met juste une chaîne pour typer une adresse mail qu'elle va ensuite passer à son service qui envoie les e-mails. Dans son cas mettre un type `EmailAddress` ça ne vaut pas le coût, car à aucun moment elle n'a besoin de vérifier la validité (pas de if / throw). Elle a probablement une adresse issue d'une source qui garantit la validité (ou peut-être que même si l'adresse était ko, cela ne changerait rien à son métier). 
+Par exemple, dans certains cas, elle met juste une chaîne pour typer une adresse mail qu'elle va ensuite passer à son service qui envoie les e-mails. Dans son cas mettre un type `EmailAddress` ça ne vaut pas le coup, car à aucun moment elle n'a besoin de vérifier la validité (pas de if / throw). Elle a probablement une adresse issue d'une source qui garantit la validité (ou peut-être que même si l'adresse était ko, cela ne changerait rien à son métier). 
 
 Et une dernière chose. 
 Un type n'a pas forcément qu'une seule interprétation. Si on a une liste avec des paires dans sa représentation, on peut très bien fournir les éléments un par un aux clients. On découple la représentation de l'interprétation. 
