@@ -122,7 +122,8 @@ record TimeRange(Instant start, Duration duration) {}
 Note : dans la première représentation, le `if` n'a de sens que si on accède ensuite à la durée, en faisant `end - start`. Si on n'y accède jamais, le contrôle n'est pas nécessaire et la représentation est ok.  
 Aussi, en Java `Duration` peut être négatif. Donc il faudrait plutôt un type `PositiveDuration`. 
 
-Pour Alexis King, un système de types c'est pour **pouvoir suivre tous les cas qu'elle doit gérer sans peine, suivre les obligations** (_obligation propagation machine_).
+## Obligation propagation machine
+Pour Alexis King, un système de types c'est surtout pour **pouvoir suivre tous les cas qu'elle doit gérer sans peine, suivre les obligations** (_obligation propagation machine_, machine à propagation d'obligation).
 Il permet de relier les endroits où on construit les valeurs avec les endroits où on va les utiliser. Par exemple, avec du pattern matching, on va être bloqué par le compilateur si on ajoute un type qui n'a pas été géré. Et les usages peuvent être très éloignés dans le code de la création. 
 
 Mais attention à ne pas construire un type plus complexe que nécessaire. On prend la représentation la plus simple qui permet d'éviter d'ajouter des ifs ou de lancer des exceptions. 
