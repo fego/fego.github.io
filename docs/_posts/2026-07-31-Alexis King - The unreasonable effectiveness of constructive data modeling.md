@@ -34,17 +34,14 @@ record NonEmptyList<T>(List<T> items) {
   }
 }
 ```
-**Mais il reste des chemins pour casser l'invariant** ! 
-Une lib pourrait passer par la réflexion et valoriser directement la liste, et donc contourner l'invariant. 
-Aussi, si on passe une liste mutable, et que cette liste est vidée ailleurs dans le code après la construction, l'invariant n'est pas revalidé, et l'état devient invalide. 
-La garantie de l'invariant passe donc par une vigilance/discipline humaine. 
+Donc il faut gérer l'exception dans le client. 
+Et rien n'empêche d'écrire `new NonEmptyList(new ArrayList())`. 
 
 L'alternative qu'elle propose, c'est de créer un type de deux champs : le premier élément de la liste, suivi d'une liste avec le reste. On sait qu'il y a au moins un élément et peut-être d'autres. 
 
 ```java
 record NonEmptyList<T>(T head, List<T> tail) {}
 ```
-Là on est détendu, pas de piège possible. 
 **Il n'y a pas de chemin, aucun, qui permette de construire une valeur fausse.** 
 La garantie est structurelle. 
 
@@ -56,8 +53,9 @@ record User(
     int id,
     Optional<EmailAddress> email,
     Optional<PhoneNumber> phone
-) {}
+) {
 // avec un contrôle dans le constructeur de l'invariant
+}
 ```
 
 Ce que l'on peut faire plutôt: 
@@ -92,7 +90,7 @@ sealed interface UserContact
 }
 ```
 Ici rien n'empêche d'écrire `new User(1, Optional.empty(), false)`. 
-Certes, ça va planter si on écrit une règle avec un if et un throw, mais le client peut écrire le code qui amène au plantage. Il faut un test pour s'en rendre compte, ça plante à l'exécution. 
+Certes, ça va planter si on écrit une règle avec un if et un throw, mais rien n'empêche d'écrire le code qui amènera au plantage à l'exécution. 
 Ci-dessous, on ne peut qu'écrire un code valide : 
 ```java
 record User(int id, UserContact contact) {}
@@ -120,7 +118,7 @@ Mais on peut en fait le représenter comme cela :
 record TimeRange(Instant start, Duration duration) {}
 ```
 Note : dans la première représentation, le `if` n'a de sens que si on accède ensuite à la durée, en faisant `end - start`. Si on n'y accède jamais, le contrôle n'est pas nécessaire et la représentation est ok.  
-Aussi, en Java `Duration` peut être négatif. Donc il faudrait plutôt un type `PositiveDuration`. 
+_La traduction de l'exemple en Java pose problème car `Duration` peut être négatif. Donc il faudrait plutôt un type `PositiveDuration`._
 
 ## Obligation propagation machine
 Pour Alexis King, un système de types c'est surtout pour **pouvoir suivre tous les cas qu'elle doit gérer sans peine, suivre les obligations** (_obligation propagation machine_, machine à propagation d'obligation).
