@@ -160,6 +160,3 @@ Alors qu'il faut peut-être que ce soit l'appelant qui ait cette responsabilité
 
 Typer correctement, ça ne veut pas dire surtyper donc. 
 Par exemple, dans certains cas, elle met juste une chaîne pour typer une adresse mail qu'elle va ensuite passer à son service qui envoie les e-mails. Dans son cas mettre un type `EmailAddress` ça ne vaut pas le coup, car à aucun moment elle n'a besoin de vérifier la validité (pas de if / throw). Elle a probablement une adresse issue d'une source qui garantit la validité (ou peut-être que même si l'adresse était ko, cela ne changerait rien à son métier). 
-
-Et une dernière chose. 
-Un type n'a pas forcément qu'une seule interprétation. Si on a une liste avec des paires dans sa représentation, on peut très bien fournir les éléments un par un aux clients. On découple la représentation de l'interprétation. 
