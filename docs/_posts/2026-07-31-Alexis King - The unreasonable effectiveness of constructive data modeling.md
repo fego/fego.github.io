@@ -12,12 +12,12 @@ Ce n'est pas complet sur tous les points, mais ça couvre une bonne partie de la
 Vous pouvez consulter les slides [ici](https://github.com/lexi-lambda/talks/blob/master/2026-07%20constructive%20data%20modeling/slides.pdf). 
 
 Tout d'abord, pour savoir si ce talk s'applique au langage que vous utilisez, il faut qu'il ait les caractéristiques suivantes : 
-* une certaine forme de type produit. En Java des records. 
-* une certaine forme de type somme. En Java, des sealed interfaces. 
+* une certaine forme de type produit. 
+* une certaine forme de type somme. 
 * et aussi du pattern matching exhaustif (avec validation de la présence de toutes les variantes par le compilateur)
 
 Si on a un langage qui supporte ces concepts, on peut faire ce qu'elle propose. 
-En Java, c'est donc possible depuis la version 21. 
+En Java, c'est donc possible depuis la version 21, avec les `record` (immuables, destructurables en pattern matching) et les interfaces `sealed`. 
 
 Je mets les exemples de code en Java, qui sont une interprétation des slides. 
 
